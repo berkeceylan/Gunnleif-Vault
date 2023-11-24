@@ -1,0 +1,274 @@
+{
+  "main": {
+    "id": "e63410fb7196c955",
+    "type": "split",
+    "children": [
+      {
+        "id": "3369c0ca04f58f23",
+        "type": "tabs",
+        "dimension": 69.54314720812182,
+        "children": [
+          {
+            "id": "f43d34b33f3384d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "401/CS411/Stream Cipher.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6750808a1f472934",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "401/CS411/Stream Cipher.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "5d3777fca2a0a084"
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "9f4cd714653d7418",
+        "type": "tabs",
+        "dimension": 30.456852791878177,
+        "children": [
+          {
+            "id": "65e02f52fa6316b1",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "401/CS411/Stream Cipher.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6666666666666666,
+                  "close": true
+                }
+              }
+            },
+            "group": "5d3777fca2a0a084"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "32e3a78bf46069eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6fd4891e535b44a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50c5009fd0526b76",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ce707728c436c143",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f4ba1819e2ca403e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5a74fdc51ff72190",
+    "type": "split",
+    "children": [
+      {
+        "id": "85e1d6d189b24a14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c09954db4b772ebe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "401/CS411/Stream Cipher.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4333f231a602d07b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "401/CS411/Stream Cipher.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "31b19bdbb7270cc6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "584610a1889255cb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "401/CS411/Stream Cipher.md"
+              }
+            }
+          },
+          {
+            "id": "178f71dbfe77d363",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "98fab674aeae13e4",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "6750808a1f472934",
+  "lastOpenFiles": [
+    "401/CS411/Synchronous Stream Ciphers.md",
+    "401/CS411/Block Cipher.md",
+    "401/CS411/GF.md",
+    "401/CS411/Stream Cipher.md",
+    "401/CS411/00-Start Here.md",
+    "401/CS411/Cryptography.md",
+    "401/CS411/Classical Ciphers.md",
+    "401/CS411/LFSR.md",
+    "401/CS411/Asynchronous Stream Ciphers.md",
+    "Attachments/asyncStreamCipher.png",
+    "Attachments/syncStreamCipher.png",
+    "401/CS411/Linear Complexity.md",
+    "401/CS411/Finite Fields.md",
+    "401/CS411/Primitive Polynomials.md",
+    "401/CS411/Subgroup.md",
+    "401/CS411/Primitive (Root) Elements.md",
+    "401/CS411/Group.md",
+    "401/CS411/Euler’s Theorem.md",
+    "401/CS411/Gaus Algorithm.md",
+    "401/CS411/Modular Exponentiation.md",
+    "401/CS411/Fermat’s Little Theorem.md",
+    "Attachments/modularExpo.png",
+    "401/CS411/Prime Numbers.md",
+    "401/CS411/GCD.md",
+    "401/CS411/CRT.md",
+    "401/CS411/Congruence Classes.md",
+    "401/CS411/Euclidean Algorithm.md",
+    "Attachments/EuclidianAlgorithm.png",
+    "401/CS411/Vigenere Cipher.md",
+    "401/CS411/Affine Cipher.md",
+    "Attachments/Gaus3.png",
+    "Attachments/Gaus2.png",
+    "Attachments/Gaus1.png",
+    "Attachments/LSFR.png",
+    "Attachments/LSFR2.png",
+    "Attachments/LSFR4.png",
+    "401/CS411/Untitled",
+    "Users/berkeceylan/Pictures",
+    "Users/berkeceylan",
+    "Users",
+    "Attachments",
+    "401/MATH306",
+    "401/CS302",
+    "401/FIN406",
+    "401/CS411",
+    "401/CS408"
+  ]
+}
