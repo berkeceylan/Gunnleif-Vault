@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "401/CS411/Cryptographic Hash Functions.md",
+                "file": "401/CS411/Merkle-Damgard Construction.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "401/CS411/Cryptographic Hash Functions.md",
+                "file": "401/CS411/Merkle-Damgard Construction.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "401/CS411/Cryptographic Hash Functions.md",
+                "file": "401/CS411/Merkle-Damgard Construction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "401/CS411/Cryptographic Hash Functions.md",
+                "file": "401/CS411/Merkle-Damgard Construction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "401/CS411/Cryptographic Hash Functions.md"
+                "file": "401/CS411/Merkle-Damgard Construction.md"
               }
             }
           },
@@ -211,15 +211,16 @@
   },
   "active": "f43d34b33f3384d8",
   "lastOpenFiles": [
-    "401/CS411/CS411 - Week 2.md",
+    "401/CS411/MD5.md",
     "401/CS411/Cryptographic Hash Functions.md",
     "401/CS411/MAC.md",
-    "401/CS411/00-Start Here.md",
     "401/CS411/AEAD.md",
     "401/CS411/Dictionary Attack.md",
     "401/CS411/Rainbow Crack.md",
-    "401/CS411/Birthday Attack.md",
     "401/CS411/Merkle Hash Tree.md",
+    "401/CS411/Birthday Attack.md",
+    "401/CS411/CS411 - Week 2.md",
+    "401/CS411/00-Start Here.md",
     "401/CS411/Cryptography.md",
     "401/CS411/OFB.md",
     "401/CS411/Block Cipher.md",
@@ -236,7 +237,6 @@
     "401/CS411/2DES.md",
     "401/CS411/Meet-in-the-middle Attack.md",
     "401/CS411/DES.md",
-    "401/CS411/Feistel Network.md",
     "Attachments/asyncStreamCipher.png",
     "Attachments/syncStreamCipher.png",
     "Attachments/modularExpo.png",
