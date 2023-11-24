@@ -13,7 +13,7 @@
 ### Properties:
 - **Fixed Output Sizes**: 
 	- SHA-2 hash functions produce hashes of different lengths: 224, 256, 384, or 512 bits.
-**Fast Computation**: 
+- **Fast Computation**: 
 	- It is designed to be quick and efficient in generating the hash for any size of data.
 - **Deterministic**: 
 	- The same input will always yield the same output hash.

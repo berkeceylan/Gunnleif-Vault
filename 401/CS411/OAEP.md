@@ -1,4 +1,4 @@
-## Optimal Asymmetric Encryption Padding (OAEP)
+s## Optimal Asymmetric Encryption Padding (OAEP)
 ### Definition:
 - OAEP is a padding scheme used in the encryption process
 - Mostly used with [[RSA]]

@@ -1,8 +1,9 @@
 ## Public Key Cryptography (PKC) 
 
 ### Definition
-- Solves the problem of secret key distribution and management
+- Solves the problem of secret key distribution and management in [[Cryptography]]
 - Proposed by Diffie/Hellman in 1976
+- Its a  [[Asymmetric Key Cipher]]
 - **Examples:**
     - [[RSA]]
     - DL
@@ -19,7 +20,7 @@
 		 - Sender encrypts the message by the public key of the receiver 
 	- Decryption
 		- Only the receiver can decrypt the message by her/his private key 
-- Based on mathematical problem -> Computational unfeasibility 
+- Based on mathematical problem -> Computational infeasibility 
 - Much slower than [[Symmetric Key Cipher]]
 ### Applications:
 - **Encryption/Decryption**: 

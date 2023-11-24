@@ -4,11 +4,13 @@ This is a navigation page for CS411 Cryptography Lesson
 	-  [[Cryptography]]
 	-  [[Kerchkoff's Principle]]
 	- [[Semantic Security]]
-	-  [[Attack Methods]] of Cryptography
+	- [[Diffusion & Confusion]]
+	- [[Attack Methods]] of Cryptography
 	- [[PseudoRandom]] & [[True Random]]
 		- [[FIPS]]
 	-  [[Symmetric Key Cipher]] (Algorithms)
 	- [[Asymmetric Key Cipher]] (Algorithms)
+		- [[One-Time Pad]]
 	- [[Substitution Cipher]]
 - [[Classical Ciphers]]  
 	- [[Caesar Cipher]]
@@ -39,6 +41,7 @@ This is a navigation page for CS411 Cryptography Lesson
 - [[Block Cipher]]
 	- [[Hill Cipher]]
 	- [[DES]] 
+		- [[Feistel Network]]
 		- [[2DES]]
 		- [[3DES]]
 	- [[AES]] 
@@ -50,19 +53,26 @@ This is a navigation page for CS411 Cryptography Lesson
 		- Output Feedback([[OFB]])
 		- Counter([[CNT]])
 - [[Cryptographic Hash Functions]]
-	- [[MD5]]
-	- [[SHA-1]]
-	- [[SHA-2]]
+	- [[Merkle-Damgard Construction]] 
+		- [[MD5]]
+		- [[SHA-1]]
+			- [[Meet-in-the-middle Attack]]
+		- [[SHA-2]]
 	- [[SHA-3]]
+		- Keccak Algortihm & Sponge
 	- [[Birthday Attack]] 
 	-  [[Merkle Hash Tree]]
 	- [[Dictionary Attack]]
 		- [[Rainbow Crack]]
 	- [[MAC]]
+		- [[Authentication with Encryption]]
 		- [[AEAD]]
 - Public Key Crypto-systems ([[PKC]])
 	- [[Ring]]
 	- [[RSA]]
+		- [[Miller-Rabin Algorithm]]
+		- [[Distribution of Primes]]
+		- [[Modular Exponentiation]]
 	- Discrete Logarithm Based Crypto-systems  
 	- Elliptic Curve Cryptography  
 	- Post Quantum Cryptography 

@@ -9,6 +9,7 @@
 - Each user has public and private key pair
 - Keys are generated based on the product of two large prime numbers
 - The operation based on [[Fermat’s Little Theorem]] and [[Euler’s Theorem]]
+- provides non-repudiation in digital signatures
 - Public Key: $(e , n)$
 - Private Key: $(d,p,q)$
 ### Operation:
@@ -16,10 +17,10 @@
 	1. Choose two large primes p and q
 		- We use  [[Miller-Rabin Algorithm]] for primality testing
 		- While we do primality test we need to pay attention to [[Distribution of Primes]]
-	1. Compute $n = p \times q$
-	2. Compute $\phi(n) = (p-1) \times (q-1)$
-	3. Choose a random integer, $0 < e < \phi(n)$ with $gcd(e,\phi(n)) = 1$
-	4. Compute the inverse $d = e^{-1} \mod \phi(n)$  i.e.  $e \times d = \mod \phi(n)$
+	2. Compute $n = p \times q$
+	3. Compute $\phi(n) = (p-1) \times (q-1)$
+	4. Choose a random integer, $0 < e < \phi(n)$ with $gcd(e,\phi(n)) = 1$
+	5. Compute the inverse $d = e^{-1} \mod \phi(n)$  i.e.  $e \times d = 1 \mod \phi(n)$
 	- Then we get:
 		- Public Key: $(e , n)$
 		- Private Key: $(d,p,q)$
