@@ -50,6 +50,16 @@ This is a navigation page for CS411 Cryptography Lesson
 		- Output Feedback([[OFB]])
 		- Counter([[CNT]])
 - [[Cryptographic Hash Functions]]
+	- [[MD5]]
+	- [[SHA-1]]
+	- [[SHA-2]]
+	- [[SHA-3]]
+	- [[Birthday Attack]] 
+	-  [[Merkle Hash Tree]]
+	- [[Dictionary Attack]]
+		- [[Rainbow Crack]]
+	- [[MAC]]
+		- [[AEAD]]
 - Public Key Crypto-systems ([[PKC]])
 	- [[Ring]]
 	- [[RSA]]

@@ -16,3 +16,13 @@
 - Output Feedback([[OFB]])
 	-  Stream cipher mode
 - Counter([[CNT]])
+### Comparison Summary:
+| Mode        | Type          | Dependency     | Sync           | Parallelization | Error Propagation | 
+|-------------|---------------|----------------|----------------|-----------------|-------------------|
+| ECB         | Block         | Independent    | Not Applicable | Yes             | No                | 
+| CBC         | Block         | Dependent      | Self-Sync      | Decryption only | Yes               | 
+| CFB         | Stream        | Dependent      | Self-Sync      | No              | Limited           |
+| OFB         | Stream        | Independent    | Not Applicable | Yes              | No                | |
+| CNT         | Stream        | Independent    | Not Applicable | Yes             | No                | 
+
+

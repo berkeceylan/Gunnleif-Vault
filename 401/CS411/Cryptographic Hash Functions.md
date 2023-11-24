@@ -4,7 +4,7 @@
 	- Inverting a hash function should be computably infeasible
 - Produces a fixed-length output = hash (hash code, message digest or hash value)
 	- $h = H(M)$
-- Used widely in authentication and digital signature creation
+- Used widely in authentication and digital signature creation in [[Cryptography]]
 - **Examples:**
 	- [[MD5]]
 	- [[SHA-1]]
