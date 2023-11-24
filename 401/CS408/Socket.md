@@ -1,0 +1,1 @@
+- For more detailed information about [Sockets](https://www.geeksforgeeks.org/socket-in-computer-network/)

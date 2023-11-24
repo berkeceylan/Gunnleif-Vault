@@ -1,0 +1,94 @@
+## HTTP (Hypertext Transfer Protocol)
+
+### Definition:
+- HTTP is the foundational protocol for the World Wide Web(WWW), designed to enable communications between web browsers and servers.
+- HTTP operates at the [[Application Layer]].
+### Properties:
+- Uses [[TCP/IP]] connection on port 80
+- Can transfer any type of files:
+	- plain text
+	- audio
+	- images
+-  **Client-Server Model**: 
+	- Operates on a request-response model 
+	- Client initiates a request and the server responds
+	- Not session based
+- **Stateless Protocol**: 
+	- Each request from a client to server is treated as an independent transaction
+	- It does not keep any previous memory
+	- For each transfer new [[TCP/IP]] connection established
+		- In one TCP connection single or multiple object can be send
+	- Terminates automatically after transfer of data finished
+- **Types of HTTP Connections:**
+	- Non-persistent HTTP:
+		- Only one object is sent over single TCP connection
+		- (HTTP/1.0) only use this
+		- Total time for transfer = 2 RTT + $T_{Trans}$ 
+		- Parallel connection is possible
+	- Persistent HTTP: 
+		- Multiple objects can be sent over single TCP connection
+		- Server leaves TCP connection open after request to make possible the sent subsequent  HTTP messages between client and server.
+		- (HTTP/1.1) use both Non-persistent and persistent connections
+		- With Pipeline:
+			- Default in HTTP 1.1
+			- Client sends requests  without waiting response 
+			- It includes only one RTT for all the pipelined requests, plus the processing time for each individual request
+		- Without Pipeline:
+			- Client issues new request only when previous response has been received
+			- It includes one RTT for each response/request , plus the processing time for each individual request
+- **Cookies:**
+	- Keep the past info in HTTP
+	- Cookie header line is in HTTP header response -> backaend database store
+	- Usage:
+		- Identification
+		- User session state
+		- Customization
+		- Shopping carts
+	- Cookies may bring some privacy issues
+### How It Works:
+- **Requests:**
+	- Client to server
+	- Client opens a TCP connection by using port 80 to server
+	- Use request Line: `Method <SP> Request_URL <SP> HTTP/Version <CRLF>` 
+- **Responses:**
+	- Server to client
+	- Use Status Line: `HTTP-Version <SP> Status-Code <SP> Reason-Phrase`
+- **Message Structure:**
+ ![[HTTP message.png]]
+	 - General Header Fields:
+		 - can be used for both request and response
+		 - Contain information that is not directly related to be transferd
+			 - directives to intermediates nodes
+			 - connection management
+			 - Example: Keep-alive
+				 - keep TCP connection open for a wile (for persistent connection)
+	 - Request/Response Header
+		 - Request Header: additional parameters about request
+			 - Accept charset
+			 - Accept language
+			 - Host (identify the domain address)
+			 - If modified since (can be used with GET command)
+			 - Referrer (for advertisement referrals)
+		 - Response Header: additional parameters about response
+			 - Location (exact location of the requested URL)
+			 - Server (info about server software)
+	 - Entity Header:
+		 - Similar to [[MIME]] format
+		 - Examples: Content language, Content length, Content type, Last modified
+	 - Entity Body:
+		 - Transfer any data
+- **Methods**: 
+	- Request Line: `Method <SP> Request_URL <SP> HTTP/Version <CRLF>` 
+	- GET (to request data)
+	- POST (to submit data)
+	- PUT (to update data)
+		- idempotent -> calling several times end up the same result
+	- DELETE (to remove data)
+		- not idempotent -> each call has an effect
+- **Status Codes**: 
+	- Status Line: `HTTP-Version <SP> Status-Code <SP> Reason-Phrase`
+	- Provides responses with status codes to indicate the result of the request.
+	- 200 OK
+	- 404 Not found
+	- 405 Method not allowed
+	- 400 Bad request
