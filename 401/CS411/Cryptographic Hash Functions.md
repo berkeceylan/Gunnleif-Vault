@@ -26,11 +26,13 @@
 - **Collision Resistance**:
 	- **Weak Collision Resistance:**
 		- For a given hash output and a known input, it should be hard to find another input that results in the same hash.
+			- i.e. two input should not give the same hash value
 		- For any given message $x$, it is computationally infeasible to find $x \neq y$ such that $H(x) = H(y)$
 		- Difficulty of finding collision = $2^n$ trials
 			- To be secure it should be at least $2^{100}$
 	- **Strong Collision Resistance:**
 		- For any given hash function, it should be computationally infeasible to find any two distinct inputs that produce the same hash output.
+			- i.e. any different input cannot give the same hash valu
 		- It is computationally infeasible to find ==any== pair $(x,y)$ with $x \neq y$ such that $H(x) = H(y)$
 		- Difficulty of finding collision = $2^{n/2}$ trials
 			- To be secure it should be at least $2^{100}$
