@@ -1,4 +1,5 @@
-Used to attach [[2DES]] and [[3DES]] 
+Used to attack to [[2DES]] and [[3DES]] 
+It reduce the amount of iteration while we generating key pairs.
 **The Procedure:**
 	1. **Forward Computation**:
 	    - Choose a known plaintext and encrypt it with all possible values of $K_{1}$

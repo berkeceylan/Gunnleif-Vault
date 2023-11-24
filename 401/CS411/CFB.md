@@ -7,7 +7,7 @@
 - CFB mode converts a block cipher into a stream cipher, allowing it to operate on smaller units of plaintext.
 ### How It Works:
 - A block of the cipher's output is used as "feedback" to encrypt the next unit of plaintext, which can be smaller than the full block size.
-- Uses initilization vector(IV).
+- Uses initialization vector (IV).
 ![[CFB.png]]
 ### Properties:
  - Encryption of a block depends on the encryption of previous block.

@@ -15,7 +15,6 @@
 		- [Weak Keys of DES](https://en.wikipedia.org/wiki/Weak_key#:~:text=DES%20weak%20keys%20produce%20sixteen,%2B%20'E'%20(0xFEFEFEFEFEFEFEFE))
 	- There are 4 semi-weak keys
 		- $E_{k_{1}}(E_{k_{2}}(\text{plaintext})) = \text{plaintext}$
-- Block size increase -> security increase
 - Since block size is fixed and 64-bit blocks to encrypt larger data blocks we use [[Modes of Operations]]
 ### Operation: 
 - Involves permutation and substitution operations.

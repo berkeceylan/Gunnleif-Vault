@@ -26,6 +26,7 @@
 ### Importance and Usage:
 - **Pros**: 
 	- Provides good data confidentiality by obscuring patterns in plaintext.
+	- When it is combined with AES (i.e AES + CBC) is considered as semantically secured
 - **Cons**: 
 	- Encryption cannot be parallelized due to the chaining mechanism.
 - **Usage**: 

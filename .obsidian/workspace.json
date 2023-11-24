@@ -6,7 +6,7 @@
       {
         "id": "3369c0ca04f58f23",
         "type": "tabs",
-        "dimension": 69.54314720812182,
+        "dimension": 77.53807106598984,
         "children": [
           {
             "id": "f43d34b33f3384d8",
@@ -14,40 +14,39 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "401/CS411/Stream Cipher.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6750808a1f472934",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "401/CS411/Stream Cipher.md",
+                "file": "401/CS411/CNT.md",
                 "mode": "source",
                 "source": false
               }
             },
-            "group": "5d3777fca2a0a084"
+            "group": "3f180b44bbce0849"
+          },
+          {
+            "id": "9511fbcd4b473ead",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "401/CS411/CBC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "9f4cd714653d7418",
+        "id": "d2a888e580d90490",
         "type": "tabs",
-        "dimension": 30.456852791878177,
+        "dimension": 22.461928934010153,
         "children": [
           {
-            "id": "65e02f52fa6316b1",
+            "id": "bd27716dbc419dc0",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "401/CS411/Stream Cipher.md",
+                "file": "401/CS411/CNT.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -75,7 +74,7 @@
                 }
               }
             },
-            "group": "5d3777fca2a0a084"
+            "group": "3f180b44bbce0849"
           }
         ]
       }
@@ -143,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "401/CS411/Stream Cipher.md",
+                "file": "401/CS411/CNT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "401/CS411/Stream Cipher.md",
+                "file": "401/CS411/CNT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "401/CS411/Stream Cipher.md"
+                "file": "401/CS411/CNT.md"
               }
             }
           },
@@ -222,13 +221,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6750808a1f472934",
+  "active": "f43d34b33f3384d8",
   "lastOpenFiles": [
-    "401/CS411/Synchronous Stream Ciphers.md",
-    "401/CS411/Block Cipher.md",
-    "401/CS411/GF.md",
-    "401/CS411/Stream Cipher.md",
+    "401/CS411/Modes of Operations.md",
+    "401/CS411/CBC.md",
+    "401/CS411/CNT.md",
+    "401/CS411/OFB.md",
+    "401/CS411/CFB.md",
+    "401/CS411/AES.md",
+    "401/CS411/ECB.md",
     "401/CS411/00-Start Here.md",
+    "401/CS411/Semantic Security.md",
+    "401/CS411/Block Cipher.md",
+    "401/CS411/Primitive Polynomials.md",
+    "401/CS411/GF.md",
+    "401/CS411/3DES.md",
+    "401/CS411/2DES.md",
+    "401/CS411/Meet-in-the-middle Attack.md",
+    "401/CS411/DES.md",
+    "401/CS411/Feistel Network.md",
+    "401/CS411/Hill Cipher.md",
+    "401/CS411/Stream Cipher.md",
+    "401/CS411/Synchronous Stream Ciphers.md",
     "401/CS411/Cryptography.md",
     "401/CS411/Classical Ciphers.md",
     "401/CS411/LFSR.md",
@@ -237,23 +251,8 @@
     "Attachments/syncStreamCipher.png",
     "401/CS411/Linear Complexity.md",
     "401/CS411/Finite Fields.md",
-    "401/CS411/Primitive Polynomials.md",
-    "401/CS411/Subgroup.md",
-    "401/CS411/Primitive (Root) Elements.md",
-    "401/CS411/Group.md",
-    "401/CS411/Euler’s Theorem.md",
-    "401/CS411/Gaus Algorithm.md",
-    "401/CS411/Modular Exponentiation.md",
-    "401/CS411/Fermat’s Little Theorem.md",
     "Attachments/modularExpo.png",
-    "401/CS411/Prime Numbers.md",
-    "401/CS411/GCD.md",
-    "401/CS411/CRT.md",
-    "401/CS411/Congruence Classes.md",
-    "401/CS411/Euclidean Algorithm.md",
     "Attachments/EuclidianAlgorithm.png",
-    "401/CS411/Vigenere Cipher.md",
-    "401/CS411/Affine Cipher.md",
     "Attachments/Gaus3.png",
     "Attachments/Gaus2.png",
     "Attachments/Gaus1.png",

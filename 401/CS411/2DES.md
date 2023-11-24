@@ -4,7 +4,7 @@
 * Derived from the Data Encryption Standard ([[DES]]) block cipher
 * Double DES applies the DES algorithm twice, with two different keys = $K_{1}$ and $K_{2}$
 * Effective key length = 57 bits
-* If there are N keys the storage requirement is 2N
+* If there are N keys the storage requirement is 2N x block size (8 byte = 64 bit)
 ### Procedure:
 1. **Encryption**:
     - Take plaintext block -> encrypt it using the first DES key ($K_{1}$)

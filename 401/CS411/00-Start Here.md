@@ -3,6 +3,7 @@ This is a navigation page for CS411 Cryptography Lesson
 - Terminology of Concepts
 	-  [[Cryptography]]
 	-  [[Kerchkoff's Principle]]
+	- [[Semantic Security]]
 	-  [[Attack Methods]] of Cryptography
 	- [[PseudoRandom]] & [[True Random]]
 		- [[FIPS]]
@@ -38,9 +39,16 @@ This is a navigation page for CS411 Cryptography Lesson
 - [[Block Cipher]]
 	- [[Hill Cipher]]
 	- [[DES]] 
-		- [[3DES]]
 		- [[2DES]]
+		- [[3DES]]
 	- [[AES]] 
+	- [[Modes of Operations]]
+		- Electronic Codebook ([[ECB]])
+		- Cipher Block Chaining([[CBC]])
+		- Cipher Feedback([[CFB]])
+		- Stream cipher mode
+		- Output Feedback([[OFB]])
+		- Counter([[CNT]])
 - [[Cryptographic Hash Functions]]
 - Public Key Crypto-systems ([[PKC]])
 	- [[Ring]]
