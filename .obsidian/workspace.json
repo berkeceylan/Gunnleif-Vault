@@ -6,7 +6,6 @@
       {
         "id": "3369c0ca04f58f23",
         "type": "tabs",
-        "dimension": 74.93654822335026,
         "children": [
           {
             "id": "f43d34b33f3384d8",
@@ -14,51 +13,7 @@
             "state": {
               "type": "graph",
               "state": {}
-            },
-            "group": "3f180b44bbce0849"
-          }
-        ]
-      },
-      {
-        "id": "d2a888e580d90490",
-        "type": "tabs",
-        "dimension": 25.06345177664975,
-        "children": [
-          {
-            "id": "bd27716dbc419dc0",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "401/CS411/00-Start Here.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.4444444444444444,
-                  "close": true
-                }
-              }
-            },
-            "group": "3f180b44bbce0849"
+            }
           }
         ]
       }
@@ -203,7 +158,16 @@
   },
   "active": "f43d34b33f3384d8",
   "lastOpenFiles": [
+    "401/CS411/CBC.md",
+    "401/CS411/Euler’s Theorem.md",
+    "401/CS411/CFB.md",
+    "401/CS411/Modes of Operations.md",
     "401/CS411/00-Start Here.md",
+    "401/CS411/RSA.md",
+    "401/CS411/AEAD.md",
+    "401/CS411/AES.md",
+    "401/CS411/3DES.md",
+    "401/CS411/2DES.md",
     "401/CS411/Feistel Network.md",
     "401/CS411/OAEP.md",
     "401/CS411/DES.md",
@@ -211,7 +175,6 @@
     "401/CS411/Linear Complexity.md",
     "401/CS411/LFSR.md",
     "401/CS411/OFB.md",
-    "401/CS411/RSA.md",
     "401/CS411/Modular Exponentiation.md",
     "401/CS411/Distribution of Primes.md",
     "401/CS411/GCD.md",
@@ -221,14 +184,6 @@
     "401/CS411/Ring.md",
     "401/CS411/SHA-3.md",
     "401/CS411/SHA-2.md",
-    "401/CS411/Cryptographic Hash Functions.md",
-    "401/CS411/SHA-1.md",
-    "401/CS411/MD5.md",
-    "401/CS411/Merkle-Damgard Construction.md",
-    "401/CS411/MAC.md",
-    "401/CS411/AEAD.md",
-    "401/CS411/Dictionary Attack.md",
-    "401/CS411/Rainbow Crack.md",
     "Attachments/asyncStreamCipher.png",
     "Attachments/syncStreamCipher.png",
     "Attachments/modularExpo.png",

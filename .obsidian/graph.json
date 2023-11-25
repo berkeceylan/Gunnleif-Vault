@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "-path: \"00-Start here\"",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
