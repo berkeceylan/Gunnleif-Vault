@@ -26,10 +26,10 @@
 		- Private Key: $(d,p,q)$
 - **Encryption**:
 	- done by using public key
-	- $y = x^e \mod n, \text{ where } x < n$
+	- $\large y = x^e \mod n, \text{ where } x < n$
 - **Decryption**:
 	- done by using private key
-	- $x = y^d \mod n$
+	- $\large x = y^d \mod n$
 ### Security:
 - Brute force attack is practically impossible
 - Finding $\phi(n)$ difficult as factoring n
