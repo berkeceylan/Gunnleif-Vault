@@ -54,7 +54,7 @@
 	- Server to client
 	- Use Status Line: `HTTP-Version <SP> Status-Code <SP> Reason-Phrase`
 - **Message Structure:**
- ![](HTTP%20message.png)
+ ![](../../Attachments/HTTP%20message.png)
 	 - General Header Fields:
 		 - can be used for both request and response
 		 - Contain information that is not directly related to be transferd

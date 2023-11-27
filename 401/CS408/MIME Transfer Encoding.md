@@ -21,5 +21,5 @@
 			- The message in ASCII code must be multiple of 4
 			- \# of zeros / 2 =  \# of '=' needed to add ASCII type of encoded message 
 		- 33.33% overhead -> increases to 4/3 of the original size
-		- Example: ![Radix64](Radix64.png)
+		- Example: ![Radix64](../../Attachments/Radix64.png)
 		- 

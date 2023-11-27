@@ -28,7 +28,7 @@
 - **Key Schedule:** Generates 16 48-bit round keys from the initial 56-bit key.
 - Decryption and encryption functions are same
 	- but round keys are applied in reverse order
-	- ![](DESenc-dec.png)
+	- ![](../../Attachments/DESenc-dec.png)
 - Designed for hardware
 	- i.e. not efficient for software
 > DES is not a group, i.e. Multiple encryption $\neq$ single encryption 

@@ -7,6 +7,6 @@
 ### Euler Totient Function
 - Counts the positive integers up to a given integer n that are relatively prime to n.
 - shown as $\large \phi(n)$
--  ![](EulerTotient.png)
+-  ![](../../Attachments/EulerTotient.png)
 ### Usage in Cryptography:
 - Euler's theorem is used in the [RSA](RSA.md) encryption algorithm and in general for working with cyclic groups in cryptography.

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "401/CS408/Unguided Media.md",
+                "file": "401/CS411/GF.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "401/CS408/Unguided Media.md",
+                "file": "401/CS411/GF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "401/CS408/Unguided Media.md",
+                "file": "401/CS411/GF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "401/CS408/Unguided Media.md"
+                "file": "401/CS411/GF.md"
               }
             }
           },
@@ -165,16 +165,22 @@
   },
   "active": "cd721f1e399aed51",
   "lastOpenFiles": [
-    "401/CS408/Physical Layer.md",
-    "401/CS408/Unguided Media.md",
-    "401/CS408/Microwaves.md",
+    "Attachments/Pasted image 20231127115610.png",
+    "Attachments/16RoundDES.png",
+    "Attachments/Addressreq.png",
     "401/CS408/Coaxial Cable.md",
     "401/CS408/Application Layer.md",
+    "Attachments/Zones.png",
+    "401/CS408/Data Link Layer.md",
+    "401/CS408/Pasted image 20231127115237.png",
+    "401/CS408/Unguided Media.md",
+    "401/CS408/Physical Layer.md",
+    "401/CS408/Microwaves.md",
     "consistency-report.md",
     "401/CS411/CBC.md",
     "401/CS408/HTTP.md",
     "401/CS411/Modular Exponentiation.md",
-    "401/CS411/Attachments/BinaryLefttoRightalgortihm.png",
+    "Attachments/BinaryLefttoRightalgortihm.png",
     "Attachments/mermaid-diagram-2023-11-18-114935.png",
     "401/CS411/Euclidean Algorithm.md",
     "Attachments/Euler.png",
@@ -182,16 +188,13 @@
     "401/CS411/CRT.md",
     "Attachments/CRT.png",
     "Attachments/LSFR2.png",
-    "Attachments/FermatsLittle.png",
     "401/CS408/Stack.md",
-    "401/CS408/Attachments",
-    "401/CS411/Attachments",
+    "Attachments/Attachments",
+    "Attachments/Attachments 1",
     "401/CS408/Guided Media.md",
     "401/CS408/Twisted Pair.md",
     "401/CS408/UTP Categories.md",
-    "401/CS408/Data Link Layer.md",
     "401/CS408/Asynchronous Transmission.md",
-    "401/CS411/Attachments/16RoundDES.png",
     "401/CS408/Telnet.md",
     "401/CS408/Synchronous Transmission.md",
     "401/CS408/Socket.md",
@@ -200,9 +203,6 @@
     "401/CS408/Right-of-Way.md",
     "401/CS408/Remote Terminal Access.md",
     "401/CS408/Relaying.md",
-    "401/CS408/Option Negotiation.md",
-    "401/CS408/Attachments/asyncTransmission.png",
-    "401/CS408/Attachments/syncTransmission.png",
     "401/CS411/Untitled",
     "Users/berkeceylan/Pictures",
     "Users/berkeceylan",

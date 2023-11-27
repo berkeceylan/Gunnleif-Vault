@@ -59,4 +59,4 @@
 			- This randomization can be created via: 
 				- **Optimal Asymmetric Encryption Padding ([OAEP](OAEP.md))**
 					- Detailed information about [OAEP](https://en.wikipedia.org/wiki/Optimal_asymmetric_encryption_padding)
-				![](RSAOAEP.png)
+				![](../../Attachments/RSAOAEP.png)

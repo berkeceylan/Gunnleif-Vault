@@ -23,4 +23,4 @@
 	- Non-leaf nodes are created by hashing the concatenation of their children's hashes. This process is repeated up the tree.
 4. **Merkle Root**: 
 	- The root of the tree is a single hash that uniquely represents all of the data in the tree.
-![](MerkleHashTree.png)
+![](../../Attachments/MerkleHashTree.png)

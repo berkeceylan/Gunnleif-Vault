@@ -105,7 +105,7 @@ The process of determining which path to use , establishing that path, maintanin
         - Loss of a node looses all circuits trought that node (since uses same path)
         - Not a responsive to cognition
 
-![](Switching.png)
+![](../../Attachments/Switching.png)
 
 #### Total Delay
 

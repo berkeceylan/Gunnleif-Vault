@@ -9,6 +9,6 @@ s## Optimal Asymmetric Encryption Padding (OAEP)
 - Uses two rounds of [Feistel Network](Feistel%20Network.md) and [Cryptographic Hash Functions](Cryptographic%20Hash%20Functions.md) to create desired uniform randomization
 ### Operation:
 - **Encryption:**
-	![](OAEPencryption.png)
+	![](../../Attachments/OAEPencryption.png)
 - **Decryption:**
-	![](OAEPdecryption.png)
+	![](../../Attachments/OAEPdecryption.png)

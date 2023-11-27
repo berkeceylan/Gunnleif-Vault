@@ -13,7 +13,7 @@
 	- $C_i = E_K(P_i \oplus C_{i-1})$
 - Decryption:
 	- $P_i = D_k(C_i) \oplus C_{i-1}$
-![](CBC.png)
+![](../../Attachments/CBC.png)
 ### Properties:
 - Encryption of a block depends on the encryption of previous block.
 	- Good for [Diffusion & Confusion](Diffusion%20&%20Confusion.md)

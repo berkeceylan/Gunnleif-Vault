@@ -1,7 +1,7 @@
 ## Definition:
 - One of the solution to synchronization problem in [Physical Layer](Physical%20Layer.md)
 - Asynchronous transmission is characterized by its lack of need for a common clock signal and is suitable for intermittent data transfer
-![asyncTransmission](asyncTransmission.png)
+![asyncTransmission](../../Attachments/asyncTransmission.png)
 ### Properties:
 - **Data Transmission**: 
 	- Sends one character at a time, generally 7-8 bits per character.

@@ -19,7 +19,7 @@
 	- Large period
 	- Good statistical properties 
 	- Large linear complexity
-- ![](StreamCipher.png)
+- ![](../../Attachments/StreamCipher.png)
 ### Operation:
 - Encryption:
 	- $\large c_i = m_i \oplus k_i$

@@ -26,7 +26,7 @@ One of the types of Wireless Transmission in [Unguided Media](Unguided%20Media.m
 		- transponder = frequency channel
 	- May also Broadcast
 	- Requires geo-stationary orbit
-	![SatelliteMicrowave](SatelliteMicrowave.png)
+	![SatelliteMicrowave](../../Attachments/SatelliteMicrowave.png)
 	- **Applications:**
 		- Television
 		- Long distance telephone

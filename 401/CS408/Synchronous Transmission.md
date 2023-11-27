@@ -1,7 +1,7 @@
 ### Definition:
 - One of the solution to synchronization problem in [Physical Layer](Physical%20Layer.md)
 - Synchronous transmission is more efficient for continuous data streams, requiring a common clock signal for synchronization
-![syncTransmission](syncTransmission.png)
+![syncTransmission](../../Attachments/syncTransmission.png)
 ### Properties:
 - **Data Transmission**: 
 	- Involves sending a block of data without start or stop bits

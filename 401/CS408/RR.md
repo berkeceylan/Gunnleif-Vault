@@ -1,7 +1,7 @@
 ## Resource Record (RR)
 ### Definition:
 - Records in a [DNS](DNS.md) database
-	- Full Example: [DNSDatabaseExample](DNSDatabaseExample.png)
+	- Full Example: [DNSDatabaseExample](../../Attachments/DNSDatabaseExample.png)
 - Fields: `DomainName TTL Class Type Value`
 	- **Domain Name:** 
 		- Series of labels separated by (".")

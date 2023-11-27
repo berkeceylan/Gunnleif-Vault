@@ -10,7 +10,7 @@
 - The same process is used for decryption.
 -  Initial Vector (IV) used during xoring operation
 	- Should not used twice (nonce)
-![](CNT.png)
+![](../../Attachments/CNT.png)
 ### Properties:
 - Cipher text blocks can be decrypted independently
 	- Can be computed before encryption and decryption

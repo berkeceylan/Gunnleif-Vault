@@ -2,7 +2,7 @@
 - One of the types of [Guided Media](Guided%20Media.md)
 - Also known as Fiber Optic Cable
 - Detailed information about [Optical Cable](https://www.geeksforgeeks.org/fiber-optics-and-types/?ref=lbp)
-![OpticalFiber](OpticalFiber.png)
+![OpticalFiber](../../Attachments/OpticalFiber.png)
 ### Usage:
 - Long distance communication lines
 - Subscriber loops

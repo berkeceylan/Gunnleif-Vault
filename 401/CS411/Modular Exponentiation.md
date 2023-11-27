@@ -11,7 +11,7 @@
 			- initialise x = 1
 			- $x = x \times x\mod n$
 			- if $e_i = 1$ multiply x by 2
-		- [BinaryLefttoRightalgortihm.png](BinaryLefttoRightalgortihm.png)
-	- [BinaryRighttoLeftAlgorithm.png](BinaryRighttoLeftAlgorithm.png)
+		- [BinaryLefttoRightalgortihm.png](../../Attachments/BinaryLefttoRightalgortihm.png)
+	- [BinaryRighttoLeftAlgorithm.png](../../Attachments/BinaryRighttoLeftAlgorithm.png)
 ### Example:
-![](modularExpo.png)
+![](../../Attachments/modularExpo.png)

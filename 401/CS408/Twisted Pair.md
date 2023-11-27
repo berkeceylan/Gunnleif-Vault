@@ -2,7 +2,7 @@
 - One of the types of [Guided Media](Guided%20Media.md)
 - Common in local area networks([LAN](LAN.md)) and telephone systems.
 - Detailed information about [Twisted Pair Cables](https://www.geeksforgeeks.org/twisted-pair-cable/)
-![TwistedPair](TwistedPair.png)
+![TwistedPair](../../Attachments/TwistedPair.png)
 ### Types:
 - **Shielded Twisted Pair (STP)**:
 	- Metal braid or sheathing that reduces interference

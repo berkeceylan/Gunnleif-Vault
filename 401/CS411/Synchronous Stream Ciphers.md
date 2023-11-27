@@ -7,4 +7,4 @@
 	- Good for confusion
 - No error propagation.
 - Active attacks can easily be detected (i.e. insertion, deletion, replay)
-![](syncStreamCipher.png)
+![](../../Attachments/syncStreamCipher.png)

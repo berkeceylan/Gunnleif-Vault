@@ -30,7 +30,7 @@
 	- Permanent negative completion reply (5xx)
 - STMP service Extension: [ESMTP](ESMTP.md) --> [MIME](MIME.md)
 ### SMTP Mail Flow
-![SMTPMailFlow](SMTPMailFlow.png)
+![SMTPMailFlow](../../Attachments/SMTPMailFlow.png)
 ### SMTP Sender:
 - **Role**: Manages outgoing email messages.
 - **Queue Management**: Retrieves email messages queued for sending.

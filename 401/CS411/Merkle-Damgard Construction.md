@@ -22,6 +22,6 @@
 	- This process continues until all blocks are processed.
 4. **Final Output**: 
 	- The output of the final block processing step is the hash value of the entire message.
-![](MerkleDamgardConstruction.png)
+![](../../Attachments/MerkleDamgardConstruction.png)
 ### Current Status:
 The Merkle-Damgård construction has been fundamental in the design of cryptographic hash functions. However, as cryptography has evolved, newer designs have emerged to address its limitations, especially in the face of increasingly sophisticated cryptographic attacks.
