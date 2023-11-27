@@ -8,14 +8,14 @@
 	- Provide message authentication and confidentially in same time
 	- Authentication is tied to ciphertext
 	- Can be parallelized
-	![](../../Attachments/EtM.png)
+	![](Attachments/EtM.png)
 - **MAC-then-Encrypt(MtE)**:
 	- Provide message authentication and confidentially in same time
 	- Authentication is tied to ciphertext
 	- Cannot be parallelized
-	![](../../Attachments/MtE.png)
+	![](Attachments/MtE.png)
 - **Encrypt-and-MAC(E&M)**:
 	- Provide message authentication and confidentially in same time
 	- Authentication is tied to ciphertext
 	- Sender can parallel but Receiver can not parallel
-	![](../../Attachments/EandM.png)
+	![](Attachments/EandM.png)

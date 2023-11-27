@@ -27,13 +27,13 @@
 		- Labels at most = 63 char
 		- Full name at most = 255 char
 		- Case intensive
-		![DomainTree](../../Attachments/DomainTree.png)
+		![DomainTree](Attachments/DomainTree.png)
 - **DNS Database**: 
 	- Distributed, containing resource records ([RR](RR.md)s) for each domain.
 	- Organized into zones, each managed independently with its own name server.
 	- **Zones**:
 		- Each non-leaf node may or may not manage its child
-		![Zones](../../Attachments/Zones.png)
+		![Zones](Attachments/Zones.png)
 - **Name Servers**: 
 	- Servers that hold part of the DNS database relevant to certain domains.
 	- Server for TLDS
@@ -44,4 +44,4 @@
 		- Local name server  = authoritative name server for all of the hosts in its zone
 - **Name Resolvers**: 
 	- Client-side applications that retrieve domain information from name servers.
-	![NameResolution](../../Attachments/NameResolution.png)
+	![NameResolution](Attachments/NameResolution.png)

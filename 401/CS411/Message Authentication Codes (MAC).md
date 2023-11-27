@@ -10,14 +10,14 @@
 ### Process: 
 - The sender calculates the MAC using a secret key shared with the receiver and appends it to the message. 
 - The receiver recalculates the MAC to verify the message's integrity
-![](../../Attachments/MAC.png)
+![](Attachments/MAC.png)
 ### Types
 - **CMAC**: 
 	- Cipher Based Message Authentication
 	- Uses [Block Cipher](Block%20Cipher.md) like [AES](AES.md)  for message authentication
 		- Providing both confidentiality and authentication
 	- Does not need a separate implementation for hash functions since it satisfy confidentiality and authentication by its cipher nature
-	![](../../Attachments/CMAC.png)
+	![](Attachments/CMAC.png)
 - **HMAC**: 
 	- Hash Based Message authentication
 	-  Uses [Cryptographic Hash Functions](Cryptographic%20Hash%20Functions.md) like any function that we covered

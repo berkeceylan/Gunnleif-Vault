@@ -44,10 +44,10 @@
 - Encryption and Decryption operations are different:
 	- **AES Encryption:**
 		- In last round we don't perform MixColumn Layer
-		- ![](../../Attachments/AESenc.png)
+		- ![](Attachments/AESenc.png)
 	- **AES Decryption:**
 		- In first round we don't perform InvMixColumn Layer
-		- ![](../../Attachments/AESdec.png)
+		- ![](Attachments/AESdec.png)
 ### Security: 
 - No known attacks are better than brute force for seven or more rounds
 - Key length make infeasible the brute force attacks

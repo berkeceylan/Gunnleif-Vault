@@ -11,9 +11,11 @@
             "id": "cd721f1e399aed51",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Attachments/16RoundDES.png"
+                "file": "401/CS408/Coaxial Cable.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attachments/16RoundDES.png",
+                "file": "401/CS408/Coaxial Cable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attachments/16RoundDES.png",
+                "file": "401/CS408/Coaxial Cable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attachments/16RoundDES.png"
+                "file": "401/CS408/Coaxial Cable.md"
               }
             }
           },
@@ -163,35 +165,37 @@
   },
   "active": "cd721f1e399aed51",
   "lastOpenFiles": [
+    "401/CS408/Attachments/Pasted image 20231127121336.png",
+    "401/CS408/Coaxial Cable.md",
+    "consistency-report.md",
+    "401/CS408/Attachments/CoaxialCable.png",
+    "401/CS408/Attachments",
+    "401/CS411/Attachments",
+    "401/CS411/Attachments/16RoundDES.png",
     "401/CS408/Logical Link Control (LLC).md",
     "401/CS408/Data Link Layer.md",
-    "401/CS408/Coaxial Cable.md",
     "Attachments/Pasted image 20231127120240.png",
     "401/CS411/Block Cipher.md",
     "401/CS411/2DES.md",
     "401/CS411/ECB.md",
-    "Attachments/ECB.png",
+    "401/CS411/Attachments/ECB.png",
     "401/CS411/Modes of Operations.md",
     "401/CS411/AES.md",
     "401/CS411/Cryptographic Hash Functions.md",
     "401/CS411/GF.md",
     "Attachments/Pasted image 20231127115610.png",
-    "Attachments/16RoundDES.png",
-    "Attachments/Addressreq.png",
+    "401/CS408/Attachments/Addressreq.png",
     "401/CS408/Application Layer.md",
-    "Attachments/Zones.png",
+    "401/CS408/Attachments/Zones.png",
     "401/CS408/Pasted image 20231127115237.png",
     "401/CS408/Unguided Media.md",
     "401/CS408/Physical Layer.md",
     "401/CS408/Microwaves.md",
-    "consistency-report.md",
     "401/CS411/CBC.md",
     "401/CS408/HTTP.md",
     "401/CS411/Modular Exponentiation.md",
-    "Attachments/BinaryLefttoRightalgortihm.png",
-    "Attachments/mermaid-diagram-2023-11-18-114935.png",
+    "401/CS411/Attachments/BinaryLefttoRightalgortihm.png",
     "401/CS411/Euclidean Algorithm.md",
-    "Attachments/Euler.png",
     "401/CS411/CRT.md",
     "401/CS408/Stack.md",
     "Attachments/Attachments",
@@ -200,14 +204,11 @@
     "401/CS408/Twisted Pair.md",
     "401/CS408/UTP Categories.md",
     "401/CS408/Asynchronous Transmission.md",
-    "401/CS408/Telnet.md",
     "401/CS411/Untitled",
     "Users/berkeceylan/Pictures",
     "Users/berkeceylan",
     "Users",
     "Attachments",
-    "401/MATH306",
-    "401/CS302",
-    "401/FIN406"
+    "401/MATH306"
   ]
 }

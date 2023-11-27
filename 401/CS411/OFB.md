@@ -9,7 +9,7 @@
 - A seed value is encrypted repeatedly to produce a key-stream, then XORed with the plaintext to produce ciphertext.
 - Initial Vector (IV) used during xoring operation
 	- Should not used twice (nonce)
-![](../../Attachments/OFB.png)
+![](Attachments/OFB.png)
 ### Properties: 
 - Key-stream generation cannot be parallelized.
 	- Can be computed before and stored for encryption/decryption

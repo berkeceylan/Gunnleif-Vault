@@ -44,7 +44,7 @@
                             - Destination Port
                             - Sequence number
                             - Error Detection Code
-                - ![](../../Attachments/PDU.png)
+                - ![](Attachments/PDU.png)
             - Key Protocols:
                 - *Transmission Control Protocol (TCP)*
                     - Ensures reliable and ordered data delivery.
@@ -53,7 +53,7 @@
         - *Application Layer*
             - Purpose: Provides network services directly to user applications.
             - Key Protocols: HTTP, SMTP, FTP, and more.
-        - ![](../../Attachments/Layers.png)
+        - ![](Attachments/Layers.png)
     - **Open System Interconnection (OSI) Model**
         - Properties:
             - Never used widely, no protocol survived using OSI model
@@ -72,7 +72,7 @@
         - *Session Layer*: Manages sessions or connections between applications.
         - *Presentation Layer*: Translates data formats and ensures data integrity.
         - *Application Layer*: Delivers application services to users.
-        - ![](../../Attachments/Layers2.png)
+        - ![](Attachments/Layers2.png)
     - **Addressing Requirments**
         - Two Level Addressing
             - Each Computer
@@ -81,7 +81,7 @@
                     - unique address within the computer
                         - SAP
                         - Port
-            - ![](../../Attachments/Addressreq.png)
+            - ![](Attachments/Addressreq.png)
     - **TCP/IP Protocol Suite**
         - Most widely used
             - used bu Internet and WWW
@@ -96,14 +96,14 @@
             - IPv4: 
                 - Uses a 32-bit addressing scheme. 
                 - Most commonly used.
-                - ![](../../Attachments/IP.png)
+                - ![](Attachments/IP.png)
             - IPv6: 
                 - Uses a 128-bit addressing scheme. 
                 - Newer and offers more addresses.
                 - Not backwart compatible
         - *TCP (Transmission Control Protocol)*: 
             - Connection-oriented protocol ensuring data is sent and received reliably.
-            - ![](../../Attachments/TCP.png)
+            - ![](Attachments/TCP.png)
         - *UDP (User Datagram Protocol)*: 
             - Connectionless protocol for faster, but possibly unordered, data transfer.
             - end-to end protocol
@@ -111,13 +111,13 @@
             - no preservation of equence
             - no protection against duplication
             - minimum overhead (fast)
-            - ![](../../Attachments/UDP.png)
+            - ![](Attachments/UDP.png)
         - Example Protocols:
-            - ![](../../Attachments/Protocols.png)
+            - ![](Attachments/Protocols.png)
         - Operation of TCP/IP
-            - ![](../../Attachments/TcpIp.png)
+            - ![](Attachments/TcpIp.png)
         - OSI vs TCP/IP
-            - ![](../../Attachments/OsıVsTcpIp.png)
+            - ![](Attachments/OsıVsTcpIp.png)
     - **Internetworking**
         - Definition: The practice of connecting multiple networks together using gateways, bridges, and routers.
         - Subnetwork: each constituent of network

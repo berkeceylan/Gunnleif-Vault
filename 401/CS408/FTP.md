@@ -28,7 +28,7 @@
 		4. Server FTP transfer the data 
 	- Reject
 		- Terminate the connection
-![FTP](../../Attachments/FTP.png)
+![FTP](Attachments/FTP.png)
 ### FTP Commands
   - **Access Control**: 
 	  - Username = USER

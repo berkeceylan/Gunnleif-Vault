@@ -8,7 +8,7 @@
 ### How It Works:
 - The plaintext is divided into n-bit blocks, and each block is encrypted with the same key. 
 - If plaintext is not n-bit block -> padding is required
-![](../../Attachments/ECB.png)
+![](Attachments/ECB.png)
 ### Properties:
 - Each block encrypted/decrypted independently  from other blocks.
 - There's no dependency between the blocks.

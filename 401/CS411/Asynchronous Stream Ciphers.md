@@ -7,4 +7,4 @@
 - Resynchronise itself
 	- After at most t bits later than synchronization is lost, it resynchronizes itself  
 - Provide a good diffusion statistics
-![](../../Attachments/asyncStreamCipher.png)
+![](Attachments/asyncStreamCipher.png)

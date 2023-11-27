@@ -8,7 +8,7 @@
 ### How It Works:
 - A block of the cipher's output is used as "feedback" to encrypt the next unit of plaintext, which can be smaller than the full block size.
 - Uses initialization vector (IV).
-![](../../Attachments/CFB.png)
+![](Attachments/CFB.png)
 ### Properties:
  - Encryption of a block depends on the encryption of previous block.
 	- Good for [Diffusion & Confusion](Diffusion%20&%20Confusion.md)

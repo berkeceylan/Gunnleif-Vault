@@ -12,4 +12,4 @@
 		- WONT -> responders does not agree
 	- **DONT** -> Initiator would like responder to diable option
 		- WONT -> responder must agree
-![WillWontDoDont](../../Attachments/WillWontDoDont.png)
+![WillWontDoDont](Attachments/WillWontDoDont.png)
