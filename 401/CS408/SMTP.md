@@ -2,7 +2,7 @@
 ### Definition:
 - A protocol used to transfer [Electronic Mail](Electronic%20Mail.md) between computers.
 	- work between network to network
-- It works at the [Application Layer](Application%20Layer.md) of the [OSI](OSI) model.
+- It works at the [Application Layer](Application%20Layer.md) of the [OSI](OSI.md) model.
 - Introduced with RFC 821
 ## Properties:
 - Works on [TCP/IP](TCP/IP)

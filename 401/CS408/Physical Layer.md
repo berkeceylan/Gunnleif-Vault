@@ -1,12 +1,13 @@
 ### Definition:
 - Responsible for the transmission of raw bit streams over a physical medium
-- First and lowest layer in both the [OSI](OSI) model and the [TCP/IP](TCP/IP) protocol stack
+- First and lowest layer in both the [OSI](OSI.md) model and the [TCP/IP](TCP/IP) protocol stack
 ### Properties:
 - Defines hardware specifications like cables, cards, and physical aspects.
 - Handles the bit-level transmission.
 - Governs the encoding and signaling schemes.
 - Manages data transmission rates.
 - Deals with network topology and design.
+- Provide synchronization
 ### Spectrum and Bandwith:
 - **Spectrum**:
 	- Range of frequencies the physical layer can transmit

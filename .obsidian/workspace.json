@@ -6,6 +6,7 @@
       {
         "id": "3369c0ca04f58f23",
         "type": "tabs",
+        "dimension": 74.39478584729981,
         "children": [
           {
             "id": "cd721f1e399aed51",
@@ -13,11 +14,55 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "401/CS408/Data Link Layer.md",
+                "file": "401/CS408/Media Access Control (MAC).md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "6ce1f0941ef27af1"
+          }
+        ]
+      },
+      {
+        "id": "96c772d06f686e14",
+        "type": "tabs",
+        "dimension": 25.605214152700185,
+        "children": [
+          {
+            "id": "8dd43833e58b8732",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "401/CS408/Media Access Control (MAC).md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            },
+            "group": "6ce1f0941ef27af1"
           }
         ]
       }
@@ -85,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "401/CS408/Data Link Layer.md",
+                "file": "401/CS408/Media Access Control (MAC).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "401/CS408/Data Link Layer.md",
+                "file": "401/CS408/Media Access Control (MAC).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "401/CS408/Data Link Layer.md"
+                "file": "401/CS408/Media Access Control (MAC).md"
               }
             }
           },
@@ -150,7 +195,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,45 +211,45 @@
   },
   "active": "cd721f1e399aed51",
   "lastOpenFiles": [
+    "401/CS408/LAN.md",
+    "401/CS408/Media Access Control (MAC).md",
+    "401/CS408/Data Link Layer.md",
+    "Attachments/DataLinkConstruct.png",
+    "401/CS408/Stack.md",
+    "401/CS408/Logical Link Control (LLC).md",
+    "Attachments/MAC&LLC.png",
+    "401/CS408/Bridges.md",
+    "401/CS408/Bus Topology.md",
     "401/CS408/Coaxial Cable.md",
-    "Attachments/Pasted image 20231127122452.png",
     "401/CS408/Attachments/deneme.png",
+    "401/CS408/OSI.md",
+    "401/CS408/Hubs.md",
+    "401/CS408/Routers.md",
+    "401/CS408/Switches.md",
+    "401/CS408/Star Topology.md",
+    "401/CS408/Ring Topology.md",
+    "401/CS408/Ethernet.md",
+    "Attachments/LANProtocol.png",
+    "Attachments/Pasted image 20231127154409.png",
+    "Attachments/IEEE802ReferenceModel.png",
+    "Attachments/Pasted image 20231127152531.png",
+    "401/CS408/Physical Layer.md",
+    "401/CS408/Asynchronous Transmission.md",
+    "401/CS408/CS408 - WEEK 2.md",
+    "Attachments/Pasted image 20231127122452.png",
     "401/CS408/Attachments/OsıVsTcpIp.png",
     "consistency-report.md",
     "401/CS408/Attachments/CoaxialCable.png",
     "401/CS408/Attachments",
     "401/CS411/Attachments",
-    "401/CS411/Attachments/16RoundDES.png",
-    "401/CS408/Logical Link Control (LLC).md",
-    "401/CS408/Data Link Layer.md",
-    "Attachments/Pasted image 20231127120240.png",
     "401/CS411/Block Cipher.md",
     "401/CS411/2DES.md",
     "401/CS411/ECB.md",
-    "401/CS411/Attachments/ECB.png",
     "401/CS411/Modes of Operations.md",
     "401/CS411/AES.md",
     "401/CS411/Cryptographic Hash Functions.md",
-    "401/CS411/GF.md",
-    "Attachments/Pasted image 20231127115610.png",
-    "401/CS408/Attachments/Addressreq.png",
-    "401/CS408/Application Layer.md",
-    "401/CS408/Attachments/Zones.png",
-    "401/CS408/Unguided Media.md",
-    "401/CS408/Physical Layer.md",
-    "401/CS408/Microwaves.md",
-    "401/CS411/CBC.md",
-    "401/CS408/HTTP.md",
-    "401/CS411/Modular Exponentiation.md",
-    "401/CS411/Euclidean Algorithm.md",
-    "401/CS411/CRT.md",
-    "401/CS408/Stack.md",
     "Attachments/Attachments",
     "Attachments/Attachments 1",
-    "401/CS408/Guided Media.md",
-    "401/CS408/Twisted Pair.md",
-    "401/CS408/UTP Categories.md",
-    "401/CS408/Asynchronous Transmission.md",
     "401/CS411/Untitled",
     "Users/berkeceylan/Pictures",
     "Users/berkeceylan",

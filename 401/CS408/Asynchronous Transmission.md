@@ -15,6 +15,7 @@
 - Overhead can be 2, 3 or 4 bits
 	- Min Overhead = 1 start bit + 1 stop bit
 	- Max Overhead = 1 start bit + 2 stop bit + 1 pairty
+	- Utilization = 8/11
 - No common clock signal is needed
 - High Latency due to processing time
 	- Slow
