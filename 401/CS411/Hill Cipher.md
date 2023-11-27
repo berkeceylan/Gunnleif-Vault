@@ -2,7 +2,7 @@
 - The Hill Cipher is a polygraphic substitution block cipher.
 - One of the Block Ciphers
 ### Type:
-- [[Substitution Cipher]], [[Symmetric Key Cipher]] and [[Block Cipher]]
+- [Substitution Cipher](Substitution%20Cipher.md), [Symmetric Key Cipher](Symmetric%20Key%20Cipher.md) and [Block Cipher](Block%20Cipher.md)
 ### Key:
 - A matrix 
 - Needs to be invertible modulo the size of the alphabet

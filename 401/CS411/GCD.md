@@ -8,6 +8,6 @@
 - When $gcd(a, b) = 1$, they are relatively prime
 	- Equation becomes $ax + by = 1$
 	- Multiplicative inverse: $ax \equiv 1 \mod b$
-- [[Euclidean Algorithm]] is a method to find large numbers GCD
+- [Euclidean Algorithm](Euclidean%20Algorithm.md) is a method to find large numbers GCD
 ###  Usage in Cryptography:
 - The GCD is used in algorithms to find multiplicative inverses, which are crucial for decryption and digital signatures.

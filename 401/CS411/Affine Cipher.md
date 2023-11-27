@@ -1,10 +1,10 @@
 ### Definition:
-- Its one of the [[Classical Ciphers]]
--  Generalizes the [[Caesar Cipher]]
+- Its one of the [Classical Ciphers](Classical%20Ciphers.md)
+-  Generalizes the [Caesar Cipher](Caesar%20Cipher.md)
 	- Caesar cipher is a specific case of the affine cipher
 - One to one mapping exist
 ### Type:
-- [[Symmetric Key Cipher]]  and [[Substitution Cipher]]
+- [Symmetric Key Cipher](Symmetric%20Key%20Cipher.md)  and [Substitution Cipher](Substitution%20Cipher.md)
 ### Key: 
 - Two integers (a multiplier and an addition value).
 - $\large k = (\alpha, \beta) \text{ and } \alpha, \beta \in \mathbb{Z}_{26}$

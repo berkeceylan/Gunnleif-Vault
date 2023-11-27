@@ -11,11 +11,11 @@
 - **Fixed System of Replacement**: 
 	- The system of substitution is predetermined and must be known by both sender and receiver.
 ### Examples:
-- **[[Caesar Cipher]]**: 
+- **[Caesar Cipher](Caesar%20Cipher.md)**: 
 	- Shifts all letters in the plaintext by a fixed number down or up the alphabet.
-- **[[Vigenere Cipher]]**: 
+- **[Vigenere Cipher](Vigenere%20Cipher.md)**: 
 	 - Uses a keyword to determine the shift for each letter in the plaintext.
- - **[[Affine Cipher]]**
+ - **[Affine Cipher](Affine%20Cipher.md)**
 ### Security:
 - **Frequency Analysis**: 
 	- Simple substitution ciphers are vulnerable to frequency analysis

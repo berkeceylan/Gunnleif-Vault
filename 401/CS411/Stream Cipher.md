@@ -1,6 +1,6 @@
 ### Definition
-- Type of a [[Cryptography |cryptographic]] encryption algorithm
-- Basic idea comes from [[One-Time Pad]]  
+- Type of a [cryptographic](Cryptography.md) encryption algorithm
+- Basic idea comes from [One-Time Pad](One-Time%20Pad.md)  
 - Plaintext digits are combined with a pseudorandom cipher digit stream (key stream)
 - Each plaintext digit is encrypted one at a time with the corresponding digit of the key-stream, to give a digit of the ciphertext stream
 - **Example(s):**
@@ -8,18 +8,18 @@
 	- A5/1 (used in GSM)
 	- Trivium
 - There are two type of Stream Ciphers:
-	- [[Synchronous Stream Ciphers]]
-	- [[Asynchronous Stream Ciphers]]
+	- [Synchronous Stream Ciphers](Synchronous%20Stream%20Ciphers.md)
+	- [Asynchronous Stream Ciphers](Asynchronous%20Stream%20Ciphers.md)
 ### Type:
-- [[Symmetric Key Cipher]]
+- [Symmetric Key Cipher](Symmetric%20Key%20Cipher.md)
 ### Key:
 - Typically shorter than the plaintext.
-- Key-stream is generated using [[PseudoRandom]] generator form a relatively short secret key
-- To produce key we use [[LFSR]], it provide:
+- Key-stream is generated using [PseudoRandom](PseudoRandom.md) generator form a relatively short secret key
+- To produce key we use [LFSR](LFSR.md), it provide:
 	- Large period
 	- Good statistical properties 
 	- Large linear complexity
-- ![[StreamCipher.png]]
+- ![](StreamCipher.png)
 ### Operation:
 - Encryption:
 	- $\large c_i = m_i \oplus k_i$
@@ -34,7 +34,7 @@
 	- Predictability
 		- Predicting the next bit in the key stream should be computationally infeasible
 		- probability of guessing should be close to 1/2 for either a '0' or '1'.
-	- **[[BMA]]**:
+	- **[BMA](BMA.md)**:
 		- It can determine the shortest LFSR (i.e., the feedback polynomial of the LFSR) that can produce a given binary sequence.
 		- By using BMA we can attack the Stream Cipher and break
 - Correlation and Brute Force attacks possible
@@ -43,5 +43,5 @@
 - Diffusion: 
     - Not explicitly present, as each plaintext bit affects only one ciphertext bit
 - Confusion:
-    - Achieved inherently due to the [[PseudoRandom]] of the key-stream
+    - Achieved inherently due to the [PseudoRandom](PseudoRandom.md) of the key-stream
 

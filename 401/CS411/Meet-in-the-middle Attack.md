@@ -1,4 +1,4 @@
-Used to attack to [[2DES]] and [[3DES]] 
+Used to attack to [2DES](2DES.md) and [3DES](3DES.md) 
 It reduce the amount of iteration while we generating key pairs.
 **The Procedure:**
 	1. **Forward Computation**:

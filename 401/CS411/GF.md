@@ -1,11 +1,11 @@
 #MathBackground 
 ## Binary Finite Fields (GF)
 ### Definition:
-- A binary finite field is a special case of the [[Finite Fields]] $GF(p^n)$, where p = 2 
+- A binary finite field is a special case of the [Finite Fields](Finite%20Fields.md) $GF(p^n)$, where p = 2 
 - Elements in this field can be represented as polynomials over $GF(2^n)$
 ### Usage in Cryptography:
 - Binary finite fields are particularly useful in cryptography for error-correcting codes, such as those used in secure data transmission. 
-- They are also used in [[Block Cipher]] (design of S-boxes )and [[Cryptographic Hash Functions]]
+- They are also used in [Block Cipher](Block%20Cipher.md) (design of S-boxes )and [Cryptographic Hash Functions](Cryptographic%20Hash%20Functions.md)
 ### Operation:
 - A simple method to construct this field is to find all the binary polynomials whose degrees are smaller than the degree of the irreducible polynomial
 - Each element in $GF(2^n)$ can be represented as a polynomial:

@@ -1,7 +1,7 @@
 #MathBackground 
 ### Definition:
-- Fundamental operation in many cryptographic algorithms, including [[RSA]].
-- Essential for public key encryption([[PKC]]) and digital signature 
+- Fundamental operation in many cryptographic algorithms, including [RSA](RSA.md).
+- Essential for public key encryption([PKC](PKC.md)) and digital signature 
 ### Operation: 
 - $m^e\mod n$
 - **Naive Method:** compute $m^e$ than take its modulus n
@@ -11,7 +11,7 @@
 			- initialise x = 1
 			- $x = x \times x\mod n$
 			- if $e_i = 1$ multiply x by 2
-		- [[BinaryLefttoRightalgortihm.png]]
-	- [[BinaryRighttoLeftAlgorithm.png]]
+		- [BinaryLefttoRightalgortihm.png](BinaryLefttoRightalgortihm.png)
+	- [BinaryRighttoLeftAlgorithm.png](BinaryRighttoLeftAlgorithm.png)
 ### Example:
-![[modularExpo.png]]
+![](modularExpo.png)

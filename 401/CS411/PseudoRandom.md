@@ -1,7 +1,7 @@
-Mainly used in [[Cryptography]] applications
+Mainly used in [Cryptography](Cryptography.md) applications
 ### Definition:
 - Numbers generated using deterministic processes (often algorithms) that appear random.
-	- Example: [[Miller-Rabin Algorithm]]
+	- Example: [Miller-Rabin Algorithm](Miller-Rabin%20Algorithm.md)
 - Requires an initial value called a "seed" to start the generation process.
 ### Creation:
 - **Software Based Random Number Generation**:
@@ -18,7 +18,7 @@ Mainly used in [[Cryptography]] applications
 	- If the initial output is biased or correlated
 		- To fix biased output bits
 		- Process of adjusting output of a generator to ensure uniform distribution
--  Created numbers should be checked by Pseudo-Randomness Tests like [[FIPS]]
+-  Created numbers should be checked by Pseudo-Randomness Tests like [FIPS](FIPS.md)
 ### Examples:
 - Linear Congruential Generators (LCG).
 - Mersenne Twister algorithm.

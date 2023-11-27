@@ -1,7 +1,7 @@
 ## Data Encryption Standard (DES)
 
 ### Type:
-- [[Symmetric Key Cipher]] and [[Block Cipher]]
+- [Symmetric Key Cipher](Symmetric%20Key%20Cipher.md) and [Block Cipher](Block%20Cipher.md)
 ### History: 
 - Adopted as a federal standard in the U.S. in 1977.
 - Replaced by AES as the federal standard in 2001 due to vulnerabilities.
@@ -15,10 +15,10 @@
 		- [Weak Keys of DES](https://en.wikipedia.org/wiki/Weak_key#:~:text=DES%20weak%20keys%20produce%20sixteen,%2B%20'E'%20(0xFEFEFEFEFEFEFEFE))
 	- There are 4 semi-weak keys
 		- $E_{k_{1}}(E_{k_{2}}(\text{plaintext})) = \text{plaintext}$
-- Since block size is fixed and 64-bit blocks to encrypt larger data blocks we use [[Modes of Operations]]
+- Since block size is fixed and 64-bit blocks to encrypt larger data blocks we use [Modes of Operations](Modes%20of%20Operations.md)
 ### Operation: 
 - Involves permutation and substitution operations.
--  **Structure:** Uses a [[Feistel Network]] structure with 16 rounds.
+-  **Structure:** Uses a [Feistel Network](Feistel%20Network.md) structure with 16 rounds.
 	- This led to both advantage and disadvantage
 		- Advantage: same function can be used for both encryption and decryption
 		- Disadvantage: in each iteration we decrypt or encrypt half of the block
@@ -28,7 +28,7 @@
 - **Key Schedule:** Generates 16 48-bit round keys from the initial 56-bit key.
 - Decryption and encryption functions are same
 	- but round keys are applied in reverse order
-	- ![[DESenc-dec.png]]
+	- ![](DESenc-dec.png)
 - Designed for hardware
 	- i.e. not efficient for software
 > DES is not a group, i.e. Multiple encryption $\neq$ single encryption 
@@ -49,6 +49,6 @@
 ### Current Status:
 - Considered insecure for many modern applications.
 - Two other alternatives:
-	- [[2DES]]
-	- [[3DES]]
-- Largely replaced by [[AES]] in various applications.
+	- [2DES](2DES.md)
+	- [3DES](3DES.md)
+- Largely replaced by [AES](AES.md) in various applications.

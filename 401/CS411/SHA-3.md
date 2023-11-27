@@ -2,7 +2,7 @@
 
 ### Definition:
 - Winner of NIST's competition in 2012
-- It is an example of [[Cryptographic Hash Functions]]
+- It is an example of [Cryptographic Hash Functions](Cryptographic%20Hash%20Functions.md)
 - Based on the [Keccak Algorithm](https://www.geeksforgeeks.org/difference-between-sha-256-and-keccak-256/)
 - Detailed information about [SHA3](https://en.wikipedia.org/wiki/SHA-3)
 ### Properties:

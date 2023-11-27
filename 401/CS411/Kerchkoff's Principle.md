@@ -1,5 +1,5 @@
 ### Definition:
-- Kerchkoff's Principle assumes that the complete details of the [[Cryptography |cryptographic]] algorithm are known to the public.
+- Kerchkoff's Principle assumes that the complete details of the [cryptographic](Cryptography.md) algorithm are known to the public.
 - Emphasizing transparency in the algorithm and reliability in key management.
 - Secrecy of the cryptographic algorithm is not important
 ### Properties:

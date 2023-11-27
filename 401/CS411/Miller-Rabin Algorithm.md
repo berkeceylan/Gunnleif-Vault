@@ -1,7 +1,7 @@
 ### Definition:
 - Probabilistic algorithm 
 	- Very efficient and fast
-- Used to determine whether a number is prime heavily in [[RSA]]
+- Used to determine whether a number is prime heavily in [RSA](RSA.md)
 - It provides a probabilistic result
 - It can identify a number as either a composite (definitely not prime) or a probable(pseudo prime) prime.
 - To check how we generate large prime numbers check [Large Prime Numbers in RSA](https://www.geeksforgeeks.org/how-to-generate-large-prime-numbers-for-rsa-algorithm/)

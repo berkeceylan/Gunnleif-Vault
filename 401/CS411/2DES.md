@@ -1,7 +1,7 @@
 #### Double Data Encryption Standard (Double DES )
 ### Description:
 * Also known as Double DES
-* Derived from the Data Encryption Standard ([[DES]]) block cipher
+* Derived from the Data Encryption Standard ([DES](DES.md)) block cipher
 * Double DES applies the DES algorithm twice, with two different keys = $K_{1}$ and $K_{2}$
 * Effective key length = 57 bits
 * If there are N keys the storage requirement is 2N x block size (8 byte = 64 bit)
@@ -13,5 +13,5 @@
     - Take ciphertext block -> decrypt it using the second DES key ($K_{2}$)
     - Take  output from the first decryption -> decrypt it again using the first DES key ($K_{1}$)
 ### Security:
-* The key bits may seem as 112 bits but because of [[Meet-in-the-middle Attack]] effective key size is 57 bits.
-* Not considered as secure Therefore [[3DES]] introduced.
+* The key bits may seem as 112 bits but because of [Meet-in-the-middle Attack](Meet-in-the-middle%20Attack.md) effective key size is 57 bits.
+* Not considered as secure Therefore [3DES](3DES.md) introduced.

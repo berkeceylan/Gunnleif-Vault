@@ -4,12 +4,12 @@
 	- Inverting a hash function should be computably infeasible
 - Produces a fixed-length output = hash (hash code, message digest or hash value)
 	- $h = H(M)$
-- Used widely in authentication and digital signature creation in [[Cryptography]]
+- Used widely in authentication and digital signature creation in [Cryptography](Cryptography.md)
 - **Examples:**
-	- [[MD5]]
-	- [[SHA-1]]
-	- [[SHA-2]]
-	- [[SHA-3]]
+	- [MD5](MD5.md)
+	- [SHA-1](SHA-1.md)
+	- [SHA-2](SHA-2.md)
+	- [SHA-3](SHA-3.md)
 ### Properties:
 - **Deterministic**: 
 	- The same input will always produce the same output.
@@ -36,29 +36,29 @@
 		- It is computationally infeasible to find ==any== pair $(x,y)$ with $x \neq y$ such that $H(x) = H(y)$
 		- Difficulty of finding collision = $2^{n/2}$ trials
 			- To be secure it should be at least $2^{100}$
-			- Easier due to [[Birthday Attack]] 
+			- Easier due to [Birthday Attack](Birthday%20Attack.md) 
 ### Usage:
 - **Integrity Check**: 
 	- Hash functions are used to verify the integrity of transmitted data by comparing hash values before and after transmission.
-	- [[Merkle Hash Tree]]
+	- [Merkle Hash Tree](Merkle%20Hash%20Tree.md)
 - **Password Protection**: 
 	- Password hashed -> hash value stored
 		- Storing the hash of a password instead of the password itself to prevent exposure in case of a security breach.
-		- [[Dictionary Attack]]
-		- [[Rainbow Crack]]
+		- [Dictionary Attack](Dictionary%20Attack.md)
+		- [Rainbow Crack](Rainbow%20Crack.md)
 - **Message Authentication:**
 	- Verifying the integrity of a message
 		- Ensuring its content has not been altered by unauthorized parties. 
-		-  [[Message Authentication Codes (MAC)]]
+		-  [Message Authentication Codes (MAC)](Message%20Authentication%20Codes%20(MAC).md)
 	- Authentication and Confidentially is different things, should be handled separately
-		- **Authenticated Encryption with Associated Data ([[AEAD]])**
+		- **Authenticated Encryption with Associated Data ([AEAD](AEAD.md))**
 	- It's crucial for the security of communications in networks.
 ### Real Life Examples:
 - The properties that we discussed above was explanation for how ideal cryptographic systems should work.
 - Real life examples of Cryptographic hash functions based on these properties:
-	-  [[MD5]] (not considered as secure)
-	- [[SHA-1]] (not considered as secure)
-	- [[SHA-2]]
-	- [[SHA-3]]
+	-  [MD5](MD5.md) (not considered as secure)
+	- [SHA-1](SHA-1.md) (not considered as secure)
+	- [SHA-2](SHA-2.md)
+	- [SHA-3](SHA-3.md)
 
 

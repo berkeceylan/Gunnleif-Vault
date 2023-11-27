@@ -1,6 +1,6 @@
 ### Definition:
 - The birthday attack is a type of cryptographic attack that applies to hash functions and is named after the [birthday paradox](https://en.wikipedia.org/wiki/Birthday_problem) in probability theory.
-- Used to find strong collisions in [[Cryptographic Hash Functions]] 
+- Used to find strong collisions in [Cryptographic Hash Functions](Cryptographic%20Hash%20Functions.md) 
 	- Reduces the trials $2^n$ to $2^{n/2}$
 ### How the Birthday Attack Works:
 - Probability of finding a  strong collusion in a hash function
@@ -14,6 +14,6 @@
 - The birthday attack is significant because it shows that the security of a hash function against collision attacks is effectively halved in terms of bit strength. 
 - To be protected by birthday attacks the output size should be larger to make it computably infeasible.
 	- Larger $n$-bit
-- Because of birthday attacks [[MD5]] and [[SHA-1]] not considered as secure.
+- Because of birthday attacks [MD5](MD5.md) and [SHA-1](SHA-1.md) not considered as secure.
 
 

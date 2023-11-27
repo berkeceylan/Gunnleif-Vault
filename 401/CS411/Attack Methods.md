@@ -1,4 +1,4 @@
- [[Cryptography |Cryptographic]] attack methods used in cryptanalysis
+ [Cryptographic](Cryptography.md) attack methods used in cryptanalysis
 ### Ciphertext Only Attack
 - **Access**: Attacker only have the ciphertext
 - **Goal**: Derive the plaintext or the key used to encrypt the message

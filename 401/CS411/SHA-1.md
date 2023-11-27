@@ -2,8 +2,8 @@
 
 ### Definition:
 - Proposed by NIST in 1995 as standard
-- It is an example of [[Cryptographic Hash Functions]]
-- Based on the [[Merkle-Damgard Construction]] 
+- It is an example of [Cryptographic Hash Functions](Cryptographic%20Hash%20Functions.md)
+- Based on the [Merkle-Damgard Construction](Merkle-Damgard%20Construction.md) 
 - Detailed information about [SHA1](https://en.wikipedia.org/wiki/SHA-1)
 ### Properties:
 - **Fixed Output Size**: 
@@ -17,9 +17,9 @@
 	- To find an input that corresponds to a particular hash.
 - **Avalanche Effect**: 
 	- Small changes to the input result in a significantly different hash.
-- Similar to [[DES]], the chaining values are processed in 20 rounds
+- Similar to [DES](DES.md), the chaining values are processed in 20 rounds
 ### Operation:
-- Operations based on [[Merkle-Damgard Construction]]
+- Operations based on [Merkle-Damgard Construction](Merkle-Damgard%20Construction.md)
 	- It follow same steps with these values
 		- Blocks size  = 512 bits
 		- Hash value = 160 bits
@@ -29,7 +29,7 @@
 ### Current Status:
 - In past used extensively but now its not considered as secure:
 	- **Brute force attack:**
-		- Since its hash value is 160 bits $2^{80}$  is not considered secure any more because of [[Birthday Attack]]
+		- Since its hash value is 160 bits $2^{80}$  is not considered secure any more because of [Birthday Attack](Birthday%20Attack.md)
 		- 2005 Wing, Yin and Yu --> find collusion requiring fewer than $2^{69}$
 		- 2006 Wang, Yao and Yao --> find collusion requiring fewer than $2^{63}$
 		- 2017 Google --> [SHAttered attack](https://en.wikipedia.org/wiki/Shatter_attack)

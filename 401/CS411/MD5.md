@@ -1,8 +1,8 @@
 ## Message Digest 5 (MD5)
 
 ### Definition:
-- It is a one of the common examples of [[Cryptographic Hash Functions]]
-- Based on the [[Merkle-Damgard Construction]] 
+- It is a one of the common examples of [Cryptographic Hash Functions](Cryptographic%20Hash%20Functions.md)
+- Based on the [Merkle-Damgard Construction](Merkle-Damgard%20Construction.md) 
 - Detailed information about [MD5](https://www.geeksforgeeks.org/what-is-the-md5-algorithm/)
 
 ### Properties:
@@ -18,7 +18,7 @@
 - **Avalanche Effect**: 
 	- Small changes to the input result in a significantly different hash.
 ### Operation:
-- Operations based on [[Merkle-Damgard Construction]]
+- Operations based on [Merkle-Damgard Construction](Merkle-Damgard%20Construction.md)
 	- It follow same steps with these values
 		- Blocks size  = 512 bits
 		- Hash value = 128 bits
@@ -26,4 +26,4 @@
 ### Current Status:
 - In past used extensively but now its not considered as secure:
 	- **Brute force attack:**
-		- Since its hash value is 128 bits $2^{64}$  is not considered secure any more because of [[Birthday Attack]]
+		- Since its hash value is 128 bits $2^{64}$  is not considered secure any more because of [Birthday Attack](Birthday%20Attack.md)

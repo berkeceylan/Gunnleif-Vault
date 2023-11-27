@@ -1,11 +1,11 @@
 ## Public Key Cryptography (PKC) 
 
 ### Definition
-- Solves the problem of secret key distribution and management in [[Cryptography]]
+- Solves the problem of secret key distribution and management in [Cryptography](Cryptography.md)
 - Proposed by Diffie/Hellman in 1976
-- Its a  [[Asymmetric Key Cipher]]
+- Its a  [Asymmetric Key Cipher](Asymmetric%20Key%20Cipher)
 - **Examples:**
-    - [[RSA]]
+    - [RSA](RSA.md)
     - DL
     - Elliptic curve cryptosystems 
     - IBE -\> Id is the public key
@@ -14,14 +14,14 @@
 - Each user has a pair of keys which are generated together under a scheme 
 	- Private key -> known only to the owner
 	- Public key -> known to anyone in the systems with assurance 
-	- Public and private key system based on [[Ring]]
+	- Public and private key system based on [Ring](Ring.md)
  - Encryption and decryption methods are public 
 	 - Encryption
 		 - Sender encrypts the message by the public key of the receiver 
 	- Decryption
 		- Only the receiver can decrypt the message by her/his private key 
 - Based on mathematical problem -> Computational infeasibility 
-- Much slower than [[Symmetric Key Cipher]]
+- Much slower than [Symmetric Key Cipher](Symmetric%20Key%20Cipher.md)
 ### Applications:
 - **Encryption/Decryption**: 
 	- Used for encrypting short messages due to computational intensity

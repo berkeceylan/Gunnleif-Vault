@@ -10,4 +10,4 @@
 - If $gcd(a, n) = 1$, then there exists an integer s such that $(as \equiv 1 \mod n)$
 	- Multiplicative inverse: $a \cdot s \equiv 1 \mod n$
 ### Usage in Cryptography:
-- Congruences are used in modular arithmetic, which is fundamental for encryption algorithms and [[Cryptographic Hash Functions]]
+- Congruences are used in modular arithmetic, which is fundamental for encryption algorithms and [Cryptographic Hash Functions](Cryptographic%20Hash%20Functions.md)

@@ -3,7 +3,7 @@
 ### Definition:
 - Named after Ralph Merkle
 - Used to efficiently summarize and verify the integrity of large sets of data.
-- The tree is constructed using [[Cryptographic Hash Functions]] 
+- The tree is constructed using [Cryptographic Hash Functions](Cryptographic%20Hash%20Functions.md) 
 	- Rely on cryptographic hash functions, such as MD5, SHA-1, SHA-2, or SHA-3, to hash the data blocks and non-leaf nodes.
 ### Properties:
 - **Hierarchical Structure**:
@@ -23,4 +23,4 @@
 	- Non-leaf nodes are created by hashing the concatenation of their children's hashes. This process is repeated up the tree.
 4. **Merkle Root**: 
 	- The root of the tree is a single hash that uniquely represents all of the data in the tree.
-![[MerkleHashTree.png]]
+![](MerkleHashTree.png)

@@ -1,14 +1,14 @@
 ### Definition:
-- One of the [[Classical Ciphers]]
+- One of the [Classical Ciphers](Classical%20Ciphers.md)
 - Use of letter-shifting based on a keyword
 - When the letters of the ciphertext are grouped, a one-to-one mapping exist
 	- Since every group encrypted with Caesar cipher
 ### Type:
-- [[Symmetric Key Cipher]] and polyalphabetic [[Substitution Cipher]].
+- [Symmetric Key Cipher](Symmetric%20Key%20Cipher.md) and polyalphabetic [Substitution Cipher](Substitution%20Cipher.md).
 ### Key:
 - Utilizes a keyword or phrase, which determines the shift for each letter in the plaintext.
 ### Operation:
-- Uses different [[Caesar Cipher]]s for successive letters based on the keyword. 
+- Uses different [Caesar Cipher](Caesar%20Cipher.md)s for successive letters based on the keyword. 
 - The keyword is repeated to match the length of the plaintext.
 ### Security:
 - **Enhanced Security**: 

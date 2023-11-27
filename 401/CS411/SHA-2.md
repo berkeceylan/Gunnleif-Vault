@@ -2,8 +2,8 @@
 
 ### Definition:
 - Proposed by NIST in 2002 as standard
-- It is an example of [[Cryptographic Hash Functions]]
-- Based on the [[Merkle-Damgard Construction]] 
+- It is an example of [Cryptographic Hash Functions](Cryptographic%20Hash%20Functions.md)
+- Based on the [Merkle-Damgard Construction](Merkle-Damgard%20Construction.md) 
 - Detailed information about [SHA2](https://en.wikipedia.org/wiki/SHA-2)
 - SHA-2 includes several hash functions with different digest sizes: 
 	- SHA-224
@@ -24,10 +24,10 @@
 	- Small changes to the input result in a significantly different hash.
 - **Collision Resistant:**
 	- Until this day we can not find any weak or strong collusion.
-- Compatible security with  [[AES]]
+- Compatible security with  [AES](AES.md)
 
 ### Operation:
-- Operations based on [[Merkle-Damgard Construction]]
+- Operations based on [Merkle-Damgard Construction](Merkle-Damgard%20Construction.md)
 	- It follow same steps with these values
 		- Blocks size  = 512 or 1024 bits
 		- Hash value = 224, 256, 384, or 512 bits.

@@ -1,11 +1,11 @@
 ### Definition:
 - Method used to break into a password-protected system or decrypt a file by systematically entering every word in a predefined list of potential passwords (a "dictionary").
 - Its like a brute force attack
-- Advanced implementation = [[Rainbow Crack]]
+- Advanced implementation = [Rainbow Crack](Rainbow%20Crack.md)
 ### Operation:
 1. **Creating a Dictionary** 
 2. **Hash Generation**: 
-	- The attacker hashes each word in the dictionary using the same [[Cryptographic Hash Functions]] as the system.
+	- The attacker hashes each word in the dictionary using the same [Cryptographic Hash Functions](Cryptographic%20Hash%20Functions.md) as the system.
 3. **Matching Hashes**: 
 4. **Password Discovery**:
 ### Use of Salt in Defending Against Attacks:

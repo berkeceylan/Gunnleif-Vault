@@ -1,7 +1,7 @@
 ## Ring in Cryptography
 
 ### Definition:
-- A Ring in cryptography refers to a structure used in digital signature schemes ([[PKC]]). 
+- A Ring in cryptography refers to a structure used in digital signature schemes ([PKC](PKC.md)). 
 - It allows any member of a group to produce a signature on behalf of the group without revealing the specific member who signed the message.
 ### Characteristics:
 - **Anonymity in Group Signature**:

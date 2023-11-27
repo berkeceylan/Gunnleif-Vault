@@ -1,22 +1,22 @@
 ### Definition:
-- Most popular [[PKC]]
+- Most popular [PKC](PKC.md)
 - Invented by Rivest, Shamir, and Adleman in 1977
 - Based on Integer Factorization
 	- bit length = 2048/3072/7680/15360
 ### Type:
-- [[Asymmetric Key Cipher]]
+- [Asymmetric Key Cipher](Asymmetric%20Key%20Cipher)
 ### Properties:
 - Each user has public and private key pair
 - Keys are generated based on the product of two large prime numbers
-- The operation based on [[Fermat’s Little Theorem]] and [[Euler’s Theorem]]
+- The operation based on [Fermat’s Little Theorem](Fermat’s%20Little%20Theorem.md) and [Euler’s Theorem](Euler’s%20Theorem.md)
 - provides non-repudiation in digital signatures
 - Public Key: $(e , n)$
 - Private Key: $(d,p,q)$
 ### Operation:
 - **Setup Stage**:
 	1. Choose two large primes p and q
-		- We use  [[Miller-Rabin Algorithm]] for primality testing
-		- While we do primality test we need to pay attention to [[Distribution of Primes]]
+		- We use  [Miller-Rabin Algorithm](Miller-Rabin%20Algorithm.md) for primality testing
+		- While we do primality test we need to pay attention to [Distribution of Primes](Distribution%20of%20Primes.md)
 	2. Compute $n = p \times q$
 	3. Compute $\phi(n) = (p-1) \times (q-1)$
 	4. Choose a random integer, $0 < e < \phi(n)$ with $gcd(e,\phi(n)) = 1$
@@ -48,15 +48,15 @@
 		- Complexity: $O\left(e^{(1.92+o(1))(\ln(n))^{1/3} (\ln(\ln(p)))^{2/3}}\right)$
 			- Currently largest number factored so far is use NFS method($\approx 768$ bit)
 	- **Side Channel Attacks:**
-		- Based on voltage peaks in [[Modular Exponentiation]] during decryption.
+		- Based on voltage peaks in [Modular Exponentiation](Modular%20Exponentiation.md) during decryption.
 			- Observe the voltage peaks in decryption process caused and find 0's and 1's in the d then find d.
 			- This method called [Simple Power Analysis (SPA)](https://en.wikipedia.org/wiki/Power_analysis)
 		- **Countermeasure Agains SPA:**
 			- Text-based RSA is deterministic so it is not protected from SPA
 			- If we add randomization to RSA algorithm:
-				- Ensure [[Semantic Security]]
+				- Ensure [Semantic Security](Semantic%20Security.md)
 				- Protect from SPA
 			- This randomization can be created via: 
-				- **Optimal Asymmetric Encryption Padding ([[OAEP]])**
+				- **Optimal Asymmetric Encryption Padding ([OAEP](OAEP.md))**
 					- Detailed information about [OAEP](https://en.wikipedia.org/wiki/Optimal_asymmetric_encryption_padding)
-				![[RSAOAEP.png]]
+				![](RSAOAEP.png)

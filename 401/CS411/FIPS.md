@@ -1,7 +1,7 @@
 ## Federal Information Processing Standards (FIPS)
 
 ### Definition:
-- A suite of tests to ensure the [[PseudoRandom |randomness]] of cryptographic sequences.
+- A suite of tests to ensure the [randomness](PseudoRandom.md) of cryptographic sequences.
 - Established by the NIST 
 ### Types of Randomness Tests:
 - **Poker Test**:

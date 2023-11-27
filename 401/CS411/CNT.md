@@ -1,16 +1,16 @@
 ## CNT (Counter)
 
 ### Definition:
--  CNT is form of [[Modes of Operations]] to encrypt block cipher.
-- Widely used in [[DES]] and [[AES]].
-- [[Stream Cipher]] mode.
+-  CNT is form of [Modes of Operations](Modes%20of%20Operations.md) to encrypt block cipher.
+- Widely used in [DES](DES.md) and [AES](AES.md).
+- [Stream Cipher](Stream%20Cipher.md) mode.
 - CTR mode uses a counter value that is incremented for each block of plaintext, providing a unique input for the encryption of each block.
 ### How It Works:
 - The counter (combined with a nonce) is encrypted, and the output is XORed with the plaintext to produce the ciphertext. 
 - The same process is used for decryption.
 -  Initial Vector (IV) used during xoring operation
 	- Should not used twice (nonce)
-![[CNT.png]]
+![](CNT.png)
 ### Properties:
 - Cipher text blocks can be decrypted independently
 	- Can be computed before encryption and decryption

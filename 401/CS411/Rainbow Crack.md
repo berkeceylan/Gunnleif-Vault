@@ -1,10 +1,10 @@
 ### **Definition:**
 - Rainbow Crack (Rainbow Table attack) is a type of cryptographic attack that's used to crack password hashes.
-- It's an advanced version of a [[Dictionary Attack]] 
+- It's an advanced version of a [Dictionary Attack](Dictionary%20Attack.md) 
 - Effective against systems that use unsalted cryptographic hash functions for password storage.
 - Based on Rainbow Tables:
 	-  Large precomputed tables containing hash values for every possible combination of characters in a password
-	- Use and try to reverse [[Cryptographic Hash Functions]]
+	- Use and try to reverse [Cryptographic Hash Functions](Cryptographic%20Hash%20Functions.md)
 ### How Rainbow Crack Works:
 1. **Pre-computation**: 
 	- Rainbow Tables are generated for a specific hash function and character set.

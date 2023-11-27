@@ -2,9 +2,9 @@
 
 ### Definition:
 - HTTP is the foundational protocol for the World Wide Web(WWW), designed to enable communications between web browsers and servers.
-- HTTP operates at the [[Application Layer]].
+- HTTP operates at the [Application Layer](Application%20Layer.md).
 ### Properties:
-- Uses [[TCP/IP]] connection on port 80
+- Uses [TCP/IP](TCP/IP) connection on port 80
 - Can transfer any type of files:
 	- plain text
 	- audio
@@ -16,7 +16,7 @@
 - **Stateless Protocol**: 
 	- Each request from a client to server is treated as an independent transaction
 	- It does not keep any previous memory
-	- For each transfer new [[TCP/IP]] connection established
+	- For each transfer new [TCP/IP](TCP/IP) connection established
 		- In one TCP connection single or multiple object can be send
 	- Terminates automatically after transfer of data finished
 - **Types of HTTP Connections:**
@@ -54,7 +54,7 @@
 	- Server to client
 	- Use Status Line: `HTTP-Version <SP> Status-Code <SP> Reason-Phrase`
 - **Message Structure:**
- ![[HTTP message.png]]
+ ![](HTTP%20message.png)
 	 - General Header Fields:
 		 - can be used for both request and response
 		 - Contain information that is not directly related to be transferd
@@ -73,7 +73,7 @@
 			 - Location (exact location of the requested URL)
 			 - Server (info about server software)
 	 - Entity Header:
-		 - Similar to [[MIME]] format
+		 - Similar to [MIME](MIME.md) format
 		 - Examples: Content language, Content length, Content type, Last modified
 	 - Entity Body:
 		 - Transfer any data

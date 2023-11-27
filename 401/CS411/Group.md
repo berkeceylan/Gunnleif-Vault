@@ -6,4 +6,4 @@
 	- the identity element
 	- inverse element
 ### Usage in Cryptography:
-- Groups provide the mathematical framework for many cryptographic systems, especially those based on the Discrete Logarithm Problem([[DL]]), such as Diffie-Hellman key exchange and Elliptic Curve Cryptography ([[ECC]]).
+- Groups provide the mathematical framework for many cryptographic systems, especially those based on the Discrete Logarithm Problem([DL](DL)), such as Diffie-Hellman key exchange and Elliptic Curve Cryptography ([ECC](ECC)).
