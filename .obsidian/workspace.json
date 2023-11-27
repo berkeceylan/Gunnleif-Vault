@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f43d34b33f3384d8",
+            "id": "cd721f1e399aed51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "401/CS408/Stack.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b2ab30666253fd1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "401/CS408/Asynchronous Transmission.md",
+                "file": "401/CS408/Data Link Layer.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "401/CS408/Stack.md",
+                "file": "401/CS408/Media Access Control (MAC).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "401/CS408/Stack.md",
+                "file": "401/CS408/Media Access Control (MAC).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "401/CS408/Stack.md"
+                "file": "401/CS408/Media Access Control (MAC).md"
               }
             }
           },
@@ -176,15 +164,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f43d34b33f3384d8",
+  "active": "50c5009fd0526b76",
   "lastOpenFiles": [
+    "401/CS408/Stack.md",
     "401/CS408/Data Link Layer.md",
-    "401/CS408/Asynchronous Transmission.md",
+    "401/CS408/LAN.md",
+    "401/CS408/Logical Link Control (LLC).md",
+    "401/CS408/Media Access Control (MAC).md",
     "401/CS408/Physical Layer.md",
+    "401/CS408/Application Layer.md",
+    "401/CS411/Cryptographic Hash Functions.md",
+    "401/CS411/Message Authentication Codes (MAC).md",
+    "401/CS411/AES.md",
+    "401/CS411/Block Cipher.md",
+    "401/CS411/AEAD.md",
+    "401/CS408/CS408 - WEEK 1.md",
+    "401/CS408/CS408 - WEEK 2.md",
+    "401/CS408/CS408 - WEEK 3.md",
+    "401/CS408/Asynchronous Transmission.md",
     "401/CS408/Synchronous Transmission.md",
+    "401/CS408/RR.md",
     "Attachments/asyncTransmission.png",
     "Attachments/syncTransmission.png",
-    "401/CS408/Stack.md",
     "401/CS408/Unguided Media.md",
     "401/CS408/Microwaves.md",
     "Attachments/SatelliteMicrowave.png",
@@ -197,19 +198,6 @@
     "Attachments/OpticalFiber.png",
     "Attachments/CoaxialCable.png",
     "Attachments/TwistedPair.png",
-    "401/CS408/DNS.md",
-    "401/CS408/CS408 - WEEK 3.md",
-    "401/CS408/CS408 - WEEK 2.md",
-    "401/CS408/CS408 - WEEK 1.md",
-    "401/CS408/Application Layer.md",
-    "401/CS411/DES.md",
-    "401/CS411/AES.md",
-    "401/CS411/OAEP.md",
-    "401/CS411/RSA.md",
-    "401/CS411/Euler’s Theorem.md",
-    "401/CS411/LFSR.md",
-    "401/CS411/Stream Cipher.md",
-    "401/CS411/00-Start Here.md",
     "Attachments/asyncStreamCipher.png",
     "Attachments/syncStreamCipher.png",
     "Attachments/modularExpo.png",

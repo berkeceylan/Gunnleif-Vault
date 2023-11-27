@@ -2,7 +2,7 @@
 ### Definiton:
 - Encryption systems that simultaneously protect confidentiality and authenticity of communications
 - Based on [[AES]] and [[Cryptographic Hash Functions]]
-	- Encryption Scheme + [[MAC]]
+	- Encryption Scheme + [[Message Authentication Codes (MAC)]]
 ### Types
 - **Encrypt-then-MAC(EtM)**:
 	- Provide message authentication and confidentially in same time

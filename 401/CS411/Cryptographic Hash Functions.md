@@ -49,7 +49,7 @@
 - **Message Authentication:**
 	- Verifying the integrity of a message
 		- Ensuring its content has not been altered by unauthorized parties. 
-		- **Message Authentication Codes [[MAC]]**
+		-  [[Message Authentication Codes (MAC)]]
 	- Authentication and Confidentially is different things, should be handled separately
 		- **Authenticated Encryption with Associated Data ([[AEAD]])**
 	- It's crucial for the security of communications in networks.

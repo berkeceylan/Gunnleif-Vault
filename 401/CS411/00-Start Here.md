@@ -64,7 +64,7 @@ This is a navigation page for CS411 Cryptography Lesson
 	-  [[Merkle Hash Tree]]
 	- [[Dictionary Attack]]
 		- [[Rainbow Crack]]
-	- [[MAC]]
+	- [[Message Authentication Codes (MAC)]]
 		- [[Authentication with Encryption]]
 		- [[AEAD]]
 - Public Key Crypto-systems ([[PKC]])

@@ -13,7 +13,6 @@
         - change in one protocol should not affect the other protocols
 - **Architecture of Protocols**
     - **TCP/IP Model**
-        - 
         - *Network Access (Internet) Layer*
             - Purpose: Exchange of data between the computer and the network
             - Techniques:
