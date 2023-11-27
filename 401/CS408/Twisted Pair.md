@@ -1,8 +1,8 @@
 ### Definition:
-- One of the types of [[Guided Media]]
-- Common in local area networks([[LAN]]) and telephone systems.
+- One of the types of [Guided Media](Guided%20Media.md)
+- Common in local area networks([LAN](LAN.md)) and telephone systems.
 - Detailed information about [Twisted Pair Cables](https://www.geeksforgeeks.org/twisted-pair-cable/)
-![[TwistedPair.png]]
+![TwistedPair](TwistedPair.png)
 ### Types:
 - **Shielded Twisted Pair (STP)**:
 	- Metal braid or sheathing that reduces interference
@@ -15,7 +15,7 @@
 	- Cheaper
 	- Easier to install
 	- Suffers from external EM interference, so insulation is important.
-	- [[UTP Categories]]
+	- [UTP Categories](UTP%20Categories.md)
 ### Pros & Cons:
 - **Pros:** 
 	- Cheap

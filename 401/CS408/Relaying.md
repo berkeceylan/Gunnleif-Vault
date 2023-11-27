@@ -1,4 +1,4 @@
-* In [[SMTP]] terms, relaying means asking an SMTP sender to deliver an email on behalf of:
+* In [SMTP](SMTP.md) terms, relaying means asking an SMTP sender to deliver an email on behalf of:
 	* another SMTP server
 		or
 	* an email client

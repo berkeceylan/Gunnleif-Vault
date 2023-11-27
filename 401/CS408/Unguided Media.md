@@ -1,4 +1,4 @@
-One of the two medias that we used to transmit data in [[Physical Layer]].
+One of the two medias that we used to transmit data in [Physical Layer](Physical%20Layer.md).
 ## Wireless Transmission:
 
 ### Definition:
@@ -24,7 +24,7 @@ One of the two medias that we used to transmit data in [[Physical Layer]].
 	- television broadcasting
 	- mobile phones.
 - **Advantages**: Can travel long distances and penetrate buildings, making them useful for widespread communication.
-### [[Microwaves]]
+### [Microwaves](Microwaves.md)
 
 ## Pros & Cons
 - **Pros**:

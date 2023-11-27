@@ -1,6 +1,6 @@
 ## Unshielded Twisted Pair Categories
 ### Definition:
-- Type of [[Twisted Pair]] cabling used in telecommunications and computer networking
+- Type of [Twisted Pair](Twisted%20Pair.md) cabling used in telecommunications and computer networking
 - UTP cables are categorized based on their performance characteristics
 - Higher category cables generally offer better performance but at a higher cost
 ### Types: 

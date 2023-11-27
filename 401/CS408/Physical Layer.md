@@ -1,6 +1,6 @@
 ### Definition:
 - Responsible for the transmission of raw bit streams over a physical medium
-- First and lowest layer in both the [[OSI]] model and the [[TCP/IP]] protocol stack
+- First and lowest layer in both the [OSI](OSI) model and the [TCP/IP](TCP/IP) protocol stack
 ### Properties:
 - Defines hardware specifications like cables, cards, and physical aspects.
 - Handles the bit-level transmission.
@@ -24,15 +24,15 @@
 ### Data Transmission 
 - Converts digital data into Electromagnetic (EM) signals for transmission through various media.
 - There are two types of [medium in data transmission](https://www.geeksforgeeks.org/types-transmission-media/)
-	- **[[Guided Media]]**:
-		- **[[Twisted Pair]]**: 
+	- **[Guided Media](Guided%20Media.md)**:
+		- **[Twisted Pair](Twisted%20Pair.md)**: 
 			- Common in local area networks and telephone systems.
-		- **[[Coaxial Cable]]**:
+		- **[Coaxial Cable](Coaxial%20Cable.md)**:
 			- Used for television distribution and internet access.
-		- **[[Optical Fiber]]**: 
+		- **[Optical Fiber](Optical%20Fiber.md)**: 
 			- Offers high data rates and is used in long-haul network connections.
-	- **[[Unguided Media]]**:
-		- **[[Unguided Media#Wireless Transmission |Wireless Transmission]]**: 
+	- **[Unguided Media](Unguided%20Media.md)**:
+		- **[](Unguided%20Media.md#Wireless%20Transmission%20|Wireless%20Transmission)**: 
 			- Radio, microwave, and infrared are primary forms.
 ## Synchronization
 - Problem: sender and receiver should be synchronized at the bit level.
@@ -41,9 +41,9 @@
 		- must know when to start and stop sampling
 		- must know the rate of data
 - There are two types of solution: A good [comparison](https://www.geeksforgeeks.org/difference-between-synchronous-and-asynchronous-transmission/) of types
-	- [[Asynchronous Transmission]]: 
+	- [Asynchronous Transmission](Asynchronous%20Transmission.md): 
 		- Data is sent one character at a time with start and stop bits.
-	- [[Synchronous Transmission]]: 
+	- [Synchronous Transmission](Synchronous%20Transmission.md): 
 		- A continuous stream of data is sent with timing information.
 
 

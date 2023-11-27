@@ -1,4 +1,4 @@
-- The process where one party proposes a [[Telnet]] option
+- The process where one party proposes a [Telnet](Telnet.md) option
 	- The other party can either accept or reject.
 - Options are not enabled until negotiation is complete.
 - Four negotiation commands: **WILL, WONT, DO, DONT**
@@ -12,4 +12,4 @@
 		- WONT -> responders does not agree
 	- **DONT** -> Initiator would like responder to diable option
 		- WONT -> responder must agree
-![[WillWontDoDont.png]]
+![WillWontDoDont](WillWontDoDont.png)

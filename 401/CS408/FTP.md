@@ -1,7 +1,7 @@
 ## File Transfer Protocol (FTP)
 
 ### Historical Context: 
-- Old protocol contemporary to [[Telnet]]
+- Old protocol contemporary to [Telnet](Telnet.md)
 	- Most of the commands still in use
   - Defined in RFC 959
 - Manages file systems
@@ -10,11 +10,11 @@
 		- directory listing
 		- access control
 ### Properties:
- - FTP operates at the [[Application Layer]].
+ - FTP operates at the [Application Layer](Application%20Layer.md).
 - FTP Model is consist of: 
 	- User FTP (Host) -> send request
 	- Server FTP entities -> always reply
-- Uses [[TCP/IP]] on port 21
+- Uses [TCP/IP](TCP/IP) on port 21
 	- Server FTP always listen port 21
 	- Utilizes two TCP connections: 
 		- one for control information
@@ -28,7 +28,7 @@
 		4. Server FTP transfer the data 
 	- Reject
 		- Terminate the connection
-![[FTP.png]]
+![FTP](FTP.png)
 ### FTP Commands
   - **Access Control**: 
 	  - Username = USER

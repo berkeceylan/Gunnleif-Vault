@@ -4,7 +4,7 @@
 - Manages protocol multiplexing, flow control, and error checking.
 ### Logical Link Control (LLC)
 - Part of the Data Link Layer in the IEEE 802 reference model.
-- [[Logical Link Control (LLC)]]:
+- [Logical Link Control (LLC)](Logical%20Link%20Control%20(LLC).md):
   - Provides an interface to higher layers.
   - Manages flow control.
   - Based on classical Data Link Control Protocols.

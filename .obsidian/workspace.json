@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "401/CS408/Data Link Layer.md",
+                "file": "401/CS408/Application Layer.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "401/CS408/Data Link Layer.md",
+                "file": "401/CS408/Application Layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "401/CS408/Data Link Layer.md",
+                "file": "401/CS408/Application Layer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "401/CS408/Data Link Layer.md"
+                "file": "401/CS408/Application Layer.md"
               }
             }
           },
@@ -150,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,35 +165,35 @@
   },
   "active": "cd721f1e399aed51",
   "lastOpenFiles": [
-    "MAC.md",
-    "401/CS408/Data Link Layer.md",
-    "401/CS408/Stack.md",
-    "401/CS408/LAN.md",
-    "401/CS408/Logical Link Control (LLC).md",
-    "401/CS408/Media Access Control (MAC).md",
-    "401/CS408/Physical Layer.md",
-    "401/CS408/Application Layer.md",
-    "401/CS411/Cryptographic Hash Functions.md",
-    "401/CS411/Message Authentication Codes (MAC).md",
-    "401/CS411/AES.md",
-    "401/CS411/Block Cipher.md",
-    "401/CS411/AEAD.md",
-    "401/CS408/CS408 - WEEK 1.md",
-    "401/CS408/CS408 - WEEK 2.md",
-    "401/CS408/CS408 - WEEK 3.md",
-    "401/CS408/Asynchronous Transmission.md",
+    "401/CS408/UTP Categories.md",
+    "401/CS408/Unguided Media.md",
+    "401/CS408/Twisted Pair.md",
+    "401/CS408/Telnet.md",
     "401/CS408/Synchronous Transmission.md",
+    "401/CS408/Stack.md",
+    "401/CS408/Socket.md",
+    "401/CS408/SMTP.md",
     "401/CS408/RR.md",
+    "401/CS408/Right-of-Way.md",
+    "401/CS408/Remote Terminal Access.md",
+    "401/CS408/Relaying.md",
+    "401/CS408/Physical Layer.md",
+    "401/CS408/Option Negotiation.md",
+    "401/CS408/Optical Fiber.md",
+    "401/CS408/NVT.md",
+    "401/CS408/MIME Transfer Encoding.md",
+    "401/CS408/MIME.md",
+    "401/CS408/Microwaves.md",
+    "401/CS408/Media Access Control (MAC).md",
+    "401/CS408/LAN.md",
+    "401/CS408/HTTP.md",
+    "401/CS408/Application Layer.md",
+    "401/CS408/Data Link Layer.md",
+    "MAC.md",
+    "401/CS408/Logical Link Control (LLC).md",
     "Attachments/asyncTransmission.png",
     "Attachments/syncTransmission.png",
-    "401/CS408/Unguided Media.md",
-    "401/CS408/Microwaves.md",
     "Attachments/SatelliteMicrowave.png",
-    "401/CS408/Optical Fiber.md",
-    "401/CS408/Right-of-Way.md",
-    "401/CS408/Guided Media.md",
-    "401/CS408/Coaxial Cable.md",
-    "401/CS408/Twisted Pair.md",
     "Attachments/OpticalFiber.png",
     "Attachments/CoaxialCable.png",
     "Attachments/TwistedPair.png",

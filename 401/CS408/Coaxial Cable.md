@@ -1,8 +1,8 @@
 ### Definition:
-- One of the types of [[Guided Media]]
+- One of the types of [Guided Media](Guided%20Media.md)
 - Used in telecommunications and networking, consisting of a central conductor, an insulating layer, a metallic shield, and an outer insulating layer.
 - Detailed information about [Coaxial Cable](https://www.geeksforgeeks.org/what-is-coaxial-cable/?ref=lbp)
-![[CoaxialCable.png]]
+![CoaxialCable](CoaxialCable.png)
 ### Properties:
 - Most versatile medium
 - Can carry 10,000 voice calls simultaneously
@@ -15,7 +15,7 @@
 - Cable TV
 - Long distance telephone transmission
 - Cable Internet
-- Local area networks([[LAN]]) (old technology)
+- Local area networks([LAN](LAN.md)) (old technology)
 	- Mostly replaced by Twisted pair or Optical Fiber Cable
 	- Important since: all parameters written based on Coaxial Cable structure
 ### Pros & Cons:

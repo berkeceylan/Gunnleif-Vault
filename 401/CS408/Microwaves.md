@@ -1,4 +1,4 @@
-One of the types of Wireless Transmission in [[Unguided Media]] 
+One of the types of Wireless Transmission in [Unguided Media](Unguided%20Media.md) 
 ### Properties:
 - **Frequency Range**: 
 	- 1 GHz to 40 GHz
@@ -26,7 +26,7 @@ One of the types of Wireless Transmission in [[Unguided Media]]
 		- transponder = frequency channel
 	- May also Broadcast
 	- Requires geo-stationary orbit
-	![[SatelliteMicrowave.png]]
+	![SatelliteMicrowave](SatelliteMicrowave.png)
 	- **Applications:**
 		- Television
 		- Long distance telephone

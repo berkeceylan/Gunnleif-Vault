@@ -3,5 +3,6 @@
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "Attachments",
   "strictLineBreaks": false,
-  "showLineNumber": false
+  "showLineNumber": false,
+  "useMarkdownLinks": true
 }

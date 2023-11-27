@@ -1,5 +1,5 @@
 - Provide reliable delivery across various environments
-- Used during [[Electronic Mail]] transmission process with [[MIME]] .
+- Used during [Electronic Mail](Electronic%20Mail.md) transmission process with [MIME](MIME.md) .
 - Content- transfer-encoding field:
 	- Header used to specify the method that should be used to convert the body of a message from its native format into a form that can be reliably sent across the network
 - Encoding Types:
@@ -21,5 +21,5 @@
 			- The message in ASCII code must be multiple of 4
 			- \# of zeros / 2 =  \# of '=' needed to add ASCII type of encoded message 
 		- 33.33% overhead -> increases to 4/3 of the original size
-		- Example: ![[Radix64.png]]
+		- Example: ![Radix64](Radix64.png)
 		- 

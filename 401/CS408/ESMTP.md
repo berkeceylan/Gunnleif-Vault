@@ -1,7 +1,7 @@
 ## ESMTP (Extended Simple Mail Transfer Protocol):
 
 - **Function**:
-	- ESMTP is an extension of the original [[SMTP]] (Simple Mail Transfer Protocol). 
+	- ESMTP is an extension of the original [SMTP](SMTP.md) (Simple Mail Transfer Protocol). 
 	- It allows for the sending of email messages with added features not available in the original SMTP.
 - **Crucial Additions**:
 	- **Enhanced Authentication**:

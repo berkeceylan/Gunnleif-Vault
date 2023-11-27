@@ -2,14 +2,14 @@
 
 ### Definition
 - A critical directory lookup service for the internet
-	- Must for [[Internet]]
+	- Must for [Internet](Internet)
 - Mapping hostnames to IP addresses
 	- Turn IP addresses to user friendly domain names
 - Defined in RFC 1034 (concepts)
 - RFC 1035 (implementation)
-- DNS operates at the [[Application Layer]].
-- Uses [[TCP/IP]] mainly IP and [[UDP]] connection
-- A Typical [[DNS Operation]] can be seen here
+- DNS operates at the [Application Layer](Application%20Layer.md).
+- Uses [TCP/IP](TCP/IP) mainly IP and [UDP](UDP) connection
+- A Typical [DNS Operation](DNS%20Operation.md) can be seen here
 ### Structure
 - **Domain Name Space**:
 	- A hierarchical, tree-structured database.
@@ -27,13 +27,13 @@
 		- Labels at most = 63 char
 		- Full name at most = 255 char
 		- Case intensive
-		![[DomainTree.png]]
+		![DomainTree](DomainTree.png)
 - **DNS Database**: 
-	- Distributed, containing resource records ([[RR]]s) for each domain.
+	- Distributed, containing resource records ([RR](RR.md)s) for each domain.
 	- Organized into zones, each managed independently with its own name server.
 	- **Zones**:
 		- Each non-leaf node may or may not manage its child
-		![[Zones.png]]
+		![Zones](Zones.png)
 - **Name Servers**: 
 	- Servers that hold part of the DNS database relevant to certain domains.
 	- Server for TLDS
@@ -44,4 +44,4 @@
 		- Local name server  = authoritative name server for all of the hosts in its zone
 - **Name Resolvers**: 
 	- Client-side applications that retrieve domain information from name servers.
-	![[NameResolution.png]]
+	![NameResolution](NameResolution.png)

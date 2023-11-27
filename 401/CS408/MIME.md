@@ -1,6 +1,6 @@
 ## Multipurpose Internet Mail Extension (MIME)
 ### Definition
-- MIME is extension for [[Electronic Mail]]'s [[SMTP]] protocol
+- MIME is extension for [Electronic Mail](Electronic%20Mail.md)'s [SMTP](SMTP.md) protocol
 - MIME works on SMTP
 - MIME is a framework to handle attachments
 	- support formats other than ASCII such as audio, video, images, and application programs
@@ -13,7 +13,7 @@
 		- Description fır the data (text, audio, video, image...)
 	3. **Content-Transfer-Encoding**: 
 		- Specifies the encoding used to safely transmit the content over SMTP, which handles only 7-bit ASCII text. 
-		- [[MIME Transfer Encoding]]
+		- [MIME Transfer Encoding](MIME%20Transfer%20Encoding.md)
 	4. **Content-Description**: 
 		- Plain text description fır the object in the body
 		- Optional field -> if explanation for the attachment is need it will used

@@ -1,11 +1,11 @@
 ## Simple Mail Transfer Protocol (SMTP)
 ### Definition:
-- A protocol used to transfer [[Electronic Mail]] between computers.
+- A protocol used to transfer [Electronic Mail](Electronic%20Mail.md) between computers.
 	- work between network to network
-- It works at the [[Application Layer]] of the [[OSI]] model.
+- It works at the [Application Layer](Application%20Layer.md) of the [OSI](OSI) model.
 - Introduced with RFC 821
 ## Properties:
-- Works on [[TCP/IP]]
+- Works on [TCP/IP](TCP/IP)
 	- uses port 25
 - Used for delivery of simple text messages
 - Works in session manner
@@ -28,9 +28,9 @@
 	- Positive intermediate reply (3xx)
 	- Transient negative completion reply (4xx)
 	- Permanent negative completion reply (5xx)
-- STMP service Extension: [[ESMTP]] --> [[MIME]]
+- STMP service Extension: [ESMTP](ESMTP.md) --> [MIME](MIME.md)
 ### SMTP Mail Flow
-![[SMTPMailFlow.png]]
+![SMTPMailFlow](SMTPMailFlow.png)
 ### SMTP Sender:
 - **Role**: Manages outgoing email messages.
 - **Queue Management**: Retrieves email messages queued for sending.
@@ -41,7 +41,7 @@
 	- •If the client does not run a mail sender:
 		- SMTP  asks a server to do so
 			- Client acts as a sender
-			- Server acts as a relay ([[Relaying]])
+			- Server acts as a relay ([Relaying](Relaying.md))
 - **Post-Delivery**:
 	- Once the email is delivered
 		- sender removes the recipient's address from the message's recipient list.

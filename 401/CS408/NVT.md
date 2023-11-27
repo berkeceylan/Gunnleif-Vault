@@ -1,7 +1,7 @@
 ## Network Virtual Terminal (NVT)
 ### Definition: 
 * A theoretical device that provides a standardized representation of a terminal, facilitating consistent communication between diverse systems.
-* [[Telnet]] operates according to NVT principle
+* [Telnet](Telnet.md) operates according to NVT principle
 ### Properties
   - **Character Set**: 
 	  - Uses a standard ASCII character set, ensuring uniformity across different devices.

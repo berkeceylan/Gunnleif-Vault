@@ -1,14 +1,14 @@
 ## Resource Record (RR)
 ### Definition:
-- Records in a [[DNS]] database
-	- Full Example: [[DNSDatabaseExample.png]]
+- Records in a [DNS](DNS.md) database
+	- Full Example: [DNSDatabaseExample](DNSDatabaseExample.png)
 - Fields: `DomainName TTL Class Type Value`
 	- **Domain Name:** 
 		- Series of labels separated by (".")
 	- **TLL (Time to live):**  
 		- how long to hold the result in local cache (zero means no cache)
 	- **Class:** 
-		- Usually `IN` for [[Internet]]
+		- Usually `IN` for [Internet](Internet)
 	- **Types:**
 		- A and AAAA**: 
 			- Address Type
@@ -35,7 +35,7 @@
 			- `hostmaster@example.com.` ->`hostmaster.example.com.`
 		- **MX (Mail Exchange)**: 
 			- Directs email to mail servers
-			- Value field -> name of the receiving [[SMTP]] agent for the Domain_Name
+			- Value field -> name of the receiving [SMTP](SMTP.md) agent for the Domain_Name
 			- Example: `example.com.   3600   IN   MX  mailserver.example.com.`
 			- Supporting load balancing through multiple records.
 				- Multiple MX RRs: 

@@ -1,12 +1,12 @@
 ### Definition:
-- One of the types of [[Guided Media]]
+- One of the types of [Guided Media](Guided%20Media.md)
 - Also known as Fiber Optic Cable
 - Detailed information about [Optical Cable](https://www.geeksforgeeks.org/fiber-optics-and-types/?ref=lbp)
-![[OpticalFiber.png]]
+![OpticalFiber](OpticalFiber.png)
 ### Usage:
 - Long distance communication lines
 - Subscriber loops
-- [[LAN]]s
+- [LAN](LAN.md)s
 ### Properties:
 - **Structure**:
 	- **Core**: 
@@ -19,7 +19,7 @@
 	- **Overcoat**: (Jacket/Buffer): 
 		- Plastic layer to protect against environmental dangers
 - Uses light for data transmission, which can be either laser or LEDs.
-- Need [[Right-of-Way]] and cabling
+- Need [Right-of-Way](Right-of-Way.md) and cabling
 - **Types**:
 	- Single-mode (long-distance communication)
 	- multi-mode (shorter distance, higher bandwidth).
