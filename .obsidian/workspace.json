@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "401/CS411/GF.md",
+                "file": "401/CS408/Data Link Layer.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "401/CS411/GF.md",
+                "file": "401/CS408/Data Link Layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "401/CS411/GF.md",
+                "file": "401/CS408/Data Link Layer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "401/CS411/GF.md"
+                "file": "401/CS408/Data Link Layer.md"
               }
             }
           },
@@ -165,10 +165,19 @@
   },
   "active": "cd721f1e399aed51",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20231127120240.png",
+    "401/CS408/Coaxial Cable.md",
+    "401/CS411/Block Cipher.md",
+    "401/CS411/2DES.md",
+    "401/CS411/ECB.md",
+    "Attachments/ECB.png",
+    "401/CS411/Modes of Operations.md",
+    "401/CS411/AES.md",
+    "401/CS411/Cryptographic Hash Functions.md",
+    "401/CS411/GF.md",
     "Attachments/Pasted image 20231127115610.png",
     "Attachments/16RoundDES.png",
     "Attachments/Addressreq.png",
-    "401/CS408/Coaxial Cable.md",
     "401/CS408/Application Layer.md",
     "Attachments/Zones.png",
     "401/CS408/Data Link Layer.md",
@@ -186,8 +195,6 @@
     "Attachments/Euler.png",
     "Attachments/Eucledian Algorithm.png",
     "401/CS411/CRT.md",
-    "Attachments/CRT.png",
-    "Attachments/LSFR2.png",
     "401/CS408/Stack.md",
     "Attachments/Attachments",
     "Attachments/Attachments 1",
@@ -196,13 +203,6 @@
     "401/CS408/UTP Categories.md",
     "401/CS408/Asynchronous Transmission.md",
     "401/CS408/Telnet.md",
-    "401/CS408/Synchronous Transmission.md",
-    "401/CS408/Socket.md",
-    "401/CS408/SMTP.md",
-    "401/CS408/RR.md",
-    "401/CS408/Right-of-Way.md",
-    "401/CS408/Remote Terminal Access.md",
-    "401/CS408/Relaying.md",
     "401/CS411/Untitled",
     "Users/berkeceylan/Pictures",
     "Users/berkeceylan",
