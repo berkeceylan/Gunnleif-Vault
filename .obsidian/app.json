@@ -5,5 +5,5 @@
   "strictLineBreaks": false,
   "showLineNumber": false,
   "useMarkdownLinks": true,
-  "newLinkFormat": "shortest"
+  "newLinkFormat": "relative"
 }

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "401/CS408/Coaxial Cable.md",
+                "file": "401/CS408/Data Link Layer.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "401/CS408/Coaxial Cable.md",
+                "file": "401/CS408/Data Link Layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "401/CS408/Coaxial Cable.md",
+                "file": "401/CS408/Data Link Layer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "401/CS408/Coaxial Cable.md"
+                "file": "401/CS408/Data Link Layer.md"
               }
             }
           },
@@ -165,9 +165,10 @@
   },
   "active": "cd721f1e399aed51",
   "lastOpenFiles": [
+    "401/CS408/Coaxial Cable.md",
+    "Attachments/Pasted image 20231127122452.png",
     "401/CS408/Attachments/deneme.png",
     "401/CS408/Attachments/OsıVsTcpIp.png",
-    "401/CS408/Coaxial Cable.md",
     "consistency-report.md",
     "401/CS408/Attachments/CoaxialCable.png",
     "401/CS408/Attachments",
@@ -188,14 +189,12 @@
     "401/CS408/Attachments/Addressreq.png",
     "401/CS408/Application Layer.md",
     "401/CS408/Attachments/Zones.png",
-    "401/CS408/Pasted image 20231127115237.png",
     "401/CS408/Unguided Media.md",
     "401/CS408/Physical Layer.md",
     "401/CS408/Microwaves.md",
     "401/CS411/CBC.md",
     "401/CS408/HTTP.md",
     "401/CS411/Modular Exponentiation.md",
-    "401/CS411/Attachments/BinaryLefttoRightalgortihm.png",
     "401/CS411/Euclidean Algorithm.md",
     "401/CS411/CRT.md",
     "401/CS408/Stack.md",
