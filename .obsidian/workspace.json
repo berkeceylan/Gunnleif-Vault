@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "401/CS408/Media Access Control (MAC).md",
+                "file": "401/CS408/Data Link Layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "401/CS408/Media Access Control (MAC).md",
+                "file": "401/CS408/Data Link Layer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "401/CS408/Media Access Control (MAC).md"
+                "file": "401/CS408/Data Link Layer.md"
               }
             }
           },
@@ -164,10 +164,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "50c5009fd0526b76",
+  "active": "cd721f1e399aed51",
   "lastOpenFiles": [
-    "401/CS408/Stack.md",
+    "MAC.md",
     "401/CS408/Data Link Layer.md",
+    "401/CS408/Stack.md",
     "401/CS408/LAN.md",
     "401/CS408/Logical Link Control (LLC).md",
     "401/CS408/Media Access Control (MAC).md",
@@ -194,7 +195,6 @@
     "401/CS408/Guided Media.md",
     "401/CS408/Coaxial Cable.md",
     "401/CS408/Twisted Pair.md",
-    "401/CS408/UTP Categories.md",
     "Attachments/OpticalFiber.png",
     "Attachments/CoaxialCable.png",
     "Attachments/TwistedPair.png",
