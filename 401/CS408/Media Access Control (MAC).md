@@ -9,6 +9,6 @@
 - Prepares data for transmission
 - Responsible for error detection and address recognition
 - Address recognition
-![MAC&LLC](../../Attachments/MAC&LLC.png)
+![MAC&LLC](Attachments/MAC&LLC.png)
 
 ### Channel Allocation:

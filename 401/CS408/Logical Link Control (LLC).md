@@ -7,5 +7,5 @@
 - Manages flow control.
 - Based on classical Data Link Control Protocols.
 - Manages protocol multiplexing, flow control, and error checking.
-![MAC&LLC](../../Attachments/MAC&LLC.png)
+![MAC&LLC](Attachments/MAC&LLC.png)
 

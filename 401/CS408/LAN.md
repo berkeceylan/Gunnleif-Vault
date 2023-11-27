@@ -27,9 +27,9 @@
 		- Governs access to the transmission medium
 	- [Physical Layer](Physical%20Layer.md)
 		- Same properties with classic physical layer
-	- ![IEEE802ReferenceModel|250](../../Attachments/IEEE802ReferenceModel.png)
+	- ![IEEE802ReferenceModel|250](Attachments/IEEE802ReferenceModel.png)
 - LAN Protocols
-- ![LANProtocol|450](../../Attachments/LANProtocol.png)
+- ![LANProtocol|450](Attachments/LANProtocol.png)
 ### LAN Topologies:
 - LANs can adopt various topologies, each with unique characteristics:
 	- **[Bus Topology](Bus%20Topology.md)**: 
