@@ -19,4 +19,3 @@
 - **[Logical Link Control (LLC)](Logical%20Link%20Control%20(LLC).md)**:
 	- Operates as a sublayer within the Data Link Layer
 	- Provides an interface between the Network Layer and the MAC sublayer.
-![](Pasted%20image%2020231127120240.png)

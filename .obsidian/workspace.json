@@ -11,11 +11,9 @@
             "id": "cd721f1e399aed51",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "401/CS408/Coaxial Cable.md",
-                "mode": "source",
-                "source": false
+                "file": "Attachments/16RoundDES.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "401/CS408/Coaxial Cable.md",
+                "file": "Attachments/16RoundDES.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "401/CS408/Coaxial Cable.md",
+                "file": "Attachments/16RoundDES.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "401/CS408/Coaxial Cable.md"
+                "file": "Attachments/16RoundDES.png"
               }
             }
           },
@@ -165,9 +163,10 @@
   },
   "active": "cd721f1e399aed51",
   "lastOpenFiles": [
+    "401/CS408/Logical Link Control (LLC).md",
     "401/CS408/Data Link Layer.md",
-    "Attachments/Pasted image 20231127120240.png",
     "401/CS408/Coaxial Cable.md",
+    "Attachments/Pasted image 20231127120240.png",
     "401/CS411/Block Cipher.md",
     "401/CS411/2DES.md",
     "401/CS411/ECB.md",
