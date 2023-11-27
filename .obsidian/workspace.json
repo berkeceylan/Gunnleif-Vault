@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "401/CS408/Data Link Layer.md",
+                "file": "401/CS408/Coaxial Cable.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "401/CS408/Data Link Layer.md",
+                "file": "401/CS408/Coaxial Cable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "401/CS408/Data Link Layer.md",
+                "file": "401/CS408/Coaxial Cable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "401/CS408/Data Link Layer.md"
+                "file": "401/CS408/Coaxial Cable.md"
               }
             }
           },
@@ -165,6 +165,7 @@
   },
   "active": "cd721f1e399aed51",
   "lastOpenFiles": [
+    "401/CS408/Data Link Layer.md",
     "Attachments/Pasted image 20231127120240.png",
     "401/CS408/Coaxial Cable.md",
     "401/CS411/Block Cipher.md",
@@ -180,7 +181,6 @@
     "Attachments/Addressreq.png",
     "401/CS408/Application Layer.md",
     "Attachments/Zones.png",
-    "401/CS408/Data Link Layer.md",
     "401/CS408/Pasted image 20231127115237.png",
     "401/CS408/Unguided Media.md",
     "401/CS408/Physical Layer.md",
@@ -193,7 +193,6 @@
     "Attachments/mermaid-diagram-2023-11-18-114935.png",
     "401/CS411/Euclidean Algorithm.md",
     "Attachments/Euler.png",
-    "Attachments/Eucledian Algorithm.png",
     "401/CS411/CRT.md",
     "401/CS408/Stack.md",
     "Attachments/Attachments",

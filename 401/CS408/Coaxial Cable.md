@@ -2,6 +2,7 @@
 - One of the types of [Guided Media](Guided%20Media.md)
 - Used in telecommunications and networking, consisting of a central conductor, an insulating layer, a metallic shield, and an outer insulating layer.
 - Detailed information about [Coaxial Cable](https://www.geeksforgeeks.org/what-is-coaxial-cable/?ref=lbp)
+- ![CoaxialCable](CoaxialCable.png)
 ![CoaxialCable](../../Attachments/CoaxialCable.png)
 ### Properties:
 - Most versatile medium
