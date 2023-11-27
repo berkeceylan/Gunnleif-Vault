@@ -32,7 +32,7 @@
 		- **[Optical Fiber](Optical%20Fiber.md)**: 
 			- Offers high data rates and is used in long-haul network connections.
 	- **[Unguided Media](Unguided%20Media.md)**:
-		- **[](Unguided%20Media.md#Wireless%20Transmission%20|Wireless%20Transmission)**: 
+		- **[Wireless Transmission](Unguided%20Media.md#Wireless%20Transmission%20|Wireless%20Transmission)**: 
 			- Radio, microwave, and infrared are primary forms.
 ## Synchronization
 - Problem: sender and receiver should be synchronized at the bit level.

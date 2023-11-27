@@ -15,7 +15,7 @@
   "ignoreFilesRegex": [
     {}
   ],
-  "attachmentsSubfolder": "Attecments",
+  "attachmentsSubfolder": "Attachments",
   "consistencyReportFile": "consistency-report.md",
   "useBuiltInObsidianLinkCaching": false
 }

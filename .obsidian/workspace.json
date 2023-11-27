@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "401/CS408/Asynchronous Transmission.md",
+                "file": "401/CS408/Stack.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "401/CS408/Asynchronous Transmission.md",
+                "file": "401/CS408/Stack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "401/CS408/Asynchronous Transmission.md",
+                "file": "401/CS408/Stack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "401/CS408/Asynchronous Transmission.md"
+                "file": "401/CS408/Stack.md"
               }
             }
           },
@@ -163,13 +163,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cd721f1e399aed51",
+  "active": "4333f231a602d07b",
   "lastOpenFiles": [
-    "401/CS408/Application Layer.md",
-    "401/CS408/HTTP.md",
-    "401/CS408/UTP Categories.md",
+    "401/CS408/Physical Layer.md",
     "401/CS408/Unguided Media.md",
+    "401/CS408/Guided Media.md",
     "401/CS408/Twisted Pair.md",
+    "401/CS408/UTP Categories.md",
+    "401/CS408/Data Link Layer.md",
+    "401/CS408/Application Layer.md",
+    "401/CS408/Asynchronous Transmission.md",
+    "Attachments/16RoundDES.png",
+    "consistency-report.md",
+    "401/CS408/HTTP.md",
     "401/CS408/Telnet.md",
     "401/CS408/Synchronous Transmission.md",
     "401/CS408/Stack.md",
@@ -179,7 +185,6 @@
     "401/CS408/Right-of-Way.md",
     "401/CS408/Remote Terminal Access.md",
     "401/CS408/Relaying.md",
-    "401/CS408/Physical Layer.md",
     "401/CS408/Option Negotiation.md",
     "401/CS408/Optical Fiber.md",
     "401/CS408/NVT.md",
@@ -187,10 +192,6 @@
     "401/CS408/MIME.md",
     "401/CS408/Microwaves.md",
     "401/CS408/Media Access Control (MAC).md",
-    "401/CS408/LAN.md",
-    "401/CS408/Data Link Layer.md",
-    "MAC.md",
-    "401/CS408/Logical Link Control (LLC).md",
     "Attachments/asyncTransmission.png",
     "Attachments/syncTransmission.png",
     "Attachments/SatelliteMicrowave.png",
@@ -200,7 +201,6 @@
     "Attachments/asyncStreamCipher.png",
     "Attachments/syncStreamCipher.png",
     "Attachments/modularExpo.png",
-    "Attachments/EuclidianAlgorithm.png",
     "401/CS411/Untitled",
     "Users/berkeceylan/Pictures",
     "Users/berkeceylan",
