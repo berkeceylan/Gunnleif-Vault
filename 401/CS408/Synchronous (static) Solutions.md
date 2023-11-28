@@ -1,5 +1,6 @@
 ### Defintion:
 - A way of solving synchronization in channel allocation problem in [Media Access Control (MAC)](Media%20Access%20Control%20(MAC).md) sublayer.
+- Idea: Everyone knows when to transmit 
 - These solution ensure 
 	- efficiently managing network resources
 	- multiple data streams can coexist over a single transmission medium without interference
@@ -8,7 +9,7 @@
 - **Definition**: 
 	- Channel is divided to carry different signals at different frequencies
 	- One channel per user
-	![FDM|300](../../Attachments/FDM.png)
+	![FDM|300](Attachments/FDM.png)
 - **Properties**:
 	- Allows multiple users to send data simultaneously, each over a separate frequency band.
 	- Efficient -> if # user =  # channel with continuous traffic
@@ -23,20 +24,15 @@
 
 ### Time Division Multiplexing (TDM)
 - **Definition**: 
-	- divide the time into several slots
+	- Divide the time into several slots
 	- Each user is statically allocated one time slot
+	![TDM|300](Attachments/TDM.png)
 - **Properties**:
-	- **Sequential Transmission**: Users transmit in turn, each using the entire bandwidth for a fixed time slot.
-	- **Synchronization**: Requires precise timing to ensure each user transmits during their allocated slot.
+	- Users transmit in turn, each using the entire bandwidth for a fixed time slot
+		- if a particular user does not have anything to send
+		- it remains idle and wastes the channel for that period
+	- User may not utilize the whole channel for a time slot
+	- Requires precise timing 
+	- Inefficient
 - **Applications**:
 	- Common in digital telecommunications, especially where the transmission medium’s capacity is higher than the data rate of digital signals.
-- **Pros and Cons**:
-	- **Pros**: Ensures a dedicated time slot for each user, providing predictable transmission times.
-	- **Cons**: Can be inefficient if a user has no data to transmit in their allocated slot, leading to underutilization of the channel.
-•
-
-—if a particular user does not have anything to send, it remains idle and wastes the channel for that period
-
-—A user may not utilize the whole channel for a time slot
-
-Thus, inefficient.
