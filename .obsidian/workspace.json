@@ -6,7 +6,7 @@
       {
         "id": "3369c0ca04f58f23",
         "type": "tabs",
-        "dimension": 74.39478584729981,
+        "dimension": 77.46741154562383,
         "children": [
           {
             "id": "cd721f1e399aed51",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "401/CS408/Media Access Control (MAC).md",
+                "file": "401/CS408/Synchronous (static) Solutions.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,7 +26,7 @@
       {
         "id": "96c772d06f686e14",
         "type": "tabs",
-        "dimension": 25.605214152700185,
+        "dimension": 22.532588454376164,
         "children": [
           {
             "id": "8dd43833e58b8732",
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "401/CS408/Media Access Control (MAC).md",
+                "file": "401/CS408/Synchronous (static) Solutions.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "401/CS408/Media Access Control (MAC).md",
+                "file": "401/CS408/Synchronous (static) Solutions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "401/CS408/Media Access Control (MAC).md",
+                "file": "401/CS408/Synchronous (static) Solutions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "401/CS408/Media Access Control (MAC).md"
+                "file": "401/CS408/Synchronous (static) Solutions.md"
               }
             }
           },
@@ -211,8 +211,12 @@
   },
   "active": "cd721f1e399aed51",
   "lastOpenFiles": [
-    "consistency-report.md",
+    "401/CS408/Synchronous Transmission.md",
+    "401/CS408/Synchronous (static) Solutions.md",
+    "Attachments/FDM.png",
     "401/CS408/Media Access Control (MAC).md",
+    "401/CS408/Asynchronous (dynamic) Solutions.md",
+    "consistency-report.md",
     "Attachments/MAC&LLC.png",
     "Attachments/Pasted image 20231127154409.png",
     "401/CS408/Attachments/MAC&LLC.png",
@@ -239,15 +243,12 @@
     "401/CS408/Asynchronous Transmission.md",
     "401/CS408/CS408 - WEEK 2.md",
     "Attachments/Pasted image 20231127122452.png",
-    "401/CS408/Attachments/OsıVsTcpIp.png",
     "401/CS408/Attachments",
     "401/CS411/Attachments",
     "401/CS411/Block Cipher.md",
     "401/CS411/2DES.md",
     "401/CS411/ECB.md",
     "401/CS411/Modes of Operations.md",
-    "401/CS411/AES.md",
-    "401/CS411/Cryptographic Hash Functions.md",
     "Attachments/Attachments",
     "Attachments/Attachments 1",
     "401/CS411/Untitled",

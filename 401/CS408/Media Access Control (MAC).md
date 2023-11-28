@@ -12,3 +12,13 @@
 ![MAC&LLC](Attachments/MAC&LLC.png)
 
 ### Channel Allocation:
+- [Synchronous (static) Solutions](Synchronous%20(static)%20Solutions.md):
+	- Everyone knows when to transmit
+	- Two type:
+		- Frequency Division Multiplexing (FDM)
+		- Time Division Multiplexing (TDM)
+- [Asynchronous (dynamic) Solutions](Asynchronous%20(dynamic)%20Solutions.md):
+	- In response to immediate needs
+	- Two type:
+		- Round robin
+		- Contention
