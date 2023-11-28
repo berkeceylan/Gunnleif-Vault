@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "401/CS408/Media Access Control (MAC).md",
+                "file": "401/CS408/Synchronous (static) Solutions.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "401/CS408/Media Access Control (MAC).md",
+                "file": "401/CS408/Synchronous (static) Solutions.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "401/CS408/Media Access Control (MAC).md",
+                "file": "401/CS408/Synchronous (static) Solutions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "401/CS408/Media Access Control (MAC).md",
+                "file": "401/CS408/Synchronous (static) Solutions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "401/CS408/Media Access Control (MAC).md"
+                "file": "401/CS408/Synchronous (static) Solutions.md"
               }
             }
           },
@@ -211,14 +211,15 @@
   },
   "active": "cd721f1e399aed51",
   "lastOpenFiles": [
-    "401/CS408/Synchronous (static) Solutions.md",
+    "401/CS408/Synchronous Transmission.md",
+    "401/CS408/Physical Layer.md",
+    "401/CS408/Asynchronous (dynamic) Solutions.md",
     "401/CS408/Media Access Control (MAC).md",
+    "401/CS408/Synchronous (static) Solutions.md",
     "401/CS408/Attachments/TDM.png",
     "401/CS411/00-Start Here.md",
     "401/CS411/DES.md",
-    "401/CS408/Synchronous Transmission.md",
     "401/CS408/Attachments/FDM.png",
-    "401/CS408/Asynchronous (dynamic) Solutions.md",
     "consistency-report.md",
     "Attachments/MAC&LLC.png",
     "Attachments/Pasted image 20231127154409.png",
@@ -242,7 +243,6 @@
     "401/CS408/Attachments/LANProtocol.png",
     "401/CS408/Attachments/IEEE802ReferenceModel.png",
     "Attachments/Pasted image 20231127152531.png",
-    "401/CS408/Physical Layer.md",
     "401/CS408/Asynchronous Transmission.md",
     "401/CS408/CS408 - WEEK 2.md",
     "401/CS408/Attachments",
