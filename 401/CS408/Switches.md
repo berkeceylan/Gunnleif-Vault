@@ -1,1 +1,5 @@
-#NotFinished 
+- One of the interconnection elements of [LAN](LAN.md)s
+- **Function**: Network devices that connect various components within a LAN.
+- **Operation**: Operate at the Data Link Layer, intelligently forwarding data based on MAC addresses.
+- **Performance**: Reduce collisions by providing a dedicated path to each connected device.
+- **Advantages**: Offer better performance and security compared to hubs.

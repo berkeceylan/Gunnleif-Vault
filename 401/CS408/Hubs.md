@@ -1,1 +1,10 @@
-#NotFinished 
+- One of the interconnection elements of [LAN](LAN.md)s
+- **Function**: 
+	- Act as a central connection point for devices in a LAN.
+- **Operation**: 
+	- Broadcast incoming data packets to all connected devices.
+- **Type**: 
+	- Operate at the Physical Layer
+	- making no decisions about the data they forward
+- **Limitation**: 
+	- Can lead to network inefficiencies due to data collisions.
