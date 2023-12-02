@@ -9,7 +9,7 @@
 	- Transforms raw data from the [Physical Layer](Physical%20Layer.md) into frames
 	- Add headers and trailers for synchronization and error checking
 - Detect and correct errors that occurred during transmission
-- Adds [Media Access Control (MAC)](Media%20Access%20Control%20(MAC).md) addresses to frames
+- Adds [Medium Access Control (MAC)](Medium%20Access%20Control%20(MAC).md) addresses to frames
 	- Identify the source and destination devices on a local network
 - **Flow Control**: 
 	- Manages the pace at which data is sent to prevent a fast sender from overwhelming a slow receiver. 

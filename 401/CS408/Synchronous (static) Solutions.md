@@ -1,5 +1,5 @@
 ### Defintion:
-- A way of solving synchronization in channel allocation problem in [Media Access Control (MAC)](Media%20Access%20Control%20(MAC).md) sublayer.
+- A way of solving synchronization in channel allocation problem in [Medium Access Control (MAC)](Medium%20Access%20Control%20(MAC).md) sublayer.
 - Idea: Everyone knows when to transmit 
 - These solution ensure 
 	- efficiently managing network resources

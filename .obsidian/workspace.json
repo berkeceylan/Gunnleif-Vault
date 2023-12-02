@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 316.5
   },
   "right": {
     "id": "5a74fdc51ff72190",
@@ -157,8 +157,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -178,8 +177,21 @@
   },
   "active": "cd721f1e399aed51",
   "lastOpenFiles": [
+    "Attachments/CSMA-CDFrameFormat.png",
+    "401/CS408/Binary Exponential Backoff.md",
+    "401/CS408/Ethernet.md",
+    "401/CS408/CSMA.md",
+    "401/CS408/ALOHA.md",
+    "401/CS408/Medium Access Control (MAC).md",
+    "401/CS408/LAN.md",
     "401/CS408/Asynchronous (dynamic) Solutions.md",
-    "401/CS408/Media Access Control (MAC).md",
+    "401/CS408/Logical Link Control (LLC).md",
+    "Attachments/allPersistanceSchemes.png",
+    "401/CS411/AES.md",
+    "Attachments/SlottedALOHA.png",
+    "Attachments/ALOHA.png",
+    "401/CS408/Unguided Media.md",
+    "401/CS408/Physical Layer.md",
     "401/CS408/Synchronous (static) Solutions.md",
     "401/CS408/Asynchronous Transmission.md",
     "401/CS408/Application Layer.md",
@@ -187,7 +199,6 @@
     "401/CS408/RR.md",
     "401/CS408/DNS.md",
     "401/CS408/Synchronous Transmission.md",
-    "401/CS408/Physical Layer.md",
     "401/CS408/Attachments/TDM.png",
     "401/CS411/00-Start Here.md",
     "401/CS411/DES.md",
@@ -196,24 +207,12 @@
     "Attachments/MAC&LLC.png",
     "Attachments/Pasted image 20231127154409.png",
     "401/CS408/Attachments/MAC&LLC.png",
-    "401/CS408/LAN.md",
     "401/CS408/Data Link Layer.md",
     "401/CS408/Attachments/DataLinkConstruct.png",
     "401/CS408/Stack.md",
-    "401/CS408/Logical Link Control (LLC).md",
     "401/CS408/Bridges.md",
     "401/CS408/Bus Topology.md",
-    "401/CS408/Coaxial Cable.md",
     "401/CS408/Attachments/deneme.png",
-    "401/CS408/OSI.md",
-    "401/CS408/Hubs.md",
-    "401/CS408/Routers.md",
-    "401/CS408/Switches.md",
-    "401/CS408/Star Topology.md",
-    "401/CS408/Ring Topology.md",
-    "401/CS408/Attachments/LANProtocol.png",
-    "401/CS408/Attachments/IEEE802ReferenceModel.png",
-    "Attachments/Pasted image 20231127152531.png",
     "401/CS408/Attachments",
     "401/CS411/Attachments",
     "Attachments/Attachments",

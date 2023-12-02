@@ -1,5 +1,5 @@
 ### Definition:
-- A way of solving synchronization in channel allocation problem in [Media Access Control (MAC)](Media%20Access%20Control%20(MAC).md) sublayer.
+- A way of solving synchronization in channel allocation problem in [Medium Access Control (MAC)](Medium%20Access%20Control%20(MAC).md) sublayer.
 - Idea: In response to immediate needs
 - Used mainly where traffic patterns are unpredictable and vary over time.
 - Based on:
@@ -37,5 +37,5 @@
 	- Performance bad -> under heavy load
 		- due to increased collisions and subsequent retransmissions
 - **Applications**:
-	- Commonly used in [Ethernet](Ethernet.md) networks under protocols like CSMA/CD (Carrier Sense Multiple Access with Collision Detection).
+	- Commonly used in [Ethernet](Ethernet.md)
 

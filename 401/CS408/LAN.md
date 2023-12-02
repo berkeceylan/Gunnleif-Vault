@@ -21,7 +21,7 @@
 -  Based on [Ethernet](Ethernet.md) protocols, developed under the IEEE 802 Reference Model
 	- [Logical Link Control (LLC)](Logical%20Link%20Control%20(LLC).md)
 		- Manages protocol multiplexing, flow control, and error checking
-	- [Media Access Control (MAC)](Media%20Access%20Control%20(MAC).md)
+	- [Medium Access Control (MAC)](Medium%20Access%20Control%20(MAC).md)
 		- Prepares data for transmission
 		- Performs error detection
 		- Governs access to the transmission medium
