@@ -38,11 +38,24 @@
 		- Each device is connected to two others, forming a ring for data transmission.
 	- **[Star Topology](Star%20Topology.md)**: 
 		- All devices are connected to a central hub.
-
-### Interconnection Elements
+### Interconnection Elements:
 - Used to connect devices and manage data flow in LANs
 	- [Hubs](Hubs.md)
 	- [Bridges](Bridges.md)
 	- [Switches](Switches.md)
 	- [Routers](Routers.md)
+- Bridges vs. Switches:
 
+| Feature | Bridge | Switch |
+|---------|--------|----------------|
+| **Frame Processing** | Analyzes and forwards one frame at a time | Has multiple parallel data paths and can handle multiple frames simultaneously |
+| **Data Path** | Single data path | Multiple parallel data paths |
+| **Operational Mode** | Store-and-forward operation | Supports both store-and-forward and cut-through operations |
+| **OSI Layers Implemented** | Physical and MAC layers only | Physical, MAC, and LLC layers |
+| **Commonality in Modern Networks** | Not common in new installations | Widely used in new installations with bridge functionality included |
+| **Handling of Frames** | Limited by processing one frame at a time | Can process and forward multiple frames at once, increasing throughput |
+| **Layer Functionality** | Limited Layer 2 functionality | Full Layer 2 functionality including advanced management and configuration features |
+| **Usage** | Historically used when simple connectivity was required | Preferred for advanced network setups due to versatility and speed |
+### Typical LAN Configuration
+- Layer 2 Switch LANs are confined -> one message cannot go to other one
+![](../../Attachments/typcalLAN.png)

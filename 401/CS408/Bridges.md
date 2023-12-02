@@ -6,6 +6,7 @@
 		- Connects similar LANs
 		- Minimal Processing
 	- Bridge is simpler than Router
+	- Toady, Bridges are replaced with [Switches](Switches.md)
 - **Function:**
 	- Read all frames transmitted on one LAN
 	- Accept those addressed to any station on the other LAN

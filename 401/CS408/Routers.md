@@ -1,5 +1,22 @@
-
-- **Function**: Route data packets between different networks, managing traffic across LANs and WANs.
-- **Operation**: Operate at the Network Layer, making decisions based on IP addresses.
-- **Connectivity**: Enable LANs to connect to the Internet or other LANs.
-- **Features**: Provide advanced functions like traffic management, NAT, and DHCP.
+- One of the interconnection elements of [LAN](LAN.md)s
+- **Definition:**
+	- Designed to be implemented in software at the gateway and only process packets to/from outer networks
+- **Function**: 
+	- Route data packets between different networks
+	- Managing traffic across LANs and WANs.
+- **Operation**: 
+	- Operate at the [[Network Layer]]
+	- Making decisions based on IP addresses
+- **Connectivity**: 
+	- Enable LANs to connect to the [[Internet]] or other LANs.
+- **Problem:**
+	- Router may create a performance bottleneck in the heart of a LAN
+		- since => Outside traffic < Internal traffic
+		- High-speed LANs and high-performance layer 2 switches pump millions of packets per second
+	- Solution: layer-3 Switches
+		- Implement IP and the layers below (as in the router)
+		- Implement packet-forwarding logic of router in hardware
+			- faster
+		- Types:
+			- Packet by packet
+			- Flow based

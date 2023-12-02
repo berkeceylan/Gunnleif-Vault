@@ -1,0 +1,29 @@
+- Same message format as 10 Mbps [Ethernet](Ethernet.md)
+- **Speed**: 100 Mbps.
+- Fast Ethernet may run in full duplex mode
+	- So effective data rate per user becomes 200 Mbps
+	- Full duplex mode requires star topology with switches
+- Shared medium no longer exists when switches are used
+	- no collisions -> no need to use CSMA/CD algorithm
+	- However CSMA/CD still used due to backward compatibility
+- **Minimum Frame Size**: 
+	- The minimum frame size for Fast Ethernet (100Base-T) is 64 bytes, which is the same as traditional Ethernet.
+- Cable Types:
+	- 100BaseT4
+		- to use voice grade cat 3 or cat 5 cables (but designed for cat 3)
+		- 3 pairs in each direction with 33.3 Mbps on each using a ternary signalling scheme 
+		- (8B6T = 8 bits map to 6 trits)
+		- total 4 pairs (2 of them bidirectional)
+	- 100Base-X
+		- Unidirectional data rate of 100 Mbps
+		- Uses two links (one for transmit, one for receive)
+		- Two types: 100Base-TX and 100Base-FX
+		- 100Base-TX
+			- cat5 UTP (one pair in each direction)
+			- at 125 Mhz with special encoding that has 20% overhead
+				- 4 bits are encoded using 5-bit time
+		- 100Base-FX
+			- Optical fiber (one at each direction)
+			- Similar encoding
+
+

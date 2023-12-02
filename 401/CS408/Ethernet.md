@@ -2,7 +2,8 @@
 
 ### Definition
 - **Ethernet**:
-	- widely-used technology for local area networks ([LAN](LAN.md)s), based on the CSMA/CD protocol.
+	- Widely-used technology for local area networks ([LAN](LAN.md)s), based on the CSMA/CD protocol.
+	- Two faster version: [Fast Ethernet](Fast%20Ethernet.md) and [Gigabit Ethernet](Gigabit%20Ethernet.md)
 - **CSMA/CD (Carrier Sense Multiple Access with Collision Detection)**: 
 	- A network access method used in Ethernet to manage how devices on the network share the communication medium.
 	- Based on [CSMA](CSMA.md) + Collision Detection
