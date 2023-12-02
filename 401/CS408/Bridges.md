@@ -17,7 +17,7 @@
 		- identical protocol for [Physical Layer](Physical%20Layer.md)
 	- Filter traffic based on [Medium Access Control (MAC)](Medium%20Access%20Control%20(MAC).md) addresses
 		- No need LLC layer
-	- ![](../../Attachments/BridgeProtocolArchitecture.png)
+	- ![](Attachments/BridgeProtocolArchitecture.png)
 - **Design Aspects:**
 	- No modification to content or format of frame
 	- No additional header
@@ -30,4 +30,4 @@
 		- May be more than one bridge to reach the destination
 	- Bridging is transparent to stations
 		- All stations on multiple LANs think that they are on one single LAN
-![](../../Attachments/BridgeOperation.png)
+![](Attachments/BridgeOperation.png)

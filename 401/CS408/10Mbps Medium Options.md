@@ -25,7 +25,7 @@
 - **Distance Limitations**: Each link is limited to 100 meters
 - **Network Expansion**:
     - Hubs or switches can be cascaded for larger network configurations
-    - ![|400](../../Attachments/twoLevelStarTopology.png)
+    - ![twoLevelStarTopology|400](Attachments/twoLevelStarTopology.png)
 ## 10BaseF
 - **Cable Type**: [Optical Fiber](Optical%20Fiber.md)
 - **Topology**: [Star Topology](Star%20Topology.md) or point-to-point

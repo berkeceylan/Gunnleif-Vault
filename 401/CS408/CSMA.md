@@ -45,5 +45,5 @@
 	- Larger p -> smaller utilization + smaller waiting time for the packets
 ### [Ethernet](Ethernet.md)
 ## All persistence Schemes:
-![](../../Attachments/allPersistanceSchemes.png)
+![](Attachments/allPersistanceSchemes.png)
 

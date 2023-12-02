@@ -14,4 +14,4 @@
 - **Transmission Rules**:
 	- Only one station can successfully transmit at a time to prevent collisions at the hub.
 - Today's networks typically use this topology with switching technology for efficient data routing without collisions.
-![](../../Attachments/StarTopology.png)
+![](Attachments/StarTopology.png)

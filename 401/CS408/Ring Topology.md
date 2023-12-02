@@ -4,7 +4,7 @@
 	- The links are unidirectional -> data travels in one direction around the loop.
 	  - Stations receive data on one link and retransmit it on the next
 	  - Each station is connected to two repeaters
-	  - ![](../../Attachments/RingTopology1.png)
+	  - ![](Attachments/RingTopology1.png)
 - **Data Transmission**:
 	- Data is transmitted in frames that sequentially pass all stations in the ring.
 	- Destination station recognizes address and copies frame,
@@ -13,4 +13,4 @@
 	- After a frame completes its circuit and returns to the source station, it is removed from the ring.
 - [Medium Access Control (MAC)](Medium%20Access%20Control%20(MAC).md) protocol is necessary to manage when and how stations can insert frames into the ring
 - Full Frame Transmission Example:
-![](../../Attachments/RingTopology2.png)
+![](Attachments/RingTopology2.png)

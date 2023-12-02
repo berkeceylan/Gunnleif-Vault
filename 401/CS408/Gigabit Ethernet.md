@@ -17,5 +17,16 @@
 	- 1000Base-T
 		- 4 pairs, cat5 UTP (bidirectional)
 		- 100 m
-![](../../Attachments/GigabitEthernet.png)
-- **Minimum Frame Size Compatibility**: Gigabit Ethernet maintains the minimum frame size of 64 bytes to be compatible with earlier Ethernet standards, despite the increase in speed. 
+![](Attachments/GigabitEthernet.png)
+- **Minimum Frame Size Compatibility**: 
+	- Gigabit Ethernet maintains the minimum frame size of 64 bytes to be compatible with earlier Ethernet standards, despite the increase in speed. 
+		- if we calculate it similar to Ethernet it transmit 1000 bits in RTT > 512bits (standard ) 
+		- Solution  -> reduce segment to 50 m (not practical)
+	- Practical Solutions:
+		- Carrier extension
+			- Sending hardware adds more padding, receiving hardware removes. Thus the standard Ethernet frame remains the same
+			- Not good for efficiency due to extra padding overhead
+		- Frame bursting
+			- Sender concatenates several frames
+			- If needed hardware adds more padding
+![](Attachments/minFrameSizeCompatibility.png)

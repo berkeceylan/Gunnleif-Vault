@@ -5,10 +5,10 @@
 	- Route data packets between different networks
 	- Managing traffic across LANs and WANs.
 - **Operation**: 
-	- Operate at the [[Network Layer]]
+	- Operate at the [Network Layer](Network%20Layer)
 	- Making decisions based on IP addresses
 - **Connectivity**: 
-	- Enable LANs to connect to the [[Internet]] or other LANs.
+	- Enable LANs to connect to the [Internet](Internet) or other LANs.
 - **Problem:**
 	- Router may create a performance bottleneck in the heart of a LAN
 		- since => Outside traffic < Internal traffic

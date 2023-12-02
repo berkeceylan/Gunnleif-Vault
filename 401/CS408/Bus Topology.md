@@ -18,4 +18,4 @@
 		- Continuous transmission by one station is prevented to avoid monopolizing the medium
 	  - **Solution:**
 		  - Data is transmitted in small blocks (frames) to manage network traffic and reduce collision risk
-- ![](../../Attachments/BusTopology.png)
+- ![](Attachments/BusTopology.png)

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "401/CS408/Gigabit Ethernet.md",
+                "file": "401/CS408/CS408 - WEEK 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "401/CS408/Gigabit Ethernet.md",
+                "file": "401/CS408/CS408 - WEEK 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "401/CS408/Gigabit Ethernet.md",
+                "file": "401/CS408/CS408 - WEEK 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "401/CS408/Gigabit Ethernet.md"
+                "file": "401/CS408/CS408 - WEEK 1.md"
               }
             }
           },
@@ -177,41 +177,42 @@
   },
   "active": "cd721f1e399aed51",
   "lastOpenFiles": [
-    "401/CS408/Fast Ethernet.md",
+    "401/CS408/Data Link Layer.md",
+    "401/CS408/CSMA.md",
+    "401/CS408/Application Layer.md",
+    "401/CS408/ALOHA.md",
+    "401/CS408/10Mbps Medium Options.md",
+    "401/CS408/Asynchronous Transmission.md",
+    "401/CS408/Asynchronous (dynamic) Solutions.md",
+    "401/CS408/00-Start Here.md",
     "401/CS408/Gigabit Ethernet.md",
-    "Attachments/GigabitEthernet.png",
+    "401/CS408/Attachments/minFrameSizeCompatibility.png",
     "401/CS408/Ethernet.md",
+    "401/CS408/Fast Ethernet.md",
+    "401/CS408/Attachments/GigabitEthernet.png",
     "401/CS408/Hubs.md",
     "401/CS408/LAN.md",
     "401/CS408/Switches.md",
     "401/CS408/Routers.md",
     "401/CS408/Bridges.md",
-    "Attachments/typcalLAN.png",
+    "401/CS408/Attachments/typcalLAN.png",
     "401/CS408/Medium Access Control (MAC).md",
-    "Attachments/Switches.png",
-    "Attachments/hubs.png",
+    "401/CS408/Attachments/Switches.png",
+    "401/CS408/Attachments/hubs.png",
     "401/CS408/Ring Topology.md",
-    "Attachments/BridgeProtocolArchitecture.png",
-    "Attachments/BridgeOperation.png",
+    "401/CS408/Attachments/BridgeProtocolArchitecture.png",
+    "401/CS408/Attachments/BridgeOperation.png",
     "401/CS408/CS408 - WEEK 1.md",
     "401/CS408/CS408 - WEEK 2.md",
     "401/CS408/Star Topology.md",
-    "Attachments/StarTopology.png",
-    "Attachments/RingTopology2.png",
-    "Attachments/RingTopology1.png",
+    "401/CS408/Attachments/StarTopology.png",
+    "401/CS408/Attachments/RingTopology2.png",
+    "401/CS408/Attachments/RingTopology1.png",
     "401/CS408/Bus Topology.md",
     "401/CS408/Synchronous (static) Solutions.md",
-    "Attachments/BusTopology.png",
-    "401/CS408/10Mbps Medium Options.md",
     "401/CS408/Binary Exponential Backoff.md",
-    "401/CS408/CSMA.md",
-    "401/CS408/ALOHA.md",
-    "401/CS408/Asynchronous (dynamic) Solutions.md",
     "401/CS408/Logical Link Control (LLC).md",
     "401/CS411/AES.md",
-    "401/CS408/Unguided Media.md",
-    "401/CS408/Physical Layer.md",
-    "401/CS408/Asynchronous Transmission.md",
     "401/CS408/Attachments",
     "401/CS411/Attachments",
     "Attachments/Attachments",

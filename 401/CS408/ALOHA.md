@@ -13,7 +13,7 @@
 	- Max channel utilization is 18%
 	- very bad
 	- not efficient and usable
-![](../../Attachments/ALOHA.png)
+![ALOHA](Attachments/ALOHA.png)
 
 ## Slotted ALOHA
 ### Definition:
@@ -31,6 +31,6 @@
 - Main objective is reducing the collisions with slotted design
 - Max channel utilization is 37%
 	- Still very bad
-![](../../Attachments/SlottedALOHA.png)
+![](Attachments/SlottedALOHA.png)
 
 

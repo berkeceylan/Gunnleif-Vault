@@ -58,4 +58,4 @@
 | **Usage** | Historically used when simple connectivity was required | Preferred for advanced network setups due to versatility and speed |
 ### Typical LAN Configuration
 - Layer 2 Switch LANs are confined -> one message cannot go to other one
-![](../../Attachments/typcalLAN.png)
+![](Attachments/typcalLAN.png)

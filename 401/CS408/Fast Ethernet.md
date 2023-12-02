@@ -6,8 +6,6 @@
 - Shared medium no longer exists when switches are used
 	- no collisions -> no need to use CSMA/CD algorithm
 	- However CSMA/CD still used due to backward compatibility
-- **Minimum Frame Size**: 
-	- The minimum frame size for Fast Ethernet (100Base-T) is 64 bytes, which is the same as traditional Ethernet.
 - Cable Types:
 	- 100BaseT4
 		- to use voice grade cat 3 or cat 5 cables (but designed for cat 3)
@@ -25,5 +23,10 @@
 		- 100Base-FX
 			- Optical fiber (one at each direction)
 			- Similar encoding
+- **Minimum Frame Size**: 
+	- The minimum frame size for Fast Ethernet (100Base-TX) is 64 bytes
+	- which is the same as traditional Ethernet
+	- No problem
+
 
 

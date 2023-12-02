@@ -12,4 +12,4 @@
 	- Making no decisions about the data they forward
 - **Limitation**: 
 	- Can lead to network inefficiencies due to data collisions.
-![](../../Attachments/hubs.png)
+![](Attachments/hubs.png)

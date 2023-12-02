@@ -9,7 +9,7 @@
 		- More than one station transmitting at a time
 		- Each device capacity = LAN capacity
 	- Forwarding data based on [Medium Access Control (MAC)](Medium%20Access%20Control%20(MAC).md) & [Logical Link Control (LLC)](Logical%20Link%20Control%20(LLC).md) addresses
-![](../../Attachments/Switches.png)
+![](Attachments/Switches.png)
 - **Types:**
 	- **Store and Forward:**
 		- Accept input -> buffer it briefly -> then output
