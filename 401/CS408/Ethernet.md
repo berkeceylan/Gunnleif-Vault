@@ -19,6 +19,7 @@
 	- Related to cable length + propagation speed
 	- 2500 meters of [Coaxial Cable](Coaxial%20Cable.md)(standard for 10 Mbps Ethernet)
 		- RTT = approx. 50 microseconds
+		- [10Mbps Medium Options](10Mbps%20Medium%20Options.md)
 ### CSMA/CD (IEEE 802.3 – Ethernet)
 - Design based on implementation of [Contention Method](Asynchronous%20(dynamic)%20Solutions.md#Contention%20Method) with [ALOHA](ALOHA.md) + [CSMA](CSMA.md)
 - Minimum frame size is set to 512 bits (64 bytes)
@@ -43,4 +44,4 @@
 	- No collisions  -> U = Ttrans / (Ttrans + Tprop)
 	- With collisions  ->  = Ttrans / (Ttrans + Tprop + Tcontention)
 	- Tcontention is the time spent for collisions to send a frame
-
+![](../../Attachments/Tcontention.png)

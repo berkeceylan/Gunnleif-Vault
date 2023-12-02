@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "401/CS408/Ethernet.md",
+                "file": "401/CS408/LAN.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "401/CS408/Ethernet.md",
+                "file": "401/CS408/LAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "401/CS408/Ethernet.md",
+                "file": "401/CS408/LAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "401/CS408/Ethernet.md"
+                "file": "401/CS408/LAN.md"
               }
             }
           },
@@ -177,13 +177,19 @@
   },
   "active": "cd721f1e399aed51",
   "lastOpenFiles": [
-    "Attachments/CSMA-CDFrameFormat.png",
-    "401/CS408/Binary Exponential Backoff.md",
     "401/CS408/Ethernet.md",
+    "401/CS408/10Mbps Medium Options.md",
+    "401/CS408/LAN.md",
+    "401/CS408/Binary Exponential Backoff.md",
+    "401/CS408/Hubs.md",
+    "401/CS408/Bus Topology.md",
+    "Attachments/twoLevelStarTopology.png",
+    "401/CS408/Medium Access Control (MAC).md",
+    "401/CS408/Synchronous (static) Solutions.md",
+    "Attachments/Tcontention.png",
+    "Attachments/CSMA-CDFrameFormat.png",
     "401/CS408/CSMA.md",
     "401/CS408/ALOHA.md",
-    "401/CS408/Medium Access Control (MAC).md",
-    "401/CS408/LAN.md",
     "401/CS408/Asynchronous (dynamic) Solutions.md",
     "401/CS408/Logical Link Control (LLC).md",
     "Attachments/allPersistanceSchemes.png",
@@ -192,7 +198,6 @@
     "Attachments/ALOHA.png",
     "401/CS408/Unguided Media.md",
     "401/CS408/Physical Layer.md",
-    "401/CS408/Synchronous (static) Solutions.md",
     "401/CS408/Asynchronous Transmission.md",
     "401/CS408/Application Layer.md",
     "401/CS408/00-Start Here.md",
@@ -206,13 +211,8 @@
     "consistency-report.md",
     "Attachments/MAC&LLC.png",
     "Attachments/Pasted image 20231127154409.png",
-    "401/CS408/Attachments/MAC&LLC.png",
     "401/CS408/Data Link Layer.md",
-    "401/CS408/Attachments/DataLinkConstruct.png",
     "401/CS408/Stack.md",
-    "401/CS408/Bridges.md",
-    "401/CS408/Bus Topology.md",
-    "401/CS408/Attachments/deneme.png",
     "401/CS408/Attachments",
     "401/CS411/Attachments",
     "Attachments/Attachments",
