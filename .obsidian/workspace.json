@@ -6,7 +6,6 @@
       {
         "id": "3369c0ca04f58f23",
         "type": "tabs",
-        "dimension": 77.46741154562383,
         "children": [
           {
             "id": "cd721f1e399aed51",
@@ -14,55 +13,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "401/CS408/RR.md",
+                "file": "401/CS408/Ethernet.md",
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "6ce1f0941ef27af1"
-          }
-        ]
-      },
-      {
-        "id": "96c772d06f686e14",
-        "type": "tabs",
-        "dimension": 22.532588454376164,
-        "children": [
+            }
+          },
           {
-            "id": "8dd43833e58b8732",
+            "id": "164f104bb9cb6ca5",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
+              "type": "markdown",
               "state": {
-                "file": "401/CS408/RR.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
+                "file": "401/CS408/Synchronous (static) Solutions.md",
+                "mode": "source",
+                "source": false
               }
-            },
-            "group": "6ce1f0941ef27af1"
+            }
           }
         ]
       }
@@ -130,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "401/CS408/RR.md",
+                "file": "401/CS408/Ethernet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "401/CS408/RR.md",
+                "file": "401/CS408/Ethernet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "401/CS408/RR.md"
+                "file": "401/CS408/Ethernet.md"
               }
             }
           },
@@ -211,13 +178,16 @@
   },
   "active": "cd721f1e399aed51",
   "lastOpenFiles": [
-    "401/CS408/DNS.md",
-    "401/CS408/RR.md",
-    "401/CS408/Synchronous (static) Solutions.md",
-    "401/CS408/Synchronous Transmission.md",
-    "401/CS408/Physical Layer.md",
     "401/CS408/Asynchronous (dynamic) Solutions.md",
     "401/CS408/Media Access Control (MAC).md",
+    "401/CS408/Synchronous (static) Solutions.md",
+    "401/CS408/Asynchronous Transmission.md",
+    "401/CS408/Application Layer.md",
+    "401/CS408/00-Start Here.md",
+    "401/CS408/RR.md",
+    "401/CS408/DNS.md",
+    "401/CS408/Synchronous Transmission.md",
+    "401/CS408/Physical Layer.md",
     "401/CS408/Attachments/TDM.png",
     "401/CS411/00-Start Here.md",
     "401/CS411/DES.md",
@@ -241,12 +211,9 @@
     "401/CS408/Switches.md",
     "401/CS408/Star Topology.md",
     "401/CS408/Ring Topology.md",
-    "401/CS408/Ethernet.md",
     "401/CS408/Attachments/LANProtocol.png",
     "401/CS408/Attachments/IEEE802ReferenceModel.png",
     "Attachments/Pasted image 20231127152531.png",
-    "401/CS408/Asynchronous Transmission.md",
-    "401/CS408/CS408 - WEEK 2.md",
     "401/CS408/Attachments",
     "401/CS411/Attachments",
     "Attachments/Attachments",
