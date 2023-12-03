@@ -11,4 +11,12 @@
 	- overheads
 	- packet switching delays
 ### Delays in [Switching](Switching.md):
+- Transmission time (delay)
+	- Time taken to emit all bits into medium
+- Propagation time (delay)
+	- Time for a bit to traverse the link
+- Processing time (delay)
+	- time spent at the recipient or intermediate node for processing
+- Queuing time (delay)
+	- waiting time at the queue to be sent out
 ![](Attachments/Delay.png)

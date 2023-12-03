@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "401/CS408/00-CS408(Start Here).md",
+                "file": "401/CS408/Data Link Layer.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "401/CS408/Resource Record (RR).md",
+                "file": "401/CS408/Stop and Wait.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "401/CS408/Resource Record (RR).md",
+                "file": "401/CS408/Data Link Layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "401/CS408/Resource Record (RR).md",
+                "file": "401/CS408/Data Link Layer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "401/CS408/Resource Record (RR).md"
+                "file": "401/CS408/Data Link Layer.md"
               }
             }
           },
@@ -176,15 +175,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ae4987452b0ddd23",
+  "active": "cd721f1e399aed51",
   "lastOpenFiles": [
+    "401/CS408/00-CS408(Start Here).md",
+    "401/CS408/Stop and Wait.md",
+    "401/CS408/Sliding Window.md",
+    "401/CS408/Data Link Layer.md",
+    "401/CS408/Performance Metrics.md",
+    "401/CS408/Resource Record (RR).md",
     "401/CS408/TCP-IP Model.md",
     "401/CS408/Telnet.md",
     "401/CS408/DNS.md",
     "401/CS411/Group.md",
     "ECC.md",
-    "401/CS408/Data Link Layer.md",
-    "401/CS408/00-CS408(Start Here).md",
     "401/CS408/Unguided Media.md",
     "401/CS408/10Mbps Medium Options.md",
     "401/CS408/SMTP.md",
@@ -200,10 +203,6 @@
     "401/CS408/Asynchronous Transmission.md",
     "401/CS408/Asynchronous (dynamic) Solutions.md",
     "401/CS408/Application Layer.md",
-    "401/CS408/ALOHA.md",
-    "401/CS408/Ethernet.md",
-    "401/CS408/Routers.md",
-    "401/CS408/Network Layer.md",
     "401/CS408/Attachments/DNSDatabaseExample.png",
     "TCP",
     "401/CS408/Attachments/virtual.png",
