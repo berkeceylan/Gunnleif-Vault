@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "401/CS408/Data Link Layer.md",
+                "file": "401/CS408/Resource Record (RR).md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "401/CS408/Data Link Layer.md",
+                "file": "401/CS408/Resource Record (RR).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "401/CS408/Data Link Layer.md",
+                "file": "401/CS408/Resource Record (RR).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "401/CS408/Data Link Layer.md"
+                "file": "401/CS408/Resource Record (RR).md"
               }
             }
           },
@@ -178,6 +178,12 @@
   },
   "active": "ae4987452b0ddd23",
   "lastOpenFiles": [
+    "401/CS408/TCP-IP Model.md",
+    "401/CS408/Telnet.md",
+    "401/CS408/DNS.md",
+    "401/CS411/Group.md",
+    "ECC.md",
+    "401/CS408/Data Link Layer.md",
     "401/CS408/00-CS408(Start Here).md",
     "401/CS408/Unguided Media.md",
     "401/CS408/10Mbps Medium Options.md",
@@ -185,7 +191,6 @@
     "401/CS408/Optical Fiber.md",
     "401/CS408/OSI Model.md",
     "401/CS408/Packet Switching.md",
-    "401/CS408/Data Link Layer.md",
     "401/CS408/CSMA.md",
     "401/CS408/Coaxial Cable.md",
     "401/CS408/Circuit Switching.md",
@@ -199,11 +204,6 @@
     "401/CS408/Ethernet.md",
     "401/CS408/Routers.md",
     "401/CS408/Network Layer.md",
-    "401/CS408/Switches.md",
-    "401/CS408/Hubs.md",
-    "401/CS408/Star Topology.md",
-    "401/CS408/Ring Topology.md",
-    "401/CS408/Synchronous (static) Solutions.md",
     "401/CS408/Attachments/DNSDatabaseExample.png",
     "TCP",
     "401/CS408/Attachments/virtual.png",

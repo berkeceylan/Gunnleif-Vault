@@ -8,9 +8,9 @@
 	- **TLL (Time to live):**  
 		- how long to hold the result in local cache (zero means no cache)
 	- **Class:** 
-		- Usually `IN` for [Internet](Internet)
+		- Usually `IN` for [The Internet](The%20Internet.md)
 	- **Types:**
-		- A and AAAA**: 
+		- **A and AAAA**: 
 			- Address Type
 			- Value of A -> IPv4 
 			- Value of AAAA -> Pv6 

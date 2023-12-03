@@ -7,7 +7,7 @@
 - Final form RFC 854 and RFC 855.
 - It's an application-level protocol designed by Jon Postel.
 ### Properties
-- Oldest [Internet](Internet) application.
+- Oldest [The Internet](The%20Internet.md) application.
 -  Telnet operates at the [Application Layer](Application%20Layer.md).
 - Basis of newer protocols, such as [HTTP](HTTP.md).
 - Telnet is a protocol designed to provide [Remote Terminal Access](Remote%20Terminal%20Access.md) over a [TCP-IP Model](TCP-IP%20Model.md) network.
