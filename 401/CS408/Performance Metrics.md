@@ -3,6 +3,7 @@
 ### Throughput
 - Effective capacity of the data bits 
 	- reduced by protocol overhead (header + control header)
+	- Utilization x  channel rate
 ### Utilization
 - The ratio of the time that channel is actually used for effective data bits
 - Consider 
