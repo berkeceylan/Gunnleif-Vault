@@ -26,7 +26,7 @@
 	- High Bandwidth Capacity
 	- Durable and suitable for both indoor and outdoor installations.
 - **Cons:** 
-- Periodic amplifiers/repeaters needed 
-	- Over long distances, signal degradation requires the use of amplifiers or repeaters.
-- Less flexible than twisted pair
-- More Expansive than twisted pair
+	- Periodic amplifiers/repeaters needed 
+		- Over long distances, signal degradation requires the use of amplifiers or repeaters.
+	- Less flexible than twisted pair
+	- More Expansive than twisted pair

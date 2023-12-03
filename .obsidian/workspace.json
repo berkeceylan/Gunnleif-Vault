@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "401/CS408/Coaxial Cable.md",
+                "file": "401/CS408/00-CS408(Start Here).md",
                 "mode": "source",
                 "source": false
               }
@@ -51,7 +51,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "401/CS408/Coaxial Cable.md",
+                    "file": "401/CS408/00-CS408(Start Here).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "401/CS408/Coaxial Cable.md",
+                "file": "401/CS408/00-CS408(Start Here).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "401/CS408/Coaxial Cable.md",
+                "file": "401/CS408/00-CS408(Start Here).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "401/CS408/Coaxial Cable.md"
+                "file": "401/CS408/00-CS408(Start Here).md"
               }
             }
           },
@@ -251,6 +251,13 @@
   "active": "cd721f1e399aed51",
   "lastOpenFiles": [
     "401/CS408/Physical Layer.md",
+    "401/CS408/Synchronous Transmission.md",
+    "401/CS408/Asynchronous Transmission.md",
+    "401/CS408/Unguided Media.md",
+    "401/CS408/Microwaves.md",
+    "401/CS408/Optical Fiber.md",
+    "401/CS408/Right-of-Way.md",
+    "401/CS408/Coaxial Cable.md",
     "401/CS408/Twisted Pair.md",
     "401/CS408/UTP Categories.md",
     "401/CS408/00-CS408(Start Here).md",
@@ -270,13 +277,6 @@
     "401/CS408/ESMTP.md",
     "401/CS408/TCP-IP Model.md",
     "401/CS408/FTP.md",
-    "401/CS408/Telnet.md",
-    "401/CS408/Option Negotiation.md",
-    "401/CS408/Remote Terminal Access.md",
-    "401/CS408/NVT.md",
-    "401/CS408/Standards and Organizations.md",
-    "401/CS408/Protocols.md",
-    "401/CS408/OSI Model.md",
     "TCP",
     "401/CS408/Attachments/virtual.png",
     "401/CS408/Attachments/datagram.png",
