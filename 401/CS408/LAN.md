@@ -8,12 +8,12 @@
 - [Data Link Layer](Data%20Link%20Layer.md) in LANs corresponds to the lower two layers of the OSI model
 	- With specific adaptations for Ethernet-based LANs
 - Traditionally: Broadcast systems
-    - Tendency to send messages to all devices on the network, regardless of the intended recipient
+	- Tendency to send messages to all devices on the network, regardless of the intended recipient
 - Today most of the traditional LANs replaced with wireless LANs
 ### Properties:
 - Smaller scope than WAN's
 - Higher data transfer rates than WAN's
-	- 10 Mbps t 100Gbps
+	- 10 Mbps to 100Gbps
 - Low latency
 - Limited size
 - Requires setup and maintenance

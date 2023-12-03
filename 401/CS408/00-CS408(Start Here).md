@@ -52,23 +52,25 @@ This is a navigation page for CS408 Cryptography Lesson
 	- [Ethernet](Ethernet.md) 
 		- [ALOHA](ALOHA.md)
 		- [CSMA](CSMA.md)
-		- [Logical Link Control (LLC)](Logical%20Link%20Control%20(LLC).md)
-		- [Medium Access Control (MAC)](Medium%20Access%20Control%20(MAC).md)
-			- [Synchronous (static) Solutions](Synchronous%20(static)%20Solutions.md)
-			- [Asynchronous (dynamic) Solutions](Asynchronous%20(dynamic)%20Solutions.md)
 		- [10Mbps Medium Options](10Mbps%20Medium%20Options.md)
 		- [Binary Exponential Backoff](Binary%20Exponential%20Backoff.md)
 		- [Fast Ethernet](Fast%20Ethernet.md)
 		- [Gigabit Ethernet](Gigabit%20Ethernet.md)
+	- [Logical Link Control (LLC)](Logical%20Link%20Control%20(LLC).md)
+	- [Medium Access Control (MAC)](Medium%20Access%20Control%20(MAC).md)
+		- [Synchronous (static) Solutions](Synchronous%20(static)%20Solutions.md)
+		- [Asynchronous (dynamic) Solutions](Asynchronous%20(dynamic)%20Solutions.md)
 	- Topologies
-		- **[Bus Topology](Bus%20Topology.md)**
-		- **[Ring Topology](Ring%20Topology.md)**
-		- **[Star Topology](Star%20Topology.md)**
+		- [Bus Topology](Bus%20Topology.md)
+		- [Ring Topology](Ring%20Topology.md)
+		- [Star Topology](Star%20Topology.md)
 	- Interconnection Elements
 		- [Hubs](Hubs.md)
 		- [Bridges](Bridges.md)
 		- [Switches](Switches.md)
 		- [Routers](Routers.md)
 - [Data Link Layer](Data%20Link%20Layer.md)
+	- [Stop and Wait](Stop%20and%20Wait.md)
+	- [Sliding Window](Sliding%20Window.md)
 
 

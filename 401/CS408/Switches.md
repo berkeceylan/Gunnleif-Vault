@@ -8,6 +8,7 @@
 		- Other lines can be used to switch other traffic
 		- More than one station transmitting at a time
 		- Each device capacity = LAN capacity
+		- Total Capacity = N x10 Mbps
 	- Forwarding data based on [Medium Access Control (MAC)](Medium%20Access%20Control%20(MAC).md) & [Logical Link Control (LLC)](Logical%20Link%20Control%20(LLC).md) addresses
 ![](Attachments/Switches.png)
 - **Types:**

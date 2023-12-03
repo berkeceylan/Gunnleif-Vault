@@ -27,7 +27,7 @@
 	- Stations sen data by taking risk of collusion with other packets
 - **Properties**:
 	- Stations transmit based on immediate needs, taking the risk of potential collisions.
-		-  Stations can understand the collusion via listening the channel
+		- Stations can understand the collusion via listening the channel
 		- If they realize a collusion they retransmit after random delay
 	- Well-suited for environments with bursty traffic patterns
 		- Bursty traffic: sending data continuously for some time and then remain idle for longer period of time

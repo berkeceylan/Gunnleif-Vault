@@ -27,7 +27,7 @@
 - Frame Format:
 	- Preamble = clock sync -> not part of the data  
 	- SFD = 10101011
-	- DA + SA = [Medium Access Control (MAC)](Medium%20Access%20Control%20(MAC).md) -> unique to prevent sending wrong adrress
+	- DA + SA = [Medium Access Control (MAC)](Medium%20Access%20Control%20(MAC).md) -> unique to prevent sending wrong address
 	- Length of the LLC Data
 	- [Logical Link Control (LLC)](Logical%20Link%20Control%20(LLC).md) data
 	- FCS = 32 bit CRC (Cyclic Redundancy Check) code and excludes Preamble and SFD

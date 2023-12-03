@@ -2,7 +2,7 @@
 - **Definition**: 
 	- Connect two or more network segments
 	- Increasing the size of a LAN
-	- Interconnection to other LANs and WANs
+	- Interconnection to other LANs
 		- Connects similar LANs
 		- Minimal Processing
 	- Bridge is simpler than Router

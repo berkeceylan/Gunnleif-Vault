@@ -2,7 +2,7 @@
 ### Definition:
 - Developed at the University of Hawaii in the early 1970s for wireless packet data networks.
 - Packet Radio – Packet based wireless networking
-- Underlying network protocol for development of [Ethernet](Ethernet.md)
+- Underlying network protocol for development of [Ethernet](Ethernet.md) and [CSMA](CSMA.md)
 - Applicable to any shared medium
 ### Properties: 
 - When station has frame, it sends without checking if the channel is free

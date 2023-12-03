@@ -8,7 +8,7 @@
 	- Operate at the [Network Layer](Network%20Layer.md)
 	- Making decisions based on IP addresses
 - **Connectivity**: 
-	- Enable LANs to connect to the [Internet](Internet) or other LANs.
+	- Enable LANs to connect to the [The Internet](The%20Internet.md) or other LANs.
 - **Problem:**
 	- Router may create a performance bottleneck in the heart of a LAN
 		- since => Outside traffic < Internal traffic

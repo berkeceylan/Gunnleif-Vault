@@ -11,6 +11,7 @@
 	- overheads
 	- packet switching delays
 ### Delays in [Switching](Switching.md):
+- Round Trip  Time Delay (RTT): total delay + time needed to acknowledgment (ACK)
 - Transmission time (delay)
 	- Time taken to emit all bits into medium
 	- Link Bandwidth (in bps) / Packet Size (in bits)

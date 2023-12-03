@@ -9,7 +9,7 @@
 - Cable Types:
 	- 100BaseT4
 		- to use voice grade cat 3 or cat 5 cables (but designed for cat 3)
-		- 3 pairs in each direction with 33.3 Mbps on each using a ternary signalling scheme 
+		- 3 pairs in each direction with 33.3 Mbps on each using a ternary signalling  scheme 
 		- (8B6T = 8 bits map to 6 trits)
 		- total 4 pairs (2 of them bidirectional)
 	- 100Base-X

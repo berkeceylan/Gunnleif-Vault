@@ -18,7 +18,7 @@
 - **Cable Type**: Unshielded [Twisted Pair](Twisted%20Pair.md)(UTP)
 - **Topology**: [Star Topology](Star%20Topology.md) and point-to-point cross cables
     - Stations are connected to a central hub or switch
-	    -  Accepts input on one line and repeats it on all other lines
+	    - Accepts input on one line and repeats it on all other lines
 	    - Physical star layout but operates as a logical bus
     -  Two twisted pairs within  -> transmit and receive lines
 - Collisions are still possible -> [Ethernet](Ethernet.md)(CSMA/CD) is employed for collision detection.
