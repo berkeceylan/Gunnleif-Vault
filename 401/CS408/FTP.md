@@ -14,7 +14,7 @@
 - FTP Model is consist of: 
 	- User FTP (Host) -> send request
 	- Server FTP entities -> always reply
-- Uses [TCP/IP](TCP/IP) on port 21
+- Uses [TCP-IP Model](TCP-IP%20Model.md) on port 21
 	- Server FTP always listen port 21
 	- Utilizes two TCP connections: 
 		- one for control information

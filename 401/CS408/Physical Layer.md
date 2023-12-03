@@ -1,6 +1,6 @@
 ### Definition:
 - Responsible for the transmission of raw bit streams over a physical medium
-- First and lowest layer in both the [OSI](OSI.md) model and the [TCP/IP](TCP/IP) protocol stack
+- First and lowest layer in both the [OSI Model](OSI%20Model.md) model and the [TCP-IP Model](TCP-IP%20Model.md) protocol stack
 ### Properties:
 - Defines hardware specifications like cables, cards, and physical aspects.
 - Handles the bit-level transmission.

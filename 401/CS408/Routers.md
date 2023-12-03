@@ -5,7 +5,7 @@
 	- Route data packets between different networks
 	- Managing traffic across LANs and WANs.
 - **Operation**: 
-	- Operate at the [Network Layer](Network%20Layer)
+	- Operate at the [Network Layer](Network%20Layer.md)
 	- Making decisions based on IP addresses
 - **Connectivity**: 
 	- Enable LANs to connect to the [Internet](Internet) or other LANs.

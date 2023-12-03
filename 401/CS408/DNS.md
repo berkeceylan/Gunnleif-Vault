@@ -2,13 +2,13 @@
 
 ### Definition
 - A critical directory lookup service for the internet
-	- Must for [Internet](Internet)
+	- Must for [The Internet](The%20Internet.md)
 - Mapping hostnames to IP addresses
 	- Turn IP addresses to user friendly domain names
 - Defined in RFC 1034 (concepts)
 - RFC 1035 (implementation)
 - DNS operates at the [Application Layer](Application%20Layer.md).
-- Uses [TCP/IP](TCP/IP) mainly IP and [UDP](UDP) connection
+- Uses [TCP-IP Model](TCP-IP%20Model.md) mainly IP and [UDP](UDP) connection
 - A Typical [DNS Operation](DNS%20Operation.md) can be seen here
 ### Structure
 - **Domain Name Space**:
@@ -29,7 +29,7 @@
 		- Case intensive
 		![DomainTree](Attachments/DomainTree.png)
 - **DNS Database**: 
-	- Distributed, containing resource records ([RR](RR.md)s) for each domain.
+	- Distributed, containing resource records ([Resource Record (RR)](Resource%20Record%20(RR).md)s) for each domain.
 	- Organized into zones, each managed independently with its own name server.
 	- **Zones**:
 		- Each non-leaf node may or may not manage its child

@@ -4,7 +4,7 @@
 - HTTP is the foundational protocol for the World Wide Web(WWW), designed to enable communications between web browsers and servers.
 - HTTP operates at the [Application Layer](Application%20Layer.md).
 ### Properties:
-- Uses [TCP/IP](TCP/IP) connection on port 80
+- Uses [TCP-IP Model](TCP-IP%20Model.md) connection on port 80
 - Can transfer any type of files:
 	- plain text
 	- audio
@@ -16,7 +16,7 @@
 - **Stateless Protocol**: 
 	- Each request from a client to server is treated as an independent transaction
 	- It does not keep any previous memory
-	- For each transfer new [TCP/IP](TCP/IP) connection established
+	- For each transfer new [TCP-IP Model](TCP-IP%20Model.md) connection established
 		- In one TCP connection single or multiple object can be send
 	- Terminates automatically after transfer of data finished
 - **Types of HTTP Connections:**
@@ -38,7 +38,7 @@
 			- It includes one RTT for each response/request , plus the processing time for each individual request
 - **Cookies:**
 	- Keep the past info in HTTP
-	- Cookie header line is in HTTP header response -> backaend database store
+	- Cookie header line is in HTTP header response -> backend database store
 	- Usage:
 		- Identification
 		- User session state

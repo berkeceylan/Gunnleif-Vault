@@ -1,6 +1,6 @@
 #NotFinished 
 ### Definition:
-- The Data Link Layer is the second layer in the [OSI](OSI.md) (Open Systems Interconnection) model.
+- The Data Link Layer is the second layer in the [OSI Model](OSI%20Model.md) (Open Systems Interconnection) model.
 - It establishes, maintains, and terminates a logical link between nodes on a network
 - Ensures reliable and efficient communication over the physical layer by structuring raw data into frames and handling error detection and correction
 ## Properties:
