@@ -7,7 +7,7 @@
     - More reliable, more flexible
         - In case of node failure, alternative routes can be found
         - routing can be used o avoid congested parts of network
-        - *Become idealized more used than Virtual Circuit Approach*
+        - Become idealized more used than Virtual Circuit Approach
 - **Cons**
     - Packets may arrive out of order
     - Packets may may go missing 

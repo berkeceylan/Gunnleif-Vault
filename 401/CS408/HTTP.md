@@ -1,10 +1,10 @@
 ## HTTP (Hypertext Transfer Protocol)
 
 ### Definition:
-- HTTP is the foundational protocol for the World Wide Web(WWW), designed to enable communications between web browsers and servers.
+- HTTP is the foundational protocol for the World Wide Web([WWW](WWW.md)), designed to enable communications between web browsers and servers.
 - HTTP operates at the [Application Layer](Application%20Layer.md).
 ### Properties:
-- Uses [TCP-IP Model](TCP-IP%20Model.md) connection on port 80
+- Uses [TCP (Transmission Control Protocol)](TCP-IP%20Protocol.md#TCP%20(Transmission%20Control%20Protocol)) connection on port 80
 - Can transfer any type of files:
 	- plain text
 	- audio
@@ -16,7 +16,7 @@
 - **Stateless Protocol**: 
 	- Each request from a client to server is treated as an independent transaction
 	- It does not keep any previous memory
-	- For each transfer new [TCP-IP Model](TCP-IP%20Model.md) connection established
+	- For each transfer new [TCP (Transmission Control Protocol)](TCP-IP%20Protocol.md#TCP%20(Transmission%20Control%20Protocol)) connection established
 		- In one TCP connection single or multiple object can be send
 	- Terminates automatically after transfer of data finished
 - **Types of HTTP Connections:**
@@ -55,28 +55,28 @@
 	- Use Status Line: `HTTP-Version <SP> Status-Code <SP> Reason-Phrase`
 - **Message Structure:**
  ![](Attachments/HTTP%20message.png)
-	 - General Header Fields:
-		 - can be used for both request and response
-		 - Contain information that is not directly related to be transferd
-			 - directives to intermediates nodes
-			 - connection management
-			 - Example: Keep-alive
-				 - keep TCP connection open for a wile (for persistent connection)
-	 - Request/Response Header
-		 - Request Header: additional parameters about request
-			 - Accept charset
-			 - Accept language
-			 - Host (identify the domain address)
-			 - If modified since (can be used with GET command)
-			 - Referrer (for advertisement referrals)
-		 - Response Header: additional parameters about response
-			 - Location (exact location of the requested URL)
-			 - Server (info about server software)
-	 - Entity Header:
-		 - Similar to [MIME](MIME.md) format
-		 - Examples: Content language, Content length, Content type, Last modified
-	 - Entity Body:
-		 - Transfer any data
+ - General Header Fields:
+	 - can be used for both request and response
+	 - Contain information that is not directly related to be transferred
+		 - directives to intermediates nodes
+		 - connection management
+		 - Example: Keep-alive
+			 - keep TCP connection open for a wile (for persistent connection)
+ - Request/Response Header
+	 - Request Header: additional parameters about request
+		 - Accept charset
+		 - Accept language
+		 - Host (identify the domain address)
+		 - If modified since (can be used with GET command)
+		 - Referrer (for advertisement referrals)
+	 - Response Header: additional parameters about response
+		 - Location (exact location of the requested URL)
+		 - Server (info about server software)
+ - Entity Header:
+	 - Similar to [MIME](MIME.md) format
+	 - Examples: Content language, Content length, Content type, Last modified
+ - Entity Body:
+	 - Transfer any data
 - **Methods**: 
 	- Request Line: `Method <SP> Request_URL <SP> HTTP/Version <CRLF>` 
 	- GET (to request data)

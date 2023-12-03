@@ -20,20 +20,20 @@
 	- No processing delay exist
 ### Pros & Cons:
 - **Pros**
-    - Data rate is fixed
-        - Smooth process
-        - Data send it as one big block
-    - Other than propagation delay there is no delay 
-        - transmission delay also exist in total but it is very little
-    - Best for voice communication 
-        - Telephone Network
+	- Data rate is fixed
+		- Smooth process
+		- Data send it as one big block
+	- Other than propagation delay there is no delay 
+		- transmission delay also exist in total but it is very little
+	- Best for voice communication 
+		- Telephone Network
 - **Cons**
-    - Delay before transfer to establish channel
-    - Capacity dedicated for duration of connection even data is not transfered
-        - Low utilization 
-        - Not good for data transfer
-            - Reason 1: Path will be mostly idle 
-            - Reason 2: Data rate is fixed (Limits the utility of  high-speed stations)
+	- Delay before transfer to establish channel
+	- Capacity dedicated for duration of connection even data is not transferred
+		- Low utilization 
+		- Not good for data transfer
+			- Reason 1: Path will be mostly idle 
+			- Reason 2: Data rate is fixed (Limits the utility of  high-speed stations)
 
 
 

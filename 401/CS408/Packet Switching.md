@@ -4,12 +4,12 @@
 - Method of data transmission where information is sent in small units called packets over a shared network
 ### Operation:
 - Data transmitted in short blocks (packets)
-    - data + header with control info (has destination station address)
-    - store and forward technique: Each node
-        -  packet received
-        - stored briefly
-        - processed (determines next leg of route)
-        - passed to next node/ queue to packet to go
+	- data + header with control info (has destination station address)
+	- store and forward technique: Each node
+		-  packet received
+		- stored briefly
+		- processed (determines next leg of route)
+		- passed to next node/ queue to packet to go
 ### Types: 
 - There are two types of packet switching:
 	- [Datagram](Datagram.md)
@@ -31,31 +31,31 @@
 - Assume: N packets and k intermediate switching node
 	- Transmission Time: (N+k) x Ttrans
 	- Propagation Time: (k+1) x Tprop
-	- Processing Time: k x tproc
+	- Processing Time: k x Tproc
 	- Total : (N+k) x Ttrans + (k+1) x Tprop +  k x tproc
 ## Pros & Cons:
 - **Pros**
-    - Line efficiency
-        - No dedicated capacity
-    - Data rate conversion
-        - each node as own speed
-    - Queue System
-        - Even network is busy packets can accepted
+	- Line efficiency
+		- No dedicated capacity
+	- Data rate conversion
+		- each node as own speed
+	- Queue System
+		- Even network is busy packets can accepted
 - **Cons**
-    - Not a smooth process (data rate is not fixed)
-    - Delay
-        - Processing Delay
-            - Time it takes for a node to process the packet header
-            - More processing needed
-        - Variable Delay
-            - Due to processing and queuing
-        - Transmission Delay
-            - Time taken to push all the packet's bits onto the link
-            - Link Bandwidth (in bps) / Packet Size (in bits)
-        - Propagation Delay
-            - Time taken for a signal (or bit) to travel from the sender to the receiver
-            - The Length of Channel (Distance) / Propagation Speed
-    - Header Overhead: header transferred but don't have the app data
+	- Not a smooth process (data rate is not fixed)
+	- Delay
+		- Processing Delay
+			- Time it takes for a node to process the packet header
+			- More processing needed
+		- Variable Delay
+			- Due to processing and queuing
+		- Transmission Delay
+			- Time taken to push all the packet's bits onto the link
+			- Link Bandwidth (in bps) / Packet Size (in bits)
+		- Propagation Delay
+			- Time taken for a signal (or bit) to travel from the sender to the receiver
+			- The Length of Channel (Distance) / Propagation Speed
+	- Header Overhead: header transferred but don't have the app data
 
 
 

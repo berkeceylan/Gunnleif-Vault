@@ -10,12 +10,12 @@
 	1. **MIME-Version**:
 		- Indicates the version of MIME that's being used. 
 	2. **Content-Type**: 
-		- Description fır the data (text, audio, video, image...)
+		- Description for the data (text, audio, video, image...)
 	3. **Content-Transfer-Encoding**: 
 		- Specifies the encoding used to safely transmit the content over SMTP, which handles only 7-bit ASCII text. 
 		- [MIME Transfer Encoding](MIME%20Transfer%20Encoding.md)
 	4. **Content-Description**: 
-		- Plain text description fır the object in the body
+		- Plain text description for the object in the body
 		- Optional field -> if explanation for the attachment is need it will used
 - Content Types:
 	- **Text**

@@ -6,6 +6,7 @@
       {
         "id": "3369c0ca04f58f23",
         "type": "tabs",
+        "dimension": 69.74358974358974,
         "children": [
           {
             "id": "cd721f1e399aed51",
@@ -13,11 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "401/CS408/Data Link Layer.md",
+                "file": "401/CS408/Coaxial Cable.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "d342fc4ac028fc84"
           },
           {
             "id": "ae4987452b0ddd23",
@@ -32,6 +34,76 @@
             }
           }
         ]
+      },
+      {
+        "id": "0384ba22149d25df",
+        "type": "split",
+        "dimension": 30.256410256410255,
+        "children": [
+          {
+            "id": "fde4395b17465765",
+            "type": "tabs",
+            "dimension": 40.27777777777778,
+            "children": [
+              {
+                "id": "30e4b63782289341",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "401/CS408/Coaxial Cable.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.6666666666666666,
+                      "close": true
+                    }
+                  }
+                },
+                "group": "d342fc4ac028fc84"
+              }
+            ]
+          },
+          {
+            "id": "b65cf15d0ac7ab3a",
+            "type": "tabs",
+            "dimension": 59.72222222222222,
+            "children": [
+              {
+                "id": "4719e47ef9d93456",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "401/CS408/00-CS408(Start Here).md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -97,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "401/CS408/Data Link Layer.md",
+                "file": "401/CS408/Coaxial Cable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "401/CS408/Data Link Layer.md",
+                "file": "401/CS408/Coaxial Cable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "401/CS408/Data Link Layer.md"
+                "file": "401/CS408/Coaxial Cable.md"
               }
             }
           },
@@ -162,7 +234,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,33 +250,33 @@
   },
   "active": "cd721f1e399aed51",
   "lastOpenFiles": [
+    "401/CS408/Physical Layer.md",
+    "401/CS408/Twisted Pair.md",
+    "401/CS408/UTP Categories.md",
     "401/CS408/00-CS408(Start Here).md",
-    "401/CS408/Stop and Wait.md",
-    "401/CS408/Sliding Window.md",
-    "401/CS408/Data Link Layer.md",
-    "401/CS408/Performance Metrics.md",
-    "401/CS408/Resource Record (RR).md",
-    "401/CS408/TCP-IP Model.md",
-    "401/CS408/Telnet.md",
-    "401/CS408/DNS.md",
-    "401/CS411/Group.md",
-    "ECC.md",
-    "401/CS408/Unguided Media.md",
-    "401/CS408/10Mbps Medium Options.md",
-    "401/CS408/SMTP.md",
-    "401/CS408/Optical Fiber.md",
-    "401/CS408/OSI Model.md",
-    "401/CS408/Packet Switching.md",
-    "401/CS408/CSMA.md",
-    "401/CS408/Coaxial Cable.md",
-    "401/CS408/Circuit Switching.md",
-    "401/CS408/Bus Topology.md",
-    "401/CS408/Bridges.md",
-    "401/CS408/Binary Exponential Backoff.md",
-    "401/CS408/Asynchronous Transmission.md",
-    "401/CS408/Asynchronous (dynamic) Solutions.md",
     "401/CS408/Application Layer.md",
+    "401/CS408/Socket.md",
+    "401/CS408/DNS.md",
+    "401/CS408/Resource Record (RR).md",
+    "401/CS408/SMTP.md",
     "401/CS408/Attachments/DNSDatabaseExample.png",
+    "401/CS408/DNS Operation.md",
+    "401/CS408/DNS Query Processes.md",
+    "401/CS408/HTTP.md",
+    "401/CS408/WWW.md",
+    "401/CS408/Electronic Mail.md",
+    "401/CS408/MIME.md",
+    "401/CS408/MIME Transfer Encoding.md",
+    "401/CS408/ESMTP.md",
+    "401/CS408/TCP-IP Model.md",
+    "401/CS408/FTP.md",
+    "401/CS408/Telnet.md",
+    "401/CS408/Option Negotiation.md",
+    "401/CS408/Remote Terminal Access.md",
+    "401/CS408/NVT.md",
+    "401/CS408/Standards and Organizations.md",
+    "401/CS408/Protocols.md",
+    "401/CS408/OSI Model.md",
     "TCP",
     "401/CS408/Attachments/virtual.png",
     "401/CS408/Attachments/datagram.png",

@@ -10,11 +10,11 @@
 		- directory listing
 		- access control
 ### Properties:
- - FTP operates at the [Application Layer](Application%20Layer.md).
+- FTP operates at the [Application Layer](Application%20Layer.md).
 - FTP Model is consist of: 
 	- User FTP (Host) -> send request
 	- Server FTP entities -> always reply
-- Uses [TCP-IP Model](TCP-IP%20Model.md) on port 21
+- Uses [TCP (Transmission Control Protocol)](TCP-IP%20Protocol.md#TCP%20(Transmission%20Control%20Protocol)) on port 21
 	- Server FTP always listen port 21
 	- Utilizes two TCP connections: 
 		- one for control information
@@ -83,6 +83,6 @@
 		- Obsolete
 		- Simple data compression
 	- Setting transmission mode:
-		-  S for Stream mode
+		- S for Stream mode
 		- B for Block mode
 		- C for Compressed mode

@@ -2,13 +2,13 @@
 ### Definition:
 - A protocol used to transfer [Electronic Mail](Electronic%20Mail.md) between computers.
 	- work between network to network
-- It works at the [Application Layer](Application%20Layer.md) of the [OSI Model](OSI%20Model.md) model.
+- It works at the [Application Layer](Application%20Layer.md) of the [OSI Model](OSI%20Model.md) and [TCP-IP Model](TCP-IP%20Model.md)
 - Introduced with RFC 821
 ## Properties:
-- Works on [TCP-IP Model](TCP-IP%20Model.md)
+- Works on [TCP (Transmission Control Protocol)](TCP-IP%20Protocol.md#TCP%20(Transmission%20Control%20Protocol))
 	- uses port 25
 - Used for delivery of simple text messages
-- Works in session manner
+- ==Works in session manner==
 - Uses standard character set: 7 bit ASCII
 - Not concerned with format of messages or data
 	- SMTP uses the information in the email header to deliver the email
@@ -38,7 +38,7 @@
 	- Sends the email to the destination host.
 	- Uses a sequence of SMTP commands for the transmission.
 	- Establishes a TCP connection by using port 25, to transmit the email.
-	- •If the client does not run a mail sender:
+	- If the client does not run a mail sender:
 		- SMTP  asks a server to do so
 			- Client acts as a sender
 			- Server acts as a relay ([Relaying](Relaying.md))
@@ -48,9 +48,9 @@
 	- If the email has been sent to all intended recipients
 		- message is deleted from the sender's queue.
 	- **Optimization**:
-	- If we send email to multiple recipients on the sam host
-		- message body is sent only once over a single SMTP connection
-		- increase the efficiency
+		- If we send email to multiple recipients on the same host
+			- message body is sent only once over a single SMTP connection = single TCP connection
+			- increase the efficiency
 ### SMTP Receiver:
 - **Role**: Manages incoming email messages.
 - **Reception**:

@@ -9,7 +9,7 @@
 	- First operational [Packet Switching](Packet%20Switching.md) network
 	- not centrally planned or controlled.
 - **Internet Host Requirements**
-	- Run the [TCP-IP Model](TCP-IP%20Model.md) protocol stack.
+	- Run the [TCP-IP Protocol](TCP-IP%20Protocol.md) stack.
 	- Have a public/private IP address. 
 	- Private IP addresses convert to public IP addresses when packets leave the local network.
 - Two related topics:

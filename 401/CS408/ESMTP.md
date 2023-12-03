@@ -9,7 +9,7 @@
 		- Increase security
 		- RFC 2554
 	- **Support for Multimedia**:
-		- With [MIME] (Multipurpose Internet Mail Extensions)
+		- With [MIME](MIME.md) (Multipurpose Internet Mail Extensions)
 	- **Additional Commands**:
 		- ESMTP introduces new commands that provide greater flexibility and functionality in mail transfer.
 		- EHLO -> server returns supported extensions and STMP features

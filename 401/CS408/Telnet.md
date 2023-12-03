@@ -3,7 +3,7 @@
 ### Historical Context:
 - Telnet is the oldest Internet application.
 - First published version RFC 97.
-	- First Cut at a Proposed Telnet Protocol"
+	- First Cut at a Proposed Telnet Protocol
 - Final form RFC 854 and RFC 855.
 - It's an application-level protocol designed by Jon Postel.
 ### Properties
@@ -12,7 +12,7 @@
 - Basis of newer protocols, such as [HTTP](HTTP.md).
 - Telnet is a protocol designed to provide [Remote Terminal Access](Remote%20Terminal%20Access.md) over a [TCP-IP Model](TCP-IP%20Model.md) network.
 - Telnet operates on the principle of the Network Virtual Terminals ([NVT](NVT.md))
-- Telnet uses TCP on port 23
+- Telnet uses [TCP (Transmission Control Protocol)](TCP-IP%20Protocol.md#TCP%20(Transmission%20Control%20Protocol)) on port 23
 - **Advantage:** Low transmission overhead 
 	- No message headers
 - **Disadvantage:** High processing overhead
@@ -32,7 +32,7 @@
 		- [Option Negotiation](Option%20Negotiation.md)
 	- Options are not enabled until negotiation is complete.
 		- There should be mutual agreement
-1. **Exchange Data** 
+3. **Exchange Data** 
 	- Data is transmitted in multiple rounds as a stream of bytes
 		- Each byte is processed one by one
 		- Increase processing overhead
@@ -40,6 +40,6 @@
 	- Commands are embedded in data stream
 		- Via "Interpret as Command" (IAC) = 255
 		- Minimizes transmission overhead 
-2. **End Session**: 
-   -  TCP connection terminates
+4. **End Session**: 
+	-  TCP connection terminates
 

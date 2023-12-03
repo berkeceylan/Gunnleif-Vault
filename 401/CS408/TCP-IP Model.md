@@ -3,7 +3,7 @@
 ### Definition:
 -  One of the [Protocols](Protocols.md) architecture
 - A set of communications protocols used on [The Internet](The%20Internet.md) and similar networks.
-- Not an official layer structure based on [TCP-IP Protocol](TCP-IP%20Protocol.md)
+- Not an official layer structure, based on [TCP-IP Protocol](TCP-IP%20Protocol.md)
 ### Layers:
 
 #### Network Access (Internet) Layer
@@ -21,7 +21,7 @@
 - **Purpose**: 
 	- Ensures end-to-end communication and data integrity.
 - **Characteristics**: 
-	- Independent of the network and application used.
+	- Independent of the network and application layer used.
 - **Ports**: 
 	- Provide uniqueness, allowing multiple services on a single server.
 - **Protocol Data Units (PDU)**: 

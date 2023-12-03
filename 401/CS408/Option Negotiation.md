@@ -10,6 +10,6 @@
 	- **DO** -> Initiator would like responder to enable option
 		- WILL -> responder agrees
 		- WONT -> responders does not agree
-	- **DONT** -> Initiator would like responder to diable option
+	- **DONT** -> Initiator would like responder to disable option
 		- WONT -> responder must agree
 ![WillWontDoDont](Attachments/WillWontDoDont.png)
