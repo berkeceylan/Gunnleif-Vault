@@ -18,6 +18,8 @@
 - **Performance:**
 	- Works well for large frames
 	- Inefficient for smaller frames
+	- Total time = 2D+T = 2a+1
+	- where a= D/T
 	- Channel Utilization is higher when
 		- Ttrans(T) > Tprop(D) = frame length(L) > bit length of the link (DxR)
 		- Utilization = T/T+2D = 1/1+2a where a = D/T and T = L/R

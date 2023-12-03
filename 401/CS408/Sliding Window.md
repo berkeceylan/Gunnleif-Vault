@@ -21,7 +21,9 @@
 	- If no data to send, use acknowledgement frame without data
 	- If there is data but no new acknowledgement to send, send last acknowledgement number again
 - **Performance:**
+	- Total time = 2D+T = 2a+1
+	- where a= D/T
 	- W > 2a+1 = 2D+T -> Utilisation = %100
-	- W < 2a+1 = 2D+T -> Utilization = W/2a+1
+	- W < 2a+1 = 2D+T -> Utilization = W/2a+1 = TxW /2D+T
 ![](../../Attachments/slidingwindowPerformance.png)
 ![](../../Attachments/slidingWindowPerfromance2.png)

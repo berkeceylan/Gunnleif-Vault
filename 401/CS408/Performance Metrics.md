@@ -15,7 +15,7 @@
 - Round Trip  Time Delay (RTT): total delay + time needed to acknowledgment (ACK)
 - Transmission time (delay)
 	- Time taken to emit all bits into medium
-	- Link Bandwidth (in bps) / Packet Size (in bits)
+	- Packet Size (in bits) / Link Bandwidth (in bps) 
 - Propagation time (delay)
 	- Time for a bit to traverse the link
 	-  The Length of Channel (Distance) / Propagation Speed
