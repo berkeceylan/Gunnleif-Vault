@@ -17,7 +17,7 @@
 	- Two ways to prevent buffer overflow:
 		- [Stop and Wait](Stop%20and%20Wait.md)
 		- [Sliding Window](Sliding%20Window.md)
-- **Access Control**: 
+- **Access Control**:  
 	- When multiple devices share the same physical medium, the Data Link Layer determines which device has control over it at any given time.
 - **Link Management**: 
 	- Responsible for establishing, maintaining, and terminating links between network devices.
