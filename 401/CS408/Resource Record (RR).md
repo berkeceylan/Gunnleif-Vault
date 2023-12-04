@@ -49,7 +49,7 @@
 			- Value -> name of the server
 			- Example: `example.com.   3600   IN   NS   ns1.example.com.`
 			- Aiding in delegation and distributed management.
-				- there might be several DNS Servers for each domain for fault tolarence
+				- there might be several DNS Servers for each domain for fault tolerance
 		- **PTR (Pointer)**: 
 			- Used for reverse DNS lookups
 			- Linking an IP address to a canonical hostname

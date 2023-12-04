@@ -43,6 +43,6 @@
 - Formulation for utilization
 - Utilization = Ttrans / (Ttrans + All other)
 	- No collisions  -> U = Ttrans / (Ttrans + Tprop)
-	- With collisions  ->  = Ttrans / (Ttrans + Tprop + Tcontention)
+	- With collisions  -> U = Ttrans / (Ttrans + Tprop + Tcontention)
 	- Tcontention is the time spent for collisions to send a frame
 ![](Attachments/Tcontention.png)
