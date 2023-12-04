@@ -1,4 +1,4 @@
-This is a navigation page for CS408 Cryptography Lesson
+This is a navigation page for CS408 Computer Network Lesson
 
 - [Switching](Switching.md)
 	- [Circuit Switching](Circuit%20Switching.md)

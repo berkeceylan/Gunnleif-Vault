@@ -6,7 +6,7 @@
       {
         "id": "3369c0ca04f58f23",
         "type": "tabs",
-        "dimension": 69.74358974358974,
+        "dimension": 67.4074074074074,
         "children": [
           {
             "id": "cd721f1e399aed51",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "401/CS408/TCP-IP Model.md",
+                "file": "401/CS408/00-CS408(Start Here).md",
                 "mode": "source",
                 "source": false
               }
@@ -38,12 +38,12 @@
       {
         "id": "0384ba22149d25df",
         "type": "split",
-        "dimension": 30.256410256410255,
+        "dimension": 32.592592592592595,
         "children": [
           {
             "id": "fde4395b17465765",
             "type": "tabs",
-            "dimension": 50.09259259259259,
+            "dimension": 42,
             "children": [
               {
                 "id": "30e4b63782289341",
@@ -51,7 +51,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "401/CS408/TCP-IP Model.md",
+                    "file": "401/CS408/00-CS408(Start Here).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -86,7 +86,7 @@
           {
             "id": "b65cf15d0ac7ab3a",
             "type": "tabs",
-            "dimension": 49.90740740740741,
+            "dimension": 57.99999999999999,
             "children": [
               {
                 "id": "4719e47ef9d93456",
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "401/CS408/TCP-IP Model.md",
+                "file": "401/CS408/00-CS408(Start Here).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "401/CS408/TCP-IP Model.md",
+                "file": "401/CS408/00-CS408(Start Here).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "401/CS408/TCP-IP Model.md"
+                "file": "401/CS408/00-CS408(Start Here).md"
               }
             }
           },
@@ -248,10 +248,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cd721f1e399aed51",
+  "active": "4719e47ef9d93456",
   "lastOpenFiles": [
-    "401/CS408/HTTP.md",
     "401/CS408/TCP-IP Model.md",
+    "401/CS408/HTTP.md",
     "401/CS408/00-CS408(Start Here).md",
     "401/CS408/Gigabit Ethernet.md",
     "401/CS408/Sliding Window.md",
