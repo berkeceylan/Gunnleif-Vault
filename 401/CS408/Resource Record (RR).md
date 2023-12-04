@@ -14,6 +14,7 @@
 			- Address Type
 			- Value of A -> IPv4 
 			- Value of AAAA -> Pv6 
+			- Example: `ns1.example.com 86400 I  A 173.11.76` or use AAAA
 			- **Glue Records**:
 				- Glue records are used to prevent circular dependencies in DNS lookups, by providing the IP addresses needed to contact the authoritative name servers for a domain, directly in the query response to the parent zone.
 				- The name servers learns about the next one in the hierarchy using the glue records

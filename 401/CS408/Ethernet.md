@@ -10,7 +10,7 @@
 	- Underlying protocol for [Medium Access Control (MAC)](Medium%20Access%20Control%20(MAC).md)
 ### Properties (CSMA/CD):
 - Slotted System
-	- contention slot = 2 x Tprop
+	- contention slot = 2 x Tprop = RTT
 	- one slot time = max. round trip delay = 50 microseconds in 10 Mbps
 - No acknowledgement -> sending station must ensure:
 	- all other stations are aware of its transmission

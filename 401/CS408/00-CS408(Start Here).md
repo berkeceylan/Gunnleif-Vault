@@ -34,7 +34,7 @@ This is a navigation page for CS408 Computer Network Lesson
 		- **[HTTP](HTTP.md) (Hypertext Transfer Protocol)**
 		- **[DNS](DNS.md) (Internet Directory Services)**
 			- [DNS Operation](DNS%20Operation.md)
-				- - [DNS Query Processes](DNS%20Query%20Processes.md)
+				- [DNS Query Processes](DNS%20Query%20Processes.md)
 			- [Resource Record (RR)](Resource%20Record%20(RR).md)
 		- **[Socket](Socket.md)**: 
 - [Physical Layer](Physical%20Layer.md)
