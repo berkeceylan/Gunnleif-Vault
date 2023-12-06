@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "401/CS408/Ethernet.md",
+                "file": "401/CS408/Protocols.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,7 +51,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "401/CS408/Ethernet.md",
+                    "file": "401/CS408/Protocols.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "401/CS408/Ethernet.md",
+                "file": "401/CS408/Protocols.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "401/CS408/Ethernet.md",
+                "file": "401/CS408/Protocols.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "401/CS408/Ethernet.md"
+                "file": "401/CS408/Protocols.md"
               }
             }
           },
@@ -251,31 +251,32 @@
   "active": "cd721f1e399aed51",
   "lastOpenFiles": [
     "401/CS408/00-CS408(Start Here).md",
+    "401/CS408/Ethernet.md",
+    "401/CS408/DNS Query Processes.md",
+    "401/CS408/DNS Operation.md",
+    "401/CS408/DNS.md",
+    "401/CS408/HTTP.md",
+    "401/CS408/Electronic Mail.md",
+    "401/CS408/MIME.md",
+    "401/CS408/MIME Transfer Encoding.md",
+    "401/CS408/SMTP.md",
+    "401/CS408/FTP.md",
+    "401/CS408/Telnet.md",
+    "401/CS408/Option Negotiation.md",
     "401/CS408/Resource Record (RR).md",
     "401/CS408/Attachments/DNSDatabaseExample.png",
     "401/CS408/TCP-IP Model.md",
-    "401/CS408/HTTP.md",
     "401/CS408/Gigabit Ethernet.md",
     "401/CS408/Sliding Window.md",
     "401/CS408/Stop and Wait.md",
-    "401/CS408/Ethernet.md",
     "401/CS408/CSMA.md",
     "401/CS408/Synchronous Transmission.md",
     "401/CS408/Asynchronous Transmission.md",
-    "401/CS408/DNS.md",
-    "401/CS408/Electronic Mail.md",
-    "401/CS408/MIME.md",
-    "401/CS408/SMTP.md",
     "401/CS408/LAN.md",
     "401/CS408/Bus Topology.md",
     "401/CS408/Application Layer.md",
     "401/CS408/Protocols.md",
     "401/CS408/The Internet.md",
-    "401/CS408/FTP.md",
-    "401/CS408/Packet Switching.md",
-    "401/CS408/Circuit Switching.md",
-    "401/CS408/Performance Metrics.md",
-    "401/CS408/Switching.md",
     "Attachments/slidingWindowPerfromance2.png",
     "Attachments/slidingwindowPerformance.png",
     "Attachments/slidingWindow2.png",
