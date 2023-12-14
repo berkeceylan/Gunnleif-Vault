@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "- path: \"00-CS411(Start Here)\", - path: \"00-CS408(Start Here)",
+  "search": "path: CS411  - path: \"00-CS411(Start Here)\"",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -13,10 +13,10 @@
   "nodeSizeMultiplier": 1.00040690104167,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.498209635416667,
+  "centerStrength": 0.598225911458333,
   "repelStrength": 10.0146484375,
-  "linkStrength": 0.500569661458333,
-  "linkDistance": 200,
-  "scale": 0.7309771610176087,
+  "linkStrength": 0.702229817708333,
+  "linkDistance": 150,
+  "scale": 0.7309771610176085,
   "close": true
 }
