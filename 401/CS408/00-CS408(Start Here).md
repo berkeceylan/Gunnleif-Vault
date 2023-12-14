@@ -70,7 +70,13 @@ This is a navigation page for CS408 Computer Network Lesson
 		- [Switches](Switches.md)
 		- [Routers](Routers.md)
 - [Data Link Layer](Data%20Link%20Layer.md)
-	- [Stop and Wait](Stop%20and%20Wait.md)
-	- [Sliding Window](Sliding%20Window.md)
+	- Flow Control:
+		- [Stop and Wait](Stop%20and%20Wait.md)
+		- [Sliding Window](Sliding%20Window.md)
+	- Error Detection and Control:
+		- [Cyclic Redundancy Check (CRC)](Cyclic%20Redundancy%20Check%20(CRC).md)
+		- [Stop and Wait ARQ](Stop%20and%20Wait%20ARQ.md)
+		- [Go-Back-N ARQ](Go-Back-N%20ARQ.md)
+		- [Selective Reject ARQ](Selective%20Reject%20ARQ.md)
 
 

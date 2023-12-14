@@ -6,28 +6,90 @@
       {
         "id": "3369c0ca04f58f23",
         "type": "tabs",
+        "dimension": 71.75925925925927,
         "children": [
           {
             "id": "cd721f1e399aed51",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "ae4987452b0ddd23",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "401/CS408/Stop and Wait.md",
+                "file": "401/CS408/Data Link Layer.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "c80aeb215207e581"
           }
         ]
+      },
+      {
+        "id": "e86bb92904d5823b",
+        "type": "split",
+        "dimension": 28.24074074074074,
+        "children": [
+          {
+            "id": "54e41a99079b150d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "edb0aa8f15a92c8e",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "401/CS408/Data Link Layer.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 1,
+                      "close": true
+                    }
+                  }
+                },
+                "group": "c80aeb215207e581"
+              }
+            ]
+          },
+          {
+            "id": "2ba86e657c1d78fd",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "97930069b1b9cb45",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "401/CS408/00-CS408(Start Here).md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -77,8 +139,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5,
-    "collapsed": true
+    "width": 316.5
   },
   "right": {
     "id": "5a74fdc51ff72190",
@@ -94,6 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "401/CS408/00-CS408(Start Here).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "401/CS408/00-CS408(Start Here).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +194,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "401/CS408/00-CS408(Start Here).md"
+              }
             }
           },
           {
@@ -169,11 +234,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cd721f1e399aed51",
+  "active": "97930069b1b9cb45",
   "lastOpenFiles": [
+    "401/CS408/LAN.md",
+    "401/CS408/00-CS408(Start Here).md",
+    "401/CS408/Data Link Layer.md",
+    "401/CS408/Go-Back-N ARQ.md",
+    "401/CS408/Selective Reject ARQ.md",
+    "401/CS408/Stop and Wait ARQ.md",
+    "401/CS408/Cyclic Redundancy Check (CRC).md",
     "401/CS411/Cryptography.md",
     "401/CS411/00-CS411(Start Here).md",
-    "401/CS408/00-CS408(Start Here).md",
     "401/CS408/TCP-IP Model.md",
     "401/CS408/Protocols.md",
     "401/CS408/Ethernet.md",
@@ -192,12 +263,6 @@
     "401/CS408/Attachments/DNSDatabaseExample.png",
     "401/CS408/Gigabit Ethernet.md",
     "401/CS408/Sliding Window.md",
-    "401/CS408/Stop and Wait.md",
-    "401/CS408/CSMA.md",
-    "401/CS408/Synchronous Transmission.md",
-    "401/CS408/Asynchronous Transmission.md",
-    "401/CS408/LAN.md",
-    "401/CS408/Bus Topology.md",
     "Attachments/slidingWindowPerfromance2.png",
     "Attachments/slidingwindowPerformance.png",
     "Attachments/slidingWindow2.png",

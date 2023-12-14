@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path: CS411  - path: \"00-CS411(Start Here)\"",
+  "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 10.0146484375,
   "linkStrength": 0.702229817708333,
   "linkDistance": 150,
-  "scale": 0.7309771610176085,
+  "scale": 1.120442429236975,
   "close": true
 }

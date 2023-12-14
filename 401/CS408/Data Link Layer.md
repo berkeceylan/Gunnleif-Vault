@@ -17,6 +17,19 @@
 	- Two ways to prevent buffer overflow:
 		- [Stop and Wait](Stop%20and%20Wait.md)
 		- [Sliding Window](Sliding%20Window.md)
+- **Error Detection and Control:**
+	- Detect and if possible correct the errors  occurred  during  transmission frames.
+	- Adopt flow control algorithms such that erroneous frames are retransmitted.
+	- **Types of Errors:**
+		- Single Bit Errors:
+		- Burst Errors:
+	- **Error Detection:**
+		- Parity  Bits:
+		- [Cyclic Redundancy Check (CRC)](Cyclic%20Redundancy%20Check%20(CRC).md)
+	- **Error Control:**
+		- [Stop and Wait ARQ](Stop%20and%20Wait%20ARQ.md)
+		- [Go-Back-N ARQ](Go-Back-N%20ARQ.md)
+		- [Selective Reject ARQ](Selective%20Reject%20ARQ.md)
 - **Access Control**:  
 	- When multiple devices share the same physical medium, the Data Link Layer determines which device has control over it at any given time.
 - **Link Management**: 
