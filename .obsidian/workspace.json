@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "401/CS408/Data Link Layer.md",
+                "file": "401/CS408/Data Link Control Layer.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "401/CS408/Data Link Layer.md",
+                    "file": "401/CS408/Data Link Control Layer.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "401/CS408/00-CS408(Start Here).md",
+                "file": "401/CS408/Data Link Control Layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "401/CS408/00-CS408(Start Here).md",
+                "file": "401/CS408/Data Link Control Layer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "401/CS408/00-CS408(Start Here).md"
+                "file": "401/CS408/Data Link Control Layer.md"
               }
             }
           },
@@ -234,11 +234,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "97930069b1b9cb45",
+  "active": "cd721f1e399aed51",
   "lastOpenFiles": [
-    "401/CS408/LAN.md",
     "401/CS408/00-CS408(Start Here).md",
-    "401/CS408/Data Link Layer.md",
+    "401/CS408/Data Link Control Layer.md",
+    "401/CS408/High Level Data Link Control (HDLC).md",
+    "401/CS408/LAN.md",
     "401/CS408/Go-Back-N ARQ.md",
     "401/CS408/Selective Reject ARQ.md",
     "401/CS408/Stop and Wait ARQ.md",
@@ -262,7 +263,6 @@
     "401/CS408/Resource Record (RR).md",
     "401/CS408/Attachments/DNSDatabaseExample.png",
     "401/CS408/Gigabit Ethernet.md",
-    "401/CS408/Sliding Window.md",
     "Attachments/slidingWindowPerfromance2.png",
     "Attachments/slidingwindowPerformance.png",
     "Attachments/slidingWindow2.png",

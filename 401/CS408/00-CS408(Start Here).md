@@ -69,7 +69,7 @@ This is a navigation page for CS408 Computer Network Lesson
 		- [Bridges](Bridges.md)
 		- [Switches](Switches.md)
 		- [Routers](Routers.md)
-- [Data Link Layer](Data%20Link%20Layer.md)
+- [Data Link Control Layer](Data%20Link%20Control%20Layer.md)
 	- Flow Control:
 		- [Stop and Wait](Stop%20and%20Wait.md)
 		- [Sliding Window](Sliding%20Window.md)
@@ -78,5 +78,10 @@ This is a navigation page for CS408 Computer Network Lesson
 		- [Stop and Wait ARQ](Stop%20and%20Wait%20ARQ.md)
 		- [Go-Back-N ARQ](Go-Back-N%20ARQ.md)
 		- [Selective Reject ARQ](Selective%20Reject%20ARQ.md)
+	- Protocols:
+		- [High Level Data Link Control (HDLC)](High%20Level%20Data%20Link%20Control%20(HDLC).md)
+		- LAPB
+		- LAPD
+		- [Logical Link Control (LLC)](Logical%20Link%20Control%20(LLC).md)
 
 

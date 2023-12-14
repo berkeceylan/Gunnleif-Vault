@@ -1,5 +1,5 @@
 ### Definition:
-- Part of the [Data Link Layer](Data%20Link%20Layer.md) in the IEEE 802 model
+- Part of the [Data Link Control Layer](Data%20Link%20Control%20Layer.md) in the IEEE 802 model
 	- Not found in traditional layer 2 data link control
 - Provide orderly and efficient use of broadcast medium
 ### Properties:

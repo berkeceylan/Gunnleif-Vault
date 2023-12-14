@@ -1,6 +1,6 @@
 #NotFinished  
 ### Definition:
-- A type of Flow Control Method in [Data Link Layer](Data%20Link%20Layer.md)
+- A type of Flow Control Method in [Data Link Control Layer](Data%20Link%20Control%20Layer.md)
 - Can send multiple packets (difference from Stop and Wait)
 - When W = 1 Window slide becomes a[Stop and Wait](Stop%20and%20Wait.md) 
 ### Error Free Version:

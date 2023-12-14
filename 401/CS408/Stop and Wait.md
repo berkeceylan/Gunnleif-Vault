@@ -1,6 +1,6 @@
 #NotFinished 
 ### Definition:
-- A type of Flow Control Method in [Data Link Layer](Data%20Link%20Layer.md)
+- A type of Flow Control Method in [Data Link Control Layer](Data%20Link%20Control%20Layer.md)
 - Cant send multiple packets
 ### Error Free Version:
 - **Operation**:

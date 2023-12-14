@@ -5,7 +5,7 @@
 	- Cabling and equipments belong to owner
 	- No governmental line
 - Shared Communication Medium + Regulations +Hardware/Software = LAN
-- [Data Link Layer](Data%20Link%20Layer.md) in LANs corresponds to the lower two layers of the OSI model
+- [Data Link Control Layer](Data%20Link%20Control%20Layer.md) in LANs corresponds to the lower two layers of the OSI model
 	- With specific adaptations for Ethernet-based LANs
 - Traditionally: Broadcast systems
 	- Tendency to send messages to all devices on the network, regardless of the intended recipient

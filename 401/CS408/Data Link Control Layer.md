@@ -5,13 +5,12 @@
 - Deal with issues related to point to point links
 - Ensures reliable and efficient communication over the physical layer by structuring raw data into frames and handling error detection and correction
 ## Properties:
-- This layer plays a pivotal role in ensuring effective communication within [LAN](LAN.md)s.
 -  **Frame Structuring**:    
 	- Transforms raw data from the [Physical Layer](Physical%20Layer.md) into frames
 	- Add headers and trailers for synchronization and error checking
 	- Detect and correct errors that occurred during transmission
-- Adds [Medium Access Control (MAC)](Medium%20Access%20Control%20(MAC).md) addresses to frames
-	- Identify the source and destination devices on a local network
+	- Adds [Medium Access Control (MAC)](Medium%20Access%20Control%20(MAC).md) addresses to frames
+		- Identify the source and destination devices on a local network
 - **Flow Control**: 
 	- Manages the pace at which data is sent to prevent a fast sender from overwhelming a slow receiver. 
 	- Two ways to prevent buffer overflow:
@@ -22,19 +21,25 @@
 	- Adopt flow control algorithms such that erroneous frames are retransmitted.
 	- **Types of Errors:**
 		- Single Bit Errors:
+			- ------explanation------
 		- Burst Errors:
+			- ------explanation------
 	- **Error Detection:**
 		- Parity  Bits:
+			- ------explanation------
 		- [Cyclic Redundancy Check (CRC)](Cyclic%20Redundancy%20Check%20(CRC).md)
 	- **Error Control:**
 		- [Stop and Wait ARQ](Stop%20and%20Wait%20ARQ.md)
 		- [Go-Back-N ARQ](Go-Back-N%20ARQ.md)
 		- [Selective Reject ARQ](Selective%20Reject%20ARQ.md)
-- **Access Control**:  
-	- When multiple devices share the same physical medium, the Data Link Layer determines which device has control over it at any given time.
-- **Link Management**: 
-	- Responsible for establishing, maintaining, and terminating links between network devices.
-- **[Logical Link Control (LLC)](Logical%20Link%20Control%20(LLC).md)**:
-	- Operates as a sublayer within the Data Link Layer
-	- Provides an interface between the Network Layer and the MAC sublayer.
+- **Protocols:**
+	- [[High Level Data Link Control (HDLC)]]
+	- **LAPB:**
+		- ------explanation------
+	- **LAPD:**
+		- ------explanation------
+	- **[Logical Link Control (LLC)](Logical%20Link%20Control%20(LLC).md)**:
+		- Operates as a sublayer within the Data Link Layer
+		- Plays a pivotal role in ensuring effective communication within [LAN](LAN.md)s.
+		- Provides an interface between the Network Layer and the MAC sublayer.
 ![](Attachments/DataLinkConstruct.png)

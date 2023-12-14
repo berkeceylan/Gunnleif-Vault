@@ -2,7 +2,7 @@
 - **Function**: 
 	- Network devices that connect various components within a LAN.
 - **Operation**: 
-	- Operate at the [Data Link Layer](Data%20Link%20Layer.md) (Layer2)
+	- Operate at the [Data Link Control Layer](Data%20Link%20Control%20Layer.md) (Layer2)
 	- Central repeater acts as switch
 	- Send Incoming frame switches -> appropriate outgoing line
 		- Other lines can be used to switch other traffic

@@ -1,6 +1,6 @@
 ### Definition:
 - A part of the IEEE 802 Reference Model in [LAN](LAN.md)s
-- Operates as a sublayer within the [Data Link Layer](Data%20Link%20Layer.md)
+- Operates as a sublayer within the [Data Link Control Layer](Data%20Link%20Control%20Layer.md)
 - Provides an interface between the Network Layer and the [Medium Access Control (MAC)](Medium%20Access%20Control%20(MAC).md) sublayer
 ### Properties:
 - Provides an interface to higher layers.

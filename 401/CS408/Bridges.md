@@ -13,7 +13,7 @@
 	- Retransmit each frame on second LAN
 	- Do the same the other way round
 - **Operation**:
-	- Operate at the [Data Link Layer](Data%20Link%20Layer.md)
+	- Operate at the [Data Link Control Layer](Data%20Link%20Control%20Layer.md)
 		- identical protocol for [Physical Layer](Physical%20Layer.md)
 	- Filter traffic based on [Medium Access Control (MAC)](Medium%20Access%20Control%20(MAC).md) addresses
 		- No need LLC layer
