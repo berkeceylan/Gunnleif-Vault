@@ -17,21 +17,41 @@
 		- [Stop and Wait](Stop%20and%20Wait.md)
 		- [Sliding Window](Sliding%20Window.md)
 - **Error Detection and Control:**
-	- Detect and if possible correct the errors  occurred  during  transmission frames.
+	- Detect and if possible correct the errors occurred  during  transmission frames.
 	- Adopt flow control algorithms such that erroneous frames are retransmitted.
 	- **Types of Errors:**
 		- Single Bit Errors:
-			- ------explanation------
+			- Isolated errors
+			- affect one bits, other bits are not affected
+			- not so common in real life
 		- Burst Errors:
-			- ------explanation------
+			- Sequence of bits are affected
+			- common in real life
+			- "burst error of length B"
+				- contiguous sequence of B bits affected
+				- first and last one certainly affected
+				- intermediary ones might be affected (not necessarily)
 	- **Error Detection:**
+		- Transmitter add additional bits to detect error --> receiver checks these bits
 		- Parity  Bits:
-			- ------explanation------
+			- Single bit added to end of the data
+			- odd parity -> #1's should be odd
+			- even parity -> #1's should be even
+			- odd number of errors detected
+			- even number of bit errors cannot be detected
+			- Not useful
 		- [Cyclic Redundancy Check (CRC)](Cyclic%20Redundancy%20Check%20(CRC).md)
 	- **Error Control:**
-		- [Stop and Wait ARQ](Stop%20and%20Wait%20ARQ.md)
-		- [Go-Back-N ARQ](Go-Back-N%20ARQ.md)
-		- [Selective Reject ARQ](Selective%20Reject%20ARQ.md)
+		- Actions to be taken against: Lost/Damaged Frames
+		- Automatic repeat request (ARQ)
+			- Error detection
+			- Positive acknowledgment
+			- Retransmission after timeout
+			- Negative acknowledgement and retransmission
+		- ARQ Types:
+			- [Stop and Wait ARQ](Stop%20and%20Wait%20ARQ.md)
+			- [Go-Back-N ARQ](Go-Back-N%20ARQ.md)
+			- [Selective Reject ARQ](Selective%20Reject%20ARQ.md)
 - **Protocols:**
 	- [[High Level Data Link Control (HDLC)]]
 	- **LAPB:**

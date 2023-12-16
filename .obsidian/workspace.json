@@ -6,7 +6,6 @@
       {
         "id": "3369c0ca04f58f23",
         "type": "tabs",
-        "dimension": 71.75925925925927,
         "children": [
           {
             "id": "cd721f1e399aed51",
@@ -18,78 +17,9 @@
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "c80aeb215207e581"
+            }
           }
         ]
-      },
-      {
-        "id": "e86bb92904d5823b",
-        "type": "split",
-        "dimension": 28.24074074074074,
-        "children": [
-          {
-            "id": "54e41a99079b150d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "edb0aa8f15a92c8e",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "file": "401/CS408/Data Link Control Layer.md",
-                    "options": {
-                      "collapse-filter": true,
-                      "search": "",
-                      "localJumps": 1,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": false,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": true,
-                      "colorGroups": [],
-                      "collapse-display": true,
-                      "showArrow": false,
-                      "textFadeMultiplier": 0,
-                      "nodeSizeMultiplier": 1,
-                      "lineSizeMultiplier": 1,
-                      "collapse-forces": true,
-                      "centerStrength": 0.518713248970312,
-                      "repelStrength": 10,
-                      "linkStrength": 1,
-                      "linkDistance": 250,
-                      "scale": 1,
-                      "close": true
-                    }
-                  }
-                },
-                "group": "c80aeb215207e581"
-              }
-            ]
-          },
-          {
-            "id": "2ba86e657c1d78fd",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "97930069b1b9cb45",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "401/CS408/00-CS408(Start Here).md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -236,14 +166,26 @@
   },
   "active": "cd721f1e399aed51",
   "lastOpenFiles": [
-    "401/CS408/00-CS408(Start Here).md",
+    "401/CS408/Logical Link Control (LLC).md",
     "401/CS408/Data Link Control Layer.md",
-    "401/CS408/High Level Data Link Control (HDLC).md",
-    "401/CS408/LAN.md",
+    "401/CS408/Stop and Wait ARQ.md",
+    "Attachments/performanceS&W.png",
     "401/CS408/Go-Back-N ARQ.md",
     "401/CS408/Selective Reject ARQ.md",
-    "401/CS408/Stop and Wait ARQ.md",
+    "401/CS408/SMTP.md",
+    "Attachments/performanceSelectiveRejectARQ.png",
+    "Attachments/selectiveRejectARQ.png",
+    "Attachments/Pasted image 20231216213910.png",
+    "Attachments/Pasted image 20231216213853.png",
+    "Attachments/GobackNARG.png",
+    "Attachments/S&WARQ.png",
     "401/CS408/Cyclic Redundancy Check (CRC).md",
+    "Attachments/crc.png",
+    "Attachments/crcReceiver.png",
+    "Attachments/crcrReceiver.png",
+    "401/CS408/00-CS408(Start Here).md",
+    "401/CS408/High Level Data Link Control (HDLC).md",
+    "401/CS408/LAN.md",
     "401/CS411/Cryptography.md",
     "401/CS411/00-CS411(Start Here).md",
     "401/CS408/TCP-IP Model.md",
@@ -256,23 +198,11 @@
     "401/CS408/Electronic Mail.md",
     "401/CS408/MIME.md",
     "401/CS408/MIME Transfer Encoding.md",
-    "401/CS408/SMTP.md",
     "401/CS408/FTP.md",
     "401/CS408/Telnet.md",
     "401/CS408/Option Negotiation.md",
     "401/CS408/Resource Record (RR).md",
-    "401/CS408/Attachments/DNSDatabaseExample.png",
-    "401/CS408/Gigabit Ethernet.md",
-    "Attachments/slidingWindowPerfromance2.png",
-    "Attachments/slidingwindowPerformance.png",
-    "Attachments/slidingWindow2.png",
-    "Attachments/SlidingWindow1.png",
-    "Attachments/stopAndWait.png",
     "TCP",
-    "401/CS408/Attachments/virtual.png",
-    "401/CS408/Attachments/datagram.png",
-    "401/CS408/Attachments/Delay.png",
-    "401/CS408/Attachments/switchNetwork.png",
     "401/CS408/Attachments",
     "401/CS411/Attachments",
     "Attachments/Attachments",
