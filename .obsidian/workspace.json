@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "401/CS411/00-CS411(Start Here).md",
+                "file": "Zero Knowledge Protocols.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "401/CS411/00-CS411(Start Here).md",
+                "file": "Zero Knowledge Protocols.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "401/CS411/00-CS411(Start Here).md",
+                "file": "Zero Knowledge Protocols.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "401/CS411/00-CS411(Start Here).md"
+                "file": "Zero Knowledge Protocols.md"
               }
             }
           },
@@ -166,8 +166,14 @@
   },
   "active": "cd721f1e399aed51",
   "lastOpenFiles": [
-    "401/CS411/Modular Exponentiation.md",
     "401/CS411/00-CS411(Start Here).md",
+    "Zero Knowledge Protocols.md",
+    "Elliptic Curve Cryptography(ECC).md",
+    "Digital Signatures.md",
+    "ElGamal.md",
+    "Diffie-Hellman.md",
+    "Discrete Logarithm(DL).md",
+    "401/CS411/Modular Exponentiation.md",
     "401/CS408/00-CS408(Start Here).md",
     "401/CS408/Go-Back-N ARQ.md",
     "401/CS408/Data Link Control Layer.md",
@@ -196,12 +202,6 @@
     "401/CS408/Selective Reject ARQ.md",
     "401/CS408/Attachments/performanceSelectiveRejectARQ.png",
     "401/CS408/Cyclic Redundancy Check (CRC).md",
-    "401/CS408/LAN.md",
-    "401/CS411/Cryptography.md",
-    "401/CS408/DNS Query Processes.md",
-    "401/CS408/DNS Operation.md",
-    "401/CS408/DNS.md",
-    "401/CS408/HTTP.md",
     "TCP",
     "401/CS408/Attachments",
     "401/CS411/Attachments",
