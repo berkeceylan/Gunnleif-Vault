@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zero Knowledge Protocols.md",
+                "file": "401/CS411/Zero Knowledge Protocols.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zero Knowledge Protocols.md",
+                "file": "401/CS411/Zero Knowledge Protocols.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zero Knowledge Protocols.md",
+                "file": "401/CS411/Zero Knowledge Protocols.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zero Knowledge Protocols.md"
+                "file": "401/CS411/Zero Knowledge Protocols.md"
               }
             }
           },
@@ -164,15 +164,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cd721f1e399aed51",
+  "active": "50c5009fd0526b76",
   "lastOpenFiles": [
+    "401/CS411/Diffie-Hellman Key Exchange.md",
     "401/CS411/00-CS411(Start Here).md",
-    "Zero Knowledge Protocols.md",
-    "Elliptic Curve Cryptography(ECC).md",
-    "Digital Signatures.md",
-    "ElGamal.md",
+    "401/CS411/Zero Knowledge Protocols.md",
+    "401/CS411/Elliptic Curve Cryptography(ECC).md",
+    "401/CS411/Digital Signatures.md",
+    "401/CS411/ElGamal.md",
     "Diffie-Hellman.md",
-    "Discrete Logarithm(DL).md",
+    "401/CS411/Discrete Logarithm(DL).md",
     "401/CS411/Modular Exponentiation.md",
     "401/CS408/00-CS408(Start Here).md",
     "401/CS408/Go-Back-N ARQ.md",
@@ -201,7 +202,6 @@
     "401/CS408/Attachments/performanceS&W.png",
     "401/CS408/Selective Reject ARQ.md",
     "401/CS408/Attachments/performanceSelectiveRejectARQ.png",
-    "401/CS408/Cyclic Redundancy Check (CRC).md",
     "TCP",
     "401/CS408/Attachments",
     "401/CS411/Attachments",

@@ -74,7 +74,7 @@ This is a navigation page for CS411 Cryptography Lesson
 		- [Distribution of Primes](Distribution%20of%20Primes.md)
 		- [Modular Exponentiation](Modular%20Exponentiation.md)
 	- [[Discrete Logarithm(DL)]]
-		- [[Diffie-Hellman]]
+		- [[Diffie-Hellman Key Exchange]]
 		- [[ElGamal]]
 	- [[Elliptic Curve Cryptography(ECC)]] 
 	- Post Quantum Cryptography 
