@@ -1,5 +1,5 @@
 ## Definition:
-- The application layer is the topmost layer in the [OSI Model](OSI%20Model.md) and [TCP-IP Model](TCP-IP%20Model.md) 
+- The application layer is the topmost layer in the [OSI Model](OSI%20Model.md) and [TCP-IP Model](TCP-IP%20Model.md)
 - Directly interacting with software applications to implement a specific communication component or protocol.
 ## Properties:
 - **End-User Interaction**: It provides interfaces and protocols for end-users and software applications.

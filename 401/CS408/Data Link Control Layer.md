@@ -1,4 +1,3 @@
-#NotFinished 
 ### Definition:
 - The Data Link Layer is the second layer in the [OSI Model](OSI%20Model.md) (Open Systems Interconnection) model.
 - It establishes, maintains, and terminates a logical link between nodes on a network
@@ -53,11 +52,18 @@
 			- [Go-Back-N ARQ](Go-Back-N%20ARQ.md)
 			- [Selective Reject ARQ](Selective%20Reject%20ARQ.md)
 - **Protocols:**
-	- [[High Level Data Link Control (HDLC)]]
+	- [High Level Data Link Control (HDLC)](High%20Level%20Data%20Link%20Control%20(HDLC).md)
 	- **LAPB:**
-		- ------explanation------
+		- Part of X.25 
+		- Subset of HDLC - ABM (Async. Balanced Mode)
+		- Point to point link between user and packet switching network node
+		- HDLC frame format
 	- **LAPD:**
-		- ------explanation------
+		- Part of ISDN IP
+		- ABM (Async. Balanced Mode)
+		- Always 7-bit sequence numbers (no 3-bit)
+		- always 16-bit CRC
+		- 16-bit address field
 	- **[Logical Link Control (LLC)](Logical%20Link%20Control%20(LLC).md)**:
 		- Operates as a sublayer within the Data Link Layer
 		- Plays a pivotal role in ensuring effective communication within [LAN](LAN.md)s.

@@ -11,8 +11,8 @@
 	- Sequence number bounded by size of the sequence number field (k bits)
 	- thus frames are numbered modulo 2k (0 … 2k-1)
 	- ACK includes number of next frame expected
-	![](../../Attachments/SlidingWindow1.png)
-	![](../../Attachments/slidingWindow2.png)
+	![](Attachments/SlidingWindow1.png)
+	![](Attachments/slidingWindow2.png)
 - **Enhancement to implementation**:
 	- Receiver can acknowledge frames without permitting further transmission (Receive Not Ready)
 		- Must send a normal acknowledgement to resume
@@ -25,5 +25,5 @@
 	- where a= D/T
 	- W > 2a+1 = 2D+T -> Utilisation = %100
 	- W < 2a+1 = 2D+T -> Utilization = W/2a+1 = TxW /2D+T
-![](../../Attachments/slidingwindowPerformance.png)
-![](../../Attachments/slidingWindowPerfromance2.png)
+![](Attachments/slidingwindowPerformance.png)
+![](Attachments/slidingWindowPerfromance2.png)

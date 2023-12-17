@@ -1,7 +1,7 @@
 ### Defintion:
 - Type of error-detecting code commonly used [Data Link Control Layer](Data%20Link%20Control%20Layer.md)
 - It uses binary division operation for detecting errors
-![crc](../../Attachments/crc.png)
+![crc](Attachments/crc.png)
 ### Operation:
 - D -> k bit data block
 - F -> n-k bit frame check sequence (FCS)
@@ -9,9 +9,9 @@
 	- most and least significant bits are 1
 	- they are standard  and pre generated 
 - Transmitter:
-	- ![crcTransmitter|250](../../Attachments/crcTransmitter.png)
+	- ![crcTransmitter|250](Attachments/crcTransmitter.png)
 - Receiver:
-	- ![crcReceiver|250](../../Attachments/crcReceiver.png)
+	- ![crcReceiver|250](Attachments/crcReceiver.png)
 	- **Error Checking**: 
 		- If the remainder is zero -> error-free
 		- If reminder is not zero -> error

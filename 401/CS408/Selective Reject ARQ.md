@@ -10,8 +10,8 @@
 - Receiver must maintain large enough buffer
 - Complex implementation
 ### Performance:
-![performanceSelectiveRejectARQ](../../Attachments/performanceSelectiveRejectARQ.png)
+![performanceSelectiveRejectARQ](Attachments/performanceSelectiveRejectARQ.png)
 ### Example:
 - k= 3 i.i.e frame numbering is in module 8
 - last RR is the ACK request
-![selectiveRejectARQ](../../Attachments/selectiveRejectARQ.png)
+![selectiveRejectARQ](Attachments/selectiveRejectARQ.png)

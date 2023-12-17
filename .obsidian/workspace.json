@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "401/CS408/Data Link Control Layer.md",
+                "file": "401/CS411/00-CS411(Start Here).md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ICMP",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "401/CS408/Data Link Control Layer.md",
+                "file": "401/CS411/00-CS411(Start Here).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "401/CS408/Data Link Control Layer.md",
+                "file": "401/CS411/00-CS411(Start Here).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "401/CS408/Data Link Control Layer.md"
+                "file": "401/CS411/00-CS411(Start Here).md"
               }
             }
           },
@@ -166,42 +166,42 @@
   },
   "active": "cd721f1e399aed51",
   "lastOpenFiles": [
-    "401/CS408/Logical Link Control (LLC).md",
+    "401/CS411/Modular Exponentiation.md",
+    "401/CS411/00-CS411(Start Here).md",
+    "401/CS408/00-CS408(Start Here).md",
+    "401/CS408/Go-Back-N ARQ.md",
     "401/CS408/Data Link Control Layer.md",
     "401/CS408/Stop and Wait ARQ.md",
-    "Attachments/performanceS&W.png",
-    "401/CS408/Go-Back-N ARQ.md",
-    "401/CS408/Selective Reject ARQ.md",
-    "401/CS408/SMTP.md",
-    "Attachments/performanceSelectiveRejectARQ.png",
-    "Attachments/selectiveRejectARQ.png",
     "Attachments/Pasted image 20231216213910.png",
     "Attachments/Pasted image 20231216213853.png",
-    "Attachments/GobackNARG.png",
-    "Attachments/S&WARQ.png",
-    "401/CS408/Cyclic Redundancy Check (CRC).md",
-    "Attachments/crc.png",
-    "Attachments/crcReceiver.png",
-    "Attachments/crcrReceiver.png",
-    "401/CS408/00-CS408(Start Here).md",
+    "401/CS408/ICMP.md",
+    "401/CS408/Network Layer.md",
+    "401/CS408/TCP-IP Protocol.md",
+    "401/CS408/SMTP.md",
+    "401/CS408/Electronic Mail.md",
+    "401/CS408/Ethernet.md",
+    "401/CS408/Protocols.md",
+    "401/CS408/TCP-IP Model.md",
+    "401/CS408/Application Layer.md",
+    "401/CS408/Physical Layer.md",
+    "401/CS408/Logical Link Control (LLC).md",
     "401/CS408/High Level Data Link Control (HDLC).md",
+    "401/CS408/Attachments/HDLCoperation2.png",
+    "401/CS408/Attachments/HDLCoperation1.png",
+    "401/CS408/Attachments/controlField.png",
+    "401/CS408/Attachments/extendedAdressField.png",
+    "401/CS408/Attachments/bitStuffing.png",
+    "401/CS408/Attachments/HDLCframe.png",
+    "401/CS408/Attachments/performanceS&W.png",
+    "401/CS408/Selective Reject ARQ.md",
+    "401/CS408/Attachments/performanceSelectiveRejectARQ.png",
+    "401/CS408/Cyclic Redundancy Check (CRC).md",
     "401/CS408/LAN.md",
     "401/CS411/Cryptography.md",
-    "401/CS411/00-CS411(Start Here).md",
-    "401/CS408/TCP-IP Model.md",
-    "401/CS408/Protocols.md",
-    "401/CS408/Ethernet.md",
     "401/CS408/DNS Query Processes.md",
     "401/CS408/DNS Operation.md",
     "401/CS408/DNS.md",
     "401/CS408/HTTP.md",
-    "401/CS408/Electronic Mail.md",
-    "401/CS408/MIME.md",
-    "401/CS408/MIME Transfer Encoding.md",
-    "401/CS408/FTP.md",
-    "401/CS408/Telnet.md",
-    "401/CS408/Option Negotiation.md",
-    "401/CS408/Resource Record (RR).md",
     "TCP",
     "401/CS408/Attachments",
     "401/CS411/Attachments",

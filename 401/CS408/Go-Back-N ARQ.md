@@ -38,4 +38,4 @@
 ### Example:
 - k = 3 i.e. frame numbering is modulo 8
 - Last RR in this example ACK request
-- ![GobackNARG](../../Attachments/GobackNARG.png)
+- ![GobackNARG](Attachments/GobackNARG.png)

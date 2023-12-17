@@ -24,4 +24,4 @@
 		- Ttrans(T) > Tprop(D) = frame length(L) > bit length of the link (DxR)
 		- Utilization = T/T+2D = 1/1+2a where a = D/T and T = L/R
 		- R means capacity
-![](../../Attachments/stopAndWait.png)
+![](Attachments/stopAndWait.png)

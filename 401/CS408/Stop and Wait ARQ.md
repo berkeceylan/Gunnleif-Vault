@@ -12,9 +12,9 @@
 		- transmitter proceeds to send the next frame
 - ACKi means “I am ready to receive frame i”
 ### Performance:
-![](../../Attachments/performanceS&W.png)
+![](Attachments/performanceS&W.png)
 ### Efficiency:
 - Simple
 - Inefficient ->   in unreliable or high-latency networks
 	- due to the waiting time between frame transmissions
-![S&WARQ](../../Attachments/S&WARQ.png)
+![S&WARQ](Attachments/S&WARQ.png)
