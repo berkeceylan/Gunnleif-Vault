@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "401/CS411/Zero Knowledge Protocols.md",
+                "file": "401/CS411/Message Authentication Codes (MAC).md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ICMP",
+                "query": "HMAC",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "401/CS411/Zero Knowledge Protocols.md",
+                "file": "401/CS411/Message Authentication Codes (MAC).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "401/CS411/Zero Knowledge Protocols.md",
+                "file": "401/CS411/Message Authentication Codes (MAC).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "401/CS411/Zero Knowledge Protocols.md"
+                "file": "401/CS411/Message Authentication Codes (MAC).md"
               }
             }
           },
@@ -164,11 +165,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "50c5009fd0526b76",
+  "active": "cd721f1e399aed51",
   "lastOpenFiles": [
+    "401/CS411/AEAD.md",
+    "401/CS411/Message Authentication Codes (MAC).md",
+    "401/CS411/Zero Knowledge Protocols.md",
     "401/CS411/Diffie-Hellman Key Exchange.md",
     "401/CS411/00-CS411(Start Here).md",
-    "401/CS411/Zero Knowledge Protocols.md",
     "401/CS411/Elliptic Curve Cryptography(ECC).md",
     "401/CS411/Digital Signatures.md",
     "401/CS411/ElGamal.md",
@@ -192,7 +195,6 @@
     "401/CS408/Application Layer.md",
     "401/CS408/Physical Layer.md",
     "401/CS408/Logical Link Control (LLC).md",
-    "401/CS408/High Level Data Link Control (HDLC).md",
     "401/CS408/Attachments/HDLCoperation2.png",
     "401/CS408/Attachments/HDLCoperation1.png",
     "401/CS408/Attachments/controlField.png",
@@ -200,7 +202,6 @@
     "401/CS408/Attachments/bitStuffing.png",
     "401/CS408/Attachments/HDLCframe.png",
     "401/CS408/Attachments/performanceS&W.png",
-    "401/CS408/Selective Reject ARQ.md",
     "401/CS408/Attachments/performanceSelectiveRejectARQ.png",
     "TCP",
     "401/CS408/Attachments",
