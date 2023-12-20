@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "401/CS411/Message Authentication Codes (MAC).md",
+                "file": "401/CS411/ElGamal.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "HMAC",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "401/CS411/Message Authentication Codes (MAC).md",
+                "file": "401/CS411/ElGamal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "401/CS411/Message Authentication Codes (MAC).md",
+                "file": "401/CS411/ElGamal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "401/CS411/Message Authentication Codes (MAC).md"
+                "file": "401/CS411/ElGamal.md"
               }
             }
           },
@@ -167,11 +166,11 @@
   },
   "active": "cd721f1e399aed51",
   "lastOpenFiles": [
-    "401/CS411/AEAD.md",
+    "401/CS411/00-CS411(Start Here).md",
     "401/CS411/Message Authentication Codes (MAC).md",
+    "401/CS411/AEAD.md",
     "401/CS411/Zero Knowledge Protocols.md",
     "401/CS411/Diffie-Hellman Key Exchange.md",
-    "401/CS411/00-CS411(Start Here).md",
     "401/CS411/Elliptic Curve Cryptography(ECC).md",
     "401/CS411/Digital Signatures.md",
     "401/CS411/ElGamal.md",
