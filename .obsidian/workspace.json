@@ -6,7 +6,7 @@
       {
         "id": "3369c0ca04f58f23",
         "type": "tabs",
-        "dimension": 67.5,
+        "dimension": 53.98148148148149,
         "children": [
           {
             "id": "cd721f1e399aed51",
@@ -37,7 +37,7 @@
       {
         "id": "3c89085d1000d085",
         "type": "tabs",
-        "dimension": 32.5,
+        "dimension": 46.01851851851852,
         "children": [
           {
             "id": "a5480eaf5d4d6844",
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "401/CS411/ElGamal.md",
+                "file": "401/CS411/00-CS411(Start Here).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "401/CS411/ElGamal.md",
+                "file": "401/CS411/00-CS411(Start Here).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "401/CS411/ElGamal.md"
+                "file": "401/CS411/00-CS411(Start Here).md"
               }
             }
           },
@@ -196,18 +196,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cd721f1e399aed51",
+  "active": "a5480eaf5d4d6844",
   "lastOpenFiles": [
+    "401/CS411/Elliptic Curve Cryptography (ECC).md",
+    "401/CS411/00-CS411(Start Here).md",
+    "Secret Sharing.md",
+    "401/CS411/ElGamal.md",
     "401/CS411/Diffie-Hellman Key Exchange.md",
     "Attachments/DHEncryption.png",
-    "401/CS411/ElGamal.md",
     "Attachments/Pasted image 20231221173015.png",
     "Attachments/ElGamalEncryption.png",
-    "401/CS411/00-CS411(Start Here).md",
     "Attachments/DHKeyExchange.png",
     "401/CS411/Discrete Logarithm (DL).md",
     "401/CS411/Primitive (Root) Elements.md",
-    "401/CS411/Elliptic Curve Cryptography (ECC).md",
     "401/CS411/Digital Signature Algorithm (DSA).md",
     "401/CS411/Group.md",
     "ECC.md",

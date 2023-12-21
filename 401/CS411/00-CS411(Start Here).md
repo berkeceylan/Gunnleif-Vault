@@ -81,4 +81,4 @@ This is a navigation page for CS411 Cryptography Lesson
 - [[Digital Signature Algorithm (DSA)]] 
 - Key Management & Distribution  
 - [[Zero Knowledge Protocols]] 
-- Secret Sharing 
+- [[Secret Sharing]] 
