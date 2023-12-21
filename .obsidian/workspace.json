@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "401/CS411/Discrete Logarithm (DL).md",
+                "file": "401/CS411/Diffie-Hellman Key Exchange.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "401/CS411/Discrete Logarithm (DL).md",
+                "file": "401/CS411/Diffie-Hellman Key Exchange.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "401/CS411/Discrete Logarithm (DL).md",
+                "file": "401/CS411/Diffie-Hellman Key Exchange.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "401/CS411/Discrete Logarithm (DL).md"
+                "file": "401/CS411/Diffie-Hellman Key Exchange.md"
               }
             }
           },
@@ -186,9 +186,9 @@
   },
   "active": "cd721f1e399aed51",
   "lastOpenFiles": [
+    "401/CS411/Discrete Logarithm (DL).md",
     "401/CS411/00-CS411(Start Here).md",
     "401/CS411/Primitive (Root) Elements.md",
-    "401/CS411/Discrete Logarithm (DL).md",
     "401/CS411/Elliptic Curve Cryptography (ECC).md",
     "401/CS411/Digital Signature Algorithm (DSA).md",
     "401/CS411/Group.md",
