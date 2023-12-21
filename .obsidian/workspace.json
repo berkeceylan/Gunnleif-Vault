@@ -14,7 +14,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "401/CS411/Diffie-Hellman Key Exchange.md",
+                "file": "401/CS411/ElGamal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a7e33fa09d9acdd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "401/CS411/ElGamal.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "401/CS411/Diffie-Hellman Key Exchange.md",
+                "file": "401/CS411/ElGamal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "401/CS411/Diffie-Hellman Key Exchange.md",
+                "file": "401/CS411/ElGamal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "401/CS411/Diffie-Hellman Key Exchange.md"
+                "file": "401/CS411/ElGamal.md"
               }
             }
           },
@@ -186,19 +198,23 @@
   },
   "active": "cd721f1e399aed51",
   "lastOpenFiles": [
-    "401/CS411/Discrete Logarithm (DL).md",
+    "401/CS411/Diffie-Hellman Key Exchange.md",
+    "Attachments/DHEncryption.png",
+    "401/CS411/ElGamal.md",
+    "Attachments/Pasted image 20231221173015.png",
+    "Attachments/ElGamalEncryption.png",
     "401/CS411/00-CS411(Start Here).md",
+    "Attachments/DHKeyExchange.png",
+    "401/CS411/Discrete Logarithm (DL).md",
     "401/CS411/Primitive (Root) Elements.md",
     "401/CS411/Elliptic Curve Cryptography (ECC).md",
     "401/CS411/Digital Signature Algorithm (DSA).md",
     "401/CS411/Group.md",
     "ECC.md",
     "401/CS411/Subgroup.md",
-    "401/CS411/ElGamal.md",
     "401/CS411/Message Authentication Codes (MAC).md",
     "401/CS411/AEAD.md",
     "401/CS411/Zero Knowledge Protocols.md",
-    "401/CS411/Diffie-Hellman Key Exchange.md",
     "Diffie-Hellman.md",
     "401/CS411/Modular Exponentiation.md",
     "401/CS408/00-CS408(Start Here).md",
@@ -213,15 +229,10 @@
     "401/CS408/SMTP.md",
     "401/CS408/Electronic Mail.md",
     "401/CS408/Ethernet.md",
-    "401/CS408/Protocols.md",
     "401/CS408/Attachments/HDLCoperation2.png",
     "401/CS408/Attachments/HDLCoperation1.png",
     "401/CS408/Attachments/controlField.png",
     "401/CS408/Attachments/extendedAdressField.png",
-    "401/CS408/Attachments/bitStuffing.png",
-    "401/CS408/Attachments/HDLCframe.png",
-    "401/CS408/Attachments/performanceS&W.png",
-    "401/CS408/Attachments/performanceSelectiveRejectARQ.png",
     "TCP",
     "401/CS408/Attachments",
     "401/CS411/Attachments",
