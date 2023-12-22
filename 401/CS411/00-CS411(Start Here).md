@@ -73,12 +73,12 @@ This is a navigation page for CS411 Cryptography Lesson
 		- [Miller-Rabin Algorithm](Miller-Rabin%20Algorithm.md)
 		- [Distribution of Primes](Distribution%20of%20Primes.md)
 		- [Modular Exponentiation](Modular%20Exponentiation.md)
-	- [[Discrete Logarithm (DL)]]
-		- [[Diffie-Hellman Key Exchange]]
-		- [[ElGamal]]
-	- [[Elliptic Curve Cryptography (ECC)]] 
+	- [Discrete Logarithm (DL)](Discrete%20Logarithm%20(DL).md)
+		- [Diffie-Hellman Key Exchange](Diffie-Hellman%20Key%20Exchange.md)
+		- [ElGamal](ElGamal.md)
+	- [Elliptic Curve Cryptography (ECC)](Elliptic%20Curve%20Cryptography%20(ECC).md) 
 	- Post Quantum Cryptography 
-- [[Digital Signature Algorithm (DSA)]] 
+- [Digital Signature Algorithm (DSA)](Digital%20Signature%20Algorithm%20(DSA).md) 
 - Key Management & Distribution  
-- [[Zero Knowledge Protocols]] 
-- [[Secret Sharing]] 
+- [Zero Knowledge Protocols](Zero%20Knowledge%20Protocols.md) 
+- [Secret Sharing](Secret%20Sharing.md) 

@@ -7,7 +7,7 @@
 	- Find a primitive element $\alpha$ in $Z_p^*$ or in a subgroup of $Z_p^*$
 		- $\alpha$ is generator in $Z_p^*$
 - **Key Exchange:**
-![DHKeyExchange](../../Attachments/DHKeyExchange.png)
+![DHKeyExchange](Attachments/DHKeyExchange.png)
 ### Security:
 - Adversary observe
 	- p, $\alpha$, A($p_A$ public key of Alice),  B($p_B$ public key of Bob)
@@ -18,4 +18,4 @@
 - [ElGamal](ElGamal.md) encryption protocol based on this basic protocol
 	- Main difference ElGamal is probabilistic so its secure
 	- ElGamal s more efficient than Diffie-Hellman
-![DHEncryption](../../Attachments/DHEncryption.png)
+![DHEncryption](Attachments/DHEncryption.png)

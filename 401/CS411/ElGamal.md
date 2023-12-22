@@ -1,11 +1,11 @@
 ### Definition:
--  Invented by 1985 by Taher ElGamal
+- Invented by 1985 by Taher ElGamal
 - Based on [Discrete Logarithm (DL)](Discrete%20Logarithm%20(DL).md) problem on any finite [Group](Group.md)
 - Ephemeral parameters (keys) = temporal key (parameters) not used in long time
 	- Must be different for every message to be encrypted
 ### Encryption Protocol:
 - The purple numbers are indicate that their matching steps in [Diffie-Helman Encryption Protocol](Diffie-Hellman%20Key%20Exchange.md#Encryption%20Protocol)
-![ElGamalEncryption](../../Attachments/ElGamalEncryption.png)
+![ElGamalEncryption](Attachments/ElGamalEncryption.png)
 ### Efficient Implementation:
 - **Setup Phase:**
 	- Two primes:
