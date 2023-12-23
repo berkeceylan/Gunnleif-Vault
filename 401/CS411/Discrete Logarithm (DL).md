@@ -15,6 +15,7 @@
 		- The problem finding x is called discrete logarithm problem
 			- Finding x is hard however finding x is even or odd is easy
 			- To detailed info look at the DL slide page9 and 10
+				- [CS411_507_Ch8_PKC2_DL_202301_handout](Attachments/CS411_507_Ch8_PKC2_DL_202301_handout.pdf)
 	- If p is > 200 -> it is hard as factorization problem
 	- One way function:
 		- Calculating modular exponentiation is easy

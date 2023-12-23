@@ -80,6 +80,6 @@ This is a navigation page for CS411 Cryptography Lesson
 	- [Elliptic Curve Cryptography (ECC)](Elliptic%20Curve%20Cryptography%20(ECC).md) 
 	- Post Quantum Cryptography 
 - [Digital Signature Algorithm (DSA)](Digital%20Signature%20Algorithm%20(DSA).md) 
-- Key Management & Distribution  
 - [Zero Knowledge Protocols](Zero%20Knowledge%20Protocols.md) 
 - [Secret Sharing](Secret%20Sharing.md) 
+- [Key Establishment](Key%20Establishment.md)

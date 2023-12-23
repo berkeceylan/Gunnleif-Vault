@@ -1,1 +1,47 @@
-#NotFinished 
+### Definition:
+- Digital signatures enable us to personalize electronic documents
+- A digital signature is not only tied to the signer but also to the message that is being signed
+- Digital signatures must be easily verified by the others
+- Two Parts:
+	- Signature Generation
+	- Signature Verification
+### DSA Algorithm:
+- NIST proposed the DSA in 1991 and adopted it as a standard in 1993
+- Similar to the [ElGamal](ElGamal.md) method
+- Example of DSA implementation [ECDSA](Attachments/ECDSA.png) and [RSA Signatures](RSA%20Signatures.md)
+- It uses a hash value (message digest) that is signed
+	- [SHA-1](SHA-1.md) and [SHA-2](SHA-2.md) can be used to hash messages
+- **Setup:**
+	- Signer
+		- find a prime q = 156 bits long 
+		- chooses a prime p = 3071 bits long which satisfy $q|p-1$
+		- choose a secret value $a: 1< a < q-1$
+		- calculates: $\beta = g^a \mod p$
+	- g = primitive root in group $G_p$
+		- must generate every element in the group
+	- $\alpha$ random number in$\mod p$
+		- $g = \alpha^{(p-1/q)} \mod p$
+		- if $g = 1$ choose a new $\alpha$
+		- if $g \neq 1$ use that $\alpha$ 
+	- Publish: $\{p,q,g,\beta\}$ and keep $\{a\}$ secret
+- **Signature Scheme:**
+	- m = massage
+	- Compute h = H(m)
+		- hash the message and get its hash value as 'h'
+	- Select random integer $k: 1< k < q$
+	- Compute: $r = (g^k \mod p)(\mod q)$
+	- Compute: $s = k^{-1}(h+ar)(\mod q)$
+	- Signature for m = $(r,s)$
+	- Send $(r,s)$ and $m$ to Verifier to verify
+- **Verification Scheme:**
+	- Verifier knows:  $\{p,q,g,\beta\}$ and $(r,s)$ and $m$
+	- Compute h = H(m)
+	- Compute: $u_1 = s^{-1}h \mod q$
+	- Compute: $u_2 =s^{-1}r \mod q$
+	- Compute $v = (g^{u_1}\beta^{u_2} \mod p) \mod q$
+		- If v = r accept
+		- Otherwise not accept
+### Security:
+- [Birthday Attack](Birthday%20Attack.md) can be used to break hashes so sufficient bit lengths must be used.
+- For example case pf this attack implementation look at the slide Digital Signatures page 14-16
+	- [CS411_507_Ch9_Digital_Signatures_202301_handout](Attachments/CS411_507_Ch9_Digital_Signatures_202301_handout.pdf)

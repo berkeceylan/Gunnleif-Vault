@@ -40,10 +40,10 @@
 		- if bit = 1 -> Multiply with 2 and add P
 		- if bit = 0 -> Multiply with 2
 ### ECDH Key Exchange:
-![](../../Attachments/ECDHKEyExchange.png)
+![](Attachments/ECDHKEyExchange.png)
 ### EC Digital Signature Algorithm (ECDSA)
 - Curve(domain) parameters $(a,b,p,P)$ and $Q_A$(public key) are published
 - $s_A$ is kept private
-![](../../Attachments/ECDSA.png)
+![](Attachments/ECDSA.png)
 
 
