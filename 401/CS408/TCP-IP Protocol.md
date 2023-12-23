@@ -10,30 +10,6 @@
 - Responsible from reliability of transfer
 - Connection-oriented protocol ensuring data is sent and received reliably.
 ![](Attachments/TCP.png)
-#### IP (Internet Protocol): 
-- **Defintion:**
-	- Responsible for addressing and routing packets to ensure they reach the correct destination.
-	-  Core of TCP/IP protocol suite
-- **Properties**:
-	- each packet treated separately 
-	- provide connectionless (datagram) service
-		- Advantages:
-			- Flexible and robust -> good when congestion occurred
-			- No overhead for connection setup
-			- can work with different network types
-		- Disadvantages
-			- Unreliable
-			- Not guaranteed delivery
-			- Not guaranteed order of delivery
-				- Packets can take different routes
-- **Types:**
-	- IPv4: 
-		- Uses a 32-bit addressing scheme. 
-		- Most commonly used.
-		![](Attachments/IP.png)
-	- IPv6: 
-		- Uses a 128-bit addressing scheme. 
-		- Newer and offers more addresses.
-		- Not backward compatible
+#### [Internet Protocol (IP)](Internet%20Protocol%20(IP).md)
 ### Example of Protocols:
 ![](Attachments/Protocols.png)

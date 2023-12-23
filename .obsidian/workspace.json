@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "401/CS408/TCP-IP Protocol.md",
+                "file": "401/CS408/Routing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4192fbeca31d18e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "401/CS408/IPv4.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "401/CS408/TCP-IP Protocol.md",
+                "file": "401/CS408/Routing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "401/CS408/TCP-IP Protocol.md",
+                "file": "401/CS408/Routing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "401/CS408/TCP-IP Protocol.md"
+                "file": "401/CS408/Routing.md"
               }
             }
           },
@@ -166,21 +178,36 @@
   },
   "active": "8cd0bbe1c34bd058",
   "lastOpenFiles": [
+    "401/CS408/Routers.md",
+    "401/CS408/Routing.md",
+    "401/CS408/Internet Protocol (IP).md",
+    "IPv6.md",
+    "Attachments/RoutingHeader.png",
+    "Attachments/HopbyHopOptionsHeader.png",
+    "Attachments/FragmentHeaderFields.png",
+    "Attachments/IPV6Header.png",
+    "Attachments/IPv6.png",
+    "401/CS408/IPv4.md",
+    "401/CS408/ICMP.md",
+    "Attachments/Pasted image 20231223165439.png",
+    "Attachments/ICMPMeassageFormats.png",
     "401/CS408/Network Layer.md",
+    "Attachments/NetworkConfiguration.png",
+    "401/CS408/TCP-IP Protocol.md",
+    "401/CS408/IP Fragmentation.md",
+    "401/CS408/Subnets and Subnet Masks.md",
+    "Attachments/IPAddressFormats.png",
+    "Attachments/IPV4.png",
+    "401/CS408/TCP-IP Model.md",
     "401/CS408/00-CS408(Start Here).md",
-    "401/CS411/Attachments/RSAPSSGeneration.png",
-    "401/CS411/Attachments/RSAPSSVerification.png",
-    "Attachments/Pasted image 20231223135104.png",
-    "Attachments/Pasted image 20231216213910.png",
-    "Attachments/Pasted image 20231221173015.png",
-    "Attachments/Pasted image 20231216213853.png",
+    "401/CS408/Data Link Control Layer.md",
+    "401/CS408/Selective Reject ARQ.md",
+    "401/CS408/CSMA.md",
     "401/CS411/00-CS411(Start Here).md",
-    "401/CS411/Attachments/ECDSA.png",
     "401/CS411/Key Establishment.md",
     "401/CS411/Discrete Logarithm (DL).md",
     "401/CS411/Elliptic Curve Cryptography (ECC).md",
     "401/CS411/Digital Signature Algorithm (DSA).md",
-    "Attachments/ECDSA.png",
     "401/CS411/ElGamal.md",
     "401/CS411/Source Slides/CS411_507_Ch13_KeyEstablishment_202301.pdf",
     "401/CS411/Source Slides/CS411_507_Ch12_Secret_Sharing_202301_handout.pdf",
@@ -193,24 +220,9 @@
     "401/CS411/Source Slides/CS411_507_Ch7_PKC1_RSA_202301_handout.pdf",
     "401/CS411/Source Slides/CS411_507_Ch6_Hash_Functions_202301_handout.pdf",
     "401/CS411/Source Slides/CS411_507_Ch5_ Block_Ciphers.pdf",
-    "401/CS411/Attachments/RSASginatures.png",
     "401/CS411/OAEP.md",
     "401/CS411/RSA.md",
     "401/CS411/Subgroup.md",
-    "401/CS411/Attachments/ECDHKEyExchange.png",
-    "401/CS411/Secret Sharing.md",
-    "401/CS411/Diffie-Hellman Key Exchange.md",
-    "401/CS411/Primitive (Root) Elements.md",
-    "401/CS411/Group.md",
-    "ECC.md",
-    "401/CS411/Message Authentication Codes (MAC).md",
-    "401/CS411/AEAD.md",
-    "401/CS411/Zero Knowledge Protocols.md",
-    "Diffie-Hellman.md",
-    "401/CS411/Modular Exponentiation.md",
-    "401/CS408/Go-Back-N ARQ.md",
-    "401/CS408/Data Link Control Layer.md",
-    "401/CS408/Stop and Wait ARQ.md",
-    "401/CS408/ICMP.md"
+    "401/CS411/Secret Sharing.md"
   ]
 }

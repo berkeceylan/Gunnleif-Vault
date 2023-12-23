@@ -1,0 +1,23 @@
+### Subnetting:
+- **Purpose**: 
+	- To divide a larger network into smaller, interconnected networks called subnets.
+	- Allows efficient use of an IP address range within multiple LANs in an organization.
+- **Structure**
+	- Each LAN in an organization is considered a subnet within a larger network class.
+	- Multiple subnets appear as a single network to the external internet.
+- Each subnet is given a unique number to distinguish it from others.
+-  IP addresses within a subnet are split into two parts: 
+	- the subnet number
+	- the host number
+- **Local Routing**
+	- Routers are set up to direct traffic according to subnet numbers.
+	- Data is routed to the intended subnet based on its unique identifier.
+### Subnet Masks: 
+- **Purpose**:
+	- To specify which part of an IP address is the network/subnet address and which part is the host address.
+- **Structure**:
+	- A subnet mask contains 32 bits
+		- '1s' representing the network/subnet portion
+		- '0s' the host portion
+		- for example, "111...111000...0".
+- The number of '0s' indicates how many host addresses are available in the subnet
