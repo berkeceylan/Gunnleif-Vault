@@ -73,6 +73,7 @@ This is a navigation page for CS411 Cryptography Lesson
 		- [Miller-Rabin Algorithm](Miller-Rabin%20Algorithm.md)
 		- [Distribution of Primes](Distribution%20of%20Primes.md)
 		- [Modular Exponentiation](Modular%20Exponentiation.md)
+		- [OAEP](OAEP.md)
 	- [Discrete Logarithm (DL)](Discrete%20Logarithm%20(DL).md)
 		- [Diffie-Hellman Key Exchange](Diffie-Hellman%20Key%20Exchange.md)
 		- [ElGamal](ElGamal.md)

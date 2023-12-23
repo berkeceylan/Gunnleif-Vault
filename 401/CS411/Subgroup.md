@@ -9,4 +9,4 @@
 		- Since order of H divides order of $Z_{11}^*$ H is subgroup of Z
 		- Otherwise it was not a subgroup
 ### Usage in Cryptography:
-- Discrete Logarithm Problem([DL](DL)) are based on this mathematical background.
+- [Discrete Logarithm (DL)](Discrete%20Logarithm%20(DL).md) are based on this mathematical background.
