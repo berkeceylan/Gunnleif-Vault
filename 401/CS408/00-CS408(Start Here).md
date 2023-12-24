@@ -84,7 +84,12 @@ This is a navigation page for CS408 Computer Network Lesson
 		- LAPD
 		- [Logical Link Control (LLC)](Logical%20Link%20Control%20(LLC).md)
 - [Network Layer](Network%20Layer.md)
-	- IP protocol
-	- [ICMP](ICMP.md)
+	- [Internet Protocol (IP)](Internet%20Protocol%20(IP).md)
+		- [IPv4](IPv4.md)
+		- [IPv6](IPv6.md)
+		- [Routing](Routing.md)
+		- [Subnets and Subnet Masks](Subnets%20and%20Subnet%20Masks.md)
+		- [IP Fragmentation](IP%20Fragmentation.md)
+		- [ICMP](ICMP.md)
 
 

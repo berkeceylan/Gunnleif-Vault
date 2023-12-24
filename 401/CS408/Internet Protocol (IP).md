@@ -5,8 +5,8 @@
 - Core of [TCP-IP Protocol](TCP-IP%20Protocol.md) suite
 - Primary Protocol of [Network Layer](Network%20Layer.md)
 - **Types:**
-	- **[[IPv4]]**
-	- **[[IPv6]]** 
+	- **[IPv4](IPv4.md)**
+	- **[IPv6](IPv6.md)** 
 - Why we change IPv4 with IPv6?
 	- Address space exhaustion
 		- Two level addressing (network and host) wastes space
@@ -35,7 +35,7 @@
 			- Packets can take different routes
 ### Design Issues:
 - **[Routing](Routing.md)**:
-	- [[Subnets and Subnet Masks]] provide necessary structure for routing traffic appropriately within and between networks.
+	- [Subnets and Subnet Masks](Subnets%20and%20Subnet%20Masks.md) provide necessary structure for routing traffic appropriately within and between networks.
 	- End systems and routers maintain routing tables:
 		- Indicate next router to which datagram should be sent
 		- Routing Table Types:
@@ -57,7 +57,7 @@
 - **Fragmentation and Re-assembly**:
 	- Different maximum packet sizes for different networks
 		- routers need to split datagrams smaller fragments
-		- [[IP Fragmentation]]
+		- [IP Fragmentation](IP%20Fragmentation.md)
 	- Reassembly is done at destination only in IP 
 		- Reassembly may fail if some fragments get lost
 		- Reassembly time out:
@@ -85,7 +85,7 @@
 	- Primitives -> functions to be performed
 		- Send -> Request transmission of data unit
 		- Deliver -> Notify user of arrival of data unit
-		- ![IPService](../../Attachments/IPService.png)
+		- ![IPService](Attachments/IPService.png)
 	- Parameters -> used to pass data and control info
 		- Source IP address
 		- Destination IP address

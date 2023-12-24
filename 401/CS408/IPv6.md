@@ -2,7 +2,7 @@
 -  One of the types of [Internet Protocol (IP)](401/CS408/Internet%20Protocol%20(IP).md)
 - Uses a 128-bit addressing scheme. 
 - Newer and offers more addresses.
-- Not backward compatible with [IPv4](401/CS408/IPv4.md)
+- Not backward compatible with [IPv4](IPv4.md)
 ### Enhancements:
 - Expanded address space -> 128 bit
 - Improved option mechanism
@@ -60,10 +60,10 @@
 			- Otherwise limit to 1280 bytes -> 1280 is min bytes supported by each network
 	 ![](Attachments/FragmentHeaderFields.png)
 	- Next Header
-	- Fragmentation offset -> same as [IPv4](401/CS408/IPv4.md)
-	- More flag  -> same as [IPv4](401/CS408/IPv4.md)
-	- Identification -> same as [IPv4](401/CS408/IPv4.md)
-- **[Routing](401/CS408/Routing.md) Header:**
+	- Fragmentation offset -> same as [IPv4](IPv4.md)
+	- More flag  -> same as [IPv4](IPv4.md)
+	- Identification -> same as [IPv4](IPv4.md)
+- **[Routing](Routing.md) Header:**
 	- Similar to source routing
 	- List of intermediate nodes to be visited
 	- Base header contains the address of next router

@@ -6,7 +6,7 @@
 - Facilitating data transmission between different networks.
 - Responsible for logical IP addressing and routing, which determines the pathway for data packets across complex networks
 - Example Network Configuration:
-	- ![](../../Attachments/NetworkConfiguration.png)
+	- ![](Attachments/NetworkConfiguration.png)
 ### Properties:
 - **Routing and Forwarding**: 
 	- Handles the routing of data by finding the best path for packet delivery through a network.

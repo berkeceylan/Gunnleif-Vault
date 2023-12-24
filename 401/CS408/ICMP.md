@@ -12,4 +12,4 @@
 	- e.g. datagram discarded, router’s buffer full
 - Some simple applications can be implemented using ICMP
 	- e.g. ping, traceroute
-![](../../Attachments/ICMPMeassageFormats.png)
+![](Attachments/ICMPMeassageFormats.png)

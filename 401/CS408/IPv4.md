@@ -3,7 +3,7 @@
 - Uses a 32-bit addressing scheme. 
 - Most commonly used IP version
 - Used by [The Internet](The%20Internet.md)
-- Will be replaced by [IPv6](../../IPv6.md) eventually 
+- Will be replaced by [IPv6](IPv6.md) eventually 
 - Specifies protocol format and mechanisms
 ### Packet Fields:
 #### Header Field:
@@ -24,7 +24,7 @@
 | Options                                                                 | Variable length, not always used                                                                           |
 | Padding                                                                 | To fill to multiple of 32 bits long                                                                        |
 
-![IPV4|500](../../Attachments/IPV4.png)
+![IPV4|500](Attachments/IPV4.png)
 #### Data Field:
 - User (upper layer) data
 - Any octet length is OK
