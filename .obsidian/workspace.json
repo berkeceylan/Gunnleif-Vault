@@ -166,8 +166,15 @@
   },
   "active": "b8c1f5971b09cf1a",
   "lastOpenFiles": [
-    "401/CS408/IPv4.md",
+    "401/CS408/Interior Routing Protocols (IRP).md",
+    "Area.md",
+    "Attachments/Pasted image 20231224143638.png",
+    "401/CS408/Autonomous Systems (AS).md",
+    "Attachments/AS.png",
     "401/CS408/Routing.md",
+    "401/CS408/Exterior Routing Protocols (ERP).md",
+    "Attachments/IRP&ERP.png",
+    "401/CS408/IPv4.md",
     "401/CS408/00-CS408(Start Here).md",
     "401/CS408/Internet Protocol (IP).md",
     "401/CS408/Routers.md",
@@ -181,12 +188,9 @@
     "Attachments/Pasted image 20231223165439.png",
     "401/CS408/Attachments/ICMPMeassageFormats.png",
     "401/CS408/Network Layer.md",
-    "401/CS408/Attachments/NetworkConfiguration.png",
     "401/CS408/TCP-IP Protocol.md",
     "401/CS408/IP Fragmentation.md",
     "401/CS408/Subnets and Subnet Masks.md",
-    "401/CS408/Attachments/IPAddressFormats.png",
-    "401/CS408/Attachments/IPV4.png",
     "401/CS408/TCP-IP Model.md",
     "401/CS408/Data Link Control Layer.md",
     "401/CS408/Selective Reject ARQ.md",
@@ -207,10 +211,6 @@
     "401/CS411/Attachments/CS411_507_Ch8_PKC2_DL_202301_handout.pdf",
     "401/CS411/Source Slides/CS411_507_Ch7_PKC1_RSA_202301_handout.pdf",
     "401/CS411/Source Slides/CS411_507_Ch6_Hash_Functions_202301_handout.pdf",
-    "401/CS411/Source Slides/CS411_507_Ch5_ Block_Ciphers.pdf",
-    "401/CS411/OAEP.md",
-    "401/CS411/RSA.md",
-    "401/CS411/Subgroup.md",
-    "401/CS411/Secret Sharing.md"
+    "401/CS411/Source Slides/CS411_507_Ch5_ Block_Ciphers.pdf"
   ]
 }

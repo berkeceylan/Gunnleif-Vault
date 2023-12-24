@@ -1,0 +1,23 @@
+- Collection of contiguous networks and hosts plus routers connected them
+- Similar to [Autonomous Systems (AS)](401/CS408/Autonomous%20Systems%20(AS).md) but smaller version
+- Make large autonomous systems more manageable
+- Configured as a backbone and multiple areas
+	- networks and routers that connect multiple areas as a central hub
+	- Like a star topology
+- Each area runs a separate copy of the link state algorithm
+	- Topological database and graph of just that area
+	- Link state information broadcast to other routers in area
+	- Reduces traffic
+	- Intra-area (within area) routing relies solely on local link state information
+- **Inter-Area Routing**
+	- Path consists of three legs
+		- Within source area
+			- Intra-area
+			- Delivers to the backbone
+		- Through backbone
+			- Has properties of an area
+			- Uses [Link-State Routing Method](401/CS408/Routing.md#Link-State%20Routing%20Method)
+			- Delivers to the destination area
+		- Within destination area
+			- Intra-area
+			- Delivers to recipient
