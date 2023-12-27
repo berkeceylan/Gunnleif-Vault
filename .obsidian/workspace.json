@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "401/CS408/ALOHA.md",
+                "file": "401/CS408/00-CS408(Start Here).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "401/CS408/ALOHA.md",
+                "file": "401/CS408/00-CS408(Start Here).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "401/CS408/ALOHA.md",
+                "file": "401/CS408/00-CS408(Start Here).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "401/CS408/ALOHA.md"
+                "file": "401/CS408/00-CS408(Start Here).md"
               }
             }
           },
@@ -164,8 +164,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "50c5009fd0526b76",
+  "active": "b8c1f5971b09cf1a",
   "lastOpenFiles": [
+    "401/CS408/ALOHA.md",
     "401/CS408/Asynchronous (dynamic) Solutions.md",
     "401/CS408/00-CS408(Start Here).md",
     "401/CS408/Data Link Control Layer.md",
@@ -201,7 +202,6 @@
     "401/CS411/Key Establishment.md",
     "401/CS411/Discrete Logarithm (DL).md",
     "401/CS411/Elliptic Curve Cryptography (ECC).md",
-    "401/CS411/Digital Signature Algorithm (DSA).md",
     "401/CS411/Source Slides/CS411_507_Ch13_KeyEstablishment_202301.pdf",
     "401/CS411/Source Slides/CS411_507_Ch12_Secret_Sharing_202301_handout.pdf",
     "401/CS411/Source Slides/CS411_507_Ch11_Zero_Knowledge_202301_handout.pdf",
