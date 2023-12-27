@@ -16,7 +16,7 @@
 			- Delivers to the backbone
 		- Through backbone
 			- Has properties of an area
-			- Uses [Link-State Routing Method](401/CS408/Routing.md#Link-State%20Routing%20Method)
+			- Uses [Link-State Routing Method](Routing.md#Link-State%20Routing%20Method)
 			- Delivers to the destination area
 		- Within destination area
 			- Intra-area

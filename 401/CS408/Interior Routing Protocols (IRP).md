@@ -33,7 +33,7 @@
 	- RIP metrics are very simple and might cause suboptimal routes to be formed
 - OSPF is preferred interior routing protocol for [TCP-IP Protocol](TCP-IP%20Protocol.md) based internets
 - Router maintains the state (i.e. cost) of local links
-- Transmits updated state information to all routers in [Autonomous Systems (AS)](Autonomous%20Systems%20(AS).md) or in [[Area]] 
+- Transmits updated state information to all routers in [Autonomous Systems (AS)](Autonomous%20Systems%20(AS).md) or in [Area](Area.md) 
 - Router receiving update must acknowledge
 - Each router maintains a database that reflects the topology
 	- Directed graph

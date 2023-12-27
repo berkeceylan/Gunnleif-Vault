@@ -7,7 +7,7 @@
 - Under the control of a single entity (like ISP)
 - Communication inside AS = [Interior Routing Protocols (IRP)](Interior%20Routing%20Protocols%20(IRP).md)
 - Communication between AS = [Exterior Routing Protocols (ERP)](Exterior%20Routing%20Protocols%20(ERP).md)
-- ![IRP&ERP|500](../../Attachments/IRP&ERP.png)
+- ![IRP&ERP|500](Attachments/IRP&ERP.png)
 ### Sample AS:
 - For more diagrams about directed graph and spanning tree check the related slide
-![](../../Attachments/AS.png)
+![](Attachments/AS.png)

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "401/CS408/Routing.md",
+                "file": "401/CS408/ALOHA.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "401/CS408/Routing.md",
+                "file": "401/CS408/ALOHA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "401/CS408/Routing.md",
+                "file": "401/CS408/ALOHA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "401/CS408/Routing.md"
+                "file": "401/CS408/ALOHA.md"
               }
             }
           },
@@ -164,18 +164,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b8c1f5971b09cf1a",
+  "active": "50c5009fd0526b76",
   "lastOpenFiles": [
+    "401/CS408/Asynchronous (dynamic) Solutions.md",
+    "401/CS408/00-CS408(Start Here).md",
+    "401/CS408/Data Link Control Layer.md",
+    "401/CS408/DNS Operation.md",
+    "401/CS408/Routing.md",
     "401/CS408/Interior Routing Protocols (IRP).md",
-    "Area.md",
+    "401/CS408/Area.md",
     "Attachments/Pasted image 20231224143638.png",
     "401/CS408/Autonomous Systems (AS).md",
-    "Attachments/AS.png",
-    "401/CS408/Routing.md",
+    "401/CS408/Attachments/AS.png",
     "401/CS408/Exterior Routing Protocols (ERP).md",
-    "Attachments/IRP&ERP.png",
+    "401/CS408/Attachments/IRP&ERP.png",
     "401/CS408/IPv4.md",
-    "401/CS408/00-CS408(Start Here).md",
     "401/CS408/Internet Protocol (IP).md",
     "401/CS408/Routers.md",
     "401/CS408/IPv6.md",
@@ -192,7 +195,6 @@
     "401/CS408/IP Fragmentation.md",
     "401/CS408/Subnets and Subnet Masks.md",
     "401/CS408/TCP-IP Model.md",
-    "401/CS408/Data Link Control Layer.md",
     "401/CS408/Selective Reject ARQ.md",
     "401/CS408/CSMA.md",
     "401/CS411/00-CS411(Start Here).md",
@@ -200,12 +202,10 @@
     "401/CS411/Discrete Logarithm (DL).md",
     "401/CS411/Elliptic Curve Cryptography (ECC).md",
     "401/CS411/Digital Signature Algorithm (DSA).md",
-    "401/CS411/ElGamal.md",
     "401/CS411/Source Slides/CS411_507_Ch13_KeyEstablishment_202301.pdf",
     "401/CS411/Source Slides/CS411_507_Ch12_Secret_Sharing_202301_handout.pdf",
     "401/CS411/Source Slides/CS411_507_Ch11_Zero_Knowledge_202301_handout.pdf",
     "401/CS411/Source Slides/CS411_507_Ch1_Introduction_202301_handout.pdf",
-    "401/CS411/RSA Signatures.md",
     "401/CS411/Source Slides/CS411_507_Ch10_ECC_202301_handout.pdf",
     "401/CS411/Attachments/CS411_507_Ch9_Digital_Signatures_202301_handout.pdf",
     "401/CS411/Attachments/CS411_507_Ch8_PKC2_DL_202301_handout.pdf",
