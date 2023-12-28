@@ -8,7 +8,7 @@
 - Defined in RFC 1034 (concepts)
 - RFC 1035 (implementation)
 - DNS operates at the [Application Layer](Application%20Layer.md).
-- Uses mainly [IP (Internet Protocol)](TCP-IP%20Protocol.md#IP%20(Internet%20Protocol)) and [UDP](UDP) connection
+- Uses mainly [IP (Internet Protocol)](TCP-IP%20Protocol.md#IP%20(Internet%20Protocol)) and [UDP](UDP.md) connection
 - A Typical [DNS Operation](DNS%20Operation.md) can be seen here
 ### Structure
 - **Domain Name Space**:

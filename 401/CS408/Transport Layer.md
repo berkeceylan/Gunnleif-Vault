@@ -1,1 +1,24 @@
 #NotFinished 
+### Definition:
+- Fourth Layer of [OSI Model](OSI%20Model.md) (Open Systems Interconnection)
+- Corresponding the transport layer in [[TCP-IP Model]]
+- Provides end-to end data transfer
+- Shields upper layer application protocols from the details of networks
+- Two types:
+	- Connection Based:
+		- Logical connection between end users
+			- Connection Establishment
+			- Data Transfer
+			- Connection Termination
+		- Reliable Service
+	- Connectionless:
+		- Unreliable
+- Two main protocols:
+	- [[TCP]]: 
+		- Complicated flow and error control since the [Network (IP) Layer](Network%20(IP)%20Layer.md) is unreliable
+		- Complex
+		- Connection oriented
+	- [[UDP]]:
+		- Basic 
+		- Connectionless
+- 

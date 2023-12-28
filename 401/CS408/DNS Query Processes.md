@@ -13,4 +13,4 @@ Used in [DNS Operation](DNS%20Operation.md)
 **nslookup**: A command-line tool for querying the DNS to obtain domain name or IP address mapping.
 **Active and Passive Mode**: DNS supports both active querying and passive responses for efficient data retrieval.
 **Remark1**: The name servers learns about the next one in the hierarchy using the glue records.
-**Remark**2: Queries and responses are sent over [UDP](UDP) 
+**Remark**2: Queries and responses are sent over [UDP](UDP.md) 
