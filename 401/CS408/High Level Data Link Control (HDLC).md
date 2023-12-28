@@ -125,7 +125,7 @@
 - **Disconnect:**
 	- Send disconnect (DISC) frame
 	- Remote entity must accept by replying with UA
-	- Informs layer 3 ([Network Layer](Network%20Layer.md)) user about the termination of connection
+	- Informs layer 3 ([Network (IP) Layer](Network%20(IP)%20Layer.md)yer.md)) user about the termination of connection
 	- These frames are unnumbered frames
 ### Examples Of Operation:
 ![](Attachments/HDLCoperation1.png)

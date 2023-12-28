@@ -1,4 +1,3 @@
-#NotFinished 
 ### Definition:
 - A few routers in each AS must talk with other AS
 - does not deal with details within source and target autonomous systems

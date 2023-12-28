@@ -1,9 +1,4 @@
 {
-  "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "Attachments",
-  "strictLineBreaks": false,
-  "showLineNumber": false,
-  "useMarkdownLinks": true,
   "newLinkFormat": "relative"
 }

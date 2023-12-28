@@ -1,6 +1,6 @@
 ### Defintion:
 - Collection of [Internet Protocol (IP)](Internet%20Protocol%20(IP).md) networks and [Routers](Routers.md) 
-	- Exchange [Routing](.md) information in itself
+	- Exchange [Routing](Routing.md)  information in itself
 	- Common routing protocol
 - Autonomous Systems must be connected in itself
 	- there exist at least one routs connect two nodes to each other in network

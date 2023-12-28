@@ -1,4 +1,3 @@
-#NotFinished  
 ### Definition:
 - A type of Flow Control Method in [Data Link Control Layer](Data%20Link%20Control%20Layer.md)
 - Can send multiple packets (difference from Stop and Wait)

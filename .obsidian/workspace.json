@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "401/CS408/00-CS408(Start Here).md",
+                "file": "401/CS408/Interior Routing Protocols (IRP).md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "b832fc81c7bf6959",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "401/CS408/00-CS408(Start Here).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "401/CS408/00-CS408(Start Here).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "401/CS408/00-CS408(Start Here).md"
-              }
+              "state": {}
             }
           },
           {
@@ -144,9 +149,17 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "a5ebc964788a1ffc",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -164,44 +177,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b8c1f5971b09cf1a",
+  "active": "b832fc81c7bf6959",
   "lastOpenFiles": [
+    "401/CS408/Exterior Routing Protocols (ERP).md",
+    "401/CS408/Sliding Window.md",
+    "401/CS408/Stop and Wait.md",
+    "401/CS408/Data Link Control Layer.md",
+    "401/CS411/Digital Signature Algorithm (DSA).md",
+    "401/CS411/00-CS411(Start Here).md",
+    "401/CS408/00-CS408(Start Here).md",
+    "401/CS408/Autonomous Systems (AS).md",
+    "Attachments/mermaid-diagram-2023-11-18-114935.png",
+    "Attachments/Pasted image 20231216213853.png",
+    "Attachments/Pasted image 20231224143638.png",
+    "Attachments/Pasted image 20231223165439.png",
+    "Attachments/Pasted image 20231223135104.png",
+    "Attachments/Pasted image 20231216213910.png",
+    "401/CS408/Transport Layer.md",
+    "401/CS408/Network (IP) Layer.md",
+    "401/CS408/OSI Model.md",
+    "401/CS408/Protocols.md",
+    "401/CS408/Interior Routing Protocols (IRP).md",
+    "401/CS408/Routing.md",
+    "401/CS411/ElGamal.md",
+    "401/CS411/Diffie-Hellman Key Exchange.md",
+    "401/CS411/Secret Sharing.md",
+    "401/CS411/Zero Knowledge Protocols.md",
+    "401/CS411/Elliptic Curve Cryptography (ECC).md",
+    "401/CS411/AEAD.md",
+    "401/CS411/Cryptographic Hash Functions.md",
+    "401/CS411/OFB.md",
+    "401/CS411/OAEP.md",
     "401/CS408/ALOHA.md",
     "401/CS408/Asynchronous (dynamic) Solutions.md",
-    "401/CS408/00-CS408(Start Here).md",
-    "401/CS408/Data Link Control Layer.md",
     "401/CS408/DNS Operation.md",
-    "401/CS408/Routing.md",
-    "401/CS408/Interior Routing Protocols (IRP).md",
-    "401/CS408/Area.md",
-    "Attachments/Pasted image 20231224143638.png",
-    "401/CS408/Autonomous Systems (AS).md",
     "401/CS408/Attachments/AS.png",
-    "401/CS408/Exterior Routing Protocols (ERP).md",
     "401/CS408/Attachments/IRP&ERP.png",
-    "401/CS408/IPv4.md",
-    "401/CS408/Internet Protocol (IP).md",
-    "401/CS408/Routers.md",
-    "401/CS408/IPv6.md",
     "401/CS408/Attachments/RoutingHeader.png",
     "401/CS408/Attachments/HopbyHopOptionsHeader.png",
-    "401/CS408/Attachments/FragmentHeaderFields.png",
-    "401/CS408/Attachments/IPV6Header.png",
-    "401/CS408/Attachments/IPv6.png",
-    "401/CS408/ICMP.md",
-    "Attachments/Pasted image 20231223165439.png",
-    "401/CS408/Attachments/ICMPMeassageFormats.png",
-    "401/CS408/Network Layer.md",
-    "401/CS408/TCP-IP Protocol.md",
-    "401/CS408/IP Fragmentation.md",
-    "401/CS408/Subnets and Subnet Masks.md",
-    "401/CS408/TCP-IP Model.md",
-    "401/CS408/Selective Reject ARQ.md",
-    "401/CS408/CSMA.md",
-    "401/CS411/00-CS411(Start Here).md",
-    "401/CS411/Key Establishment.md",
-    "401/CS411/Discrete Logarithm (DL).md",
-    "401/CS411/Elliptic Curve Cryptography (ECC).md",
     "401/CS411/Source Slides/CS411_507_Ch13_KeyEstablishment_202301.pdf",
     "401/CS411/Source Slides/CS411_507_Ch12_Secret_Sharing_202301_handout.pdf",
     "401/CS411/Source Slides/CS411_507_Ch11_Zero_Knowledge_202301_handout.pdf",

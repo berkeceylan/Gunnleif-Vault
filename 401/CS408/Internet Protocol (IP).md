@@ -3,7 +3,7 @@
 - Connectionless 
 - Best-effort delivery model
 - Core of [TCP-IP Protocol](TCP-IP%20Protocol.md) suite
-- Primary Protocol of [Network Layer](Network%20Layer.md)
+- Primary Protocol of [Network (IP) Layer](Network%20(IP)%20Layer.md)yer.md)
 - **Types:**
 	- **[IPv4](IPv4.md)**
 	- **[IPv6](IPv6.md)** 

@@ -1,6 +1,6 @@
-#NotFinished 
 ### Definition:
 - Third layer in the [OSI Model](OSI%20Model.md) (Open Systems Interconnection) model.
+- Corresponding to IP Layer in [TCP-IP Model](TCP-IP%20Model.md)
 - Primary protocol is [IP Protocol](TCP-IP%20Protocol.md)
 	- common to all routers
 - Facilitating data transmission between different networks.
