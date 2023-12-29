@@ -6,7 +6,7 @@
       {
         "id": "3369c0ca04f58f23",
         "type": "tabs",
-        "dimension": 50.64469914040115,
+        "dimension": 67.19626168224299,
         "children": [
           {
             "id": "b832fc81c7bf6959",
@@ -25,7 +25,7 @@
       {
         "id": "3ec50da5beff576b",
         "type": "tabs",
-        "dimension": 49.355300859598856,
+        "dimension": 32.80373831775701,
         "children": [
           {
             "id": "8c787b3b1bccb299",
@@ -196,8 +196,8 @@
   "active": "b832fc81c7bf6959",
   "lastOpenFiles": [
     "401/CS408/TCP.md",
-    "Pasted image 20231228201039.png",
     "401/CS408/Transport Layer.md",
+    "Pasted image 20231228201039.png",
     "401/CS408/00-CS408(Start Here).md",
     "401/CS408/Network (IP) Layer.md",
     "401/CS408/Internet Protocol (IP).md",
