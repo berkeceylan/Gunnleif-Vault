@@ -149,6 +149,40 @@
 			- ACK for a new segment with the same seq. number
 		- Sequence number space must be large enough in order not to cycle within maximum lifetime of a segment 
 	- Case2: Duplicate received after closing connection
+		- Solution: having sequence numbers in connection establishment and using distant initial sequence numbers in adjacent connections
 - **Flow control:**
+	- Credit allocation scheme is robust and flexible
+		- it is possible to increase credit without ack 
+			- after (AN = i, W = j)
+			- send (AN = i, W = k), k > j
+		- it is possible to ack without extra credit
+			- after (AN = i, W = j)
+			- send (AN = i + m, W = j - m)
+			- m = acknowledged segment length
+	- Lost ACK/CREDIT is not a problem
+		- future ACKs resynchronize the protocol
+		- lost ack causes timeout and retransmission -> retransmission triggers ack
+	- Possible deadlock:
+	- receiver temporarily closes window with AN=i, W=0
+	- later reopens with AN=i, W=j, but this is lost
+	- Sender thinks window is still closed, receiver thinks it is open
+	- Solution: window timer
+		- timer employed for each outgoing ACK/CREDIT segment
+		- timer expires if no new ACK/CREDIT segments are sent within the timeout period
+		- if timer expires, retransmit the previous ACK/CREDIT segment
 - **Connection establishment:**
+	- Two way handshake
+		- A sends SYN, B replies with SYN
+		- Lost SYN handled by retransmissions via some timers
+		- May cause to duplicate SYNs -> Ignore duplicate SYNs once connected
+		- Delayed data segments can cause connection problems
+		- **Obsolete Data Segment Problem:**
+			- -------need editing-------
+			- **Issue**: There is a potential problem where data segments from an old connection might be confused with segments from a new connection if they happen to have overlapping sequence numbers.
+			- **Solution**: To prevent this, the first segment number of the new connection must be significantly different from the last segment number of the previous connection. This is to ensure there is no overlap, and old data segments are clearly identifiable as obsolete.
+		- **Obsolete SYN Problem:**
+			- -------need editing-------
+			- **Issue**: A similar problem to the data segment issue, where a SYN segment from an old connection attempt could be delayed and then mistakenly appear to initiate a new connection.
+			- **Solution**: Acknowledgments (ACKs) should include the SYN number i from the request plus 1 (AN=i+1). This helps to ensure that the acknowledgment is for the correct SYN segment.
+			- Three way handshake
 - **Connection termination:**
