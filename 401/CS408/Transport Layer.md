@@ -21,7 +21,7 @@
 	- [[UDP]]:
 		- Basic 
 		- Connectionless
-### Design Issues (assume reliable Network Service ):
+### Design Issues (assume reliable Network Service)
 - **Addressing and Multiplexing:**
 	- Multiple application protocol uses one transport layer
 		- Users are multiplexed
@@ -98,7 +98,7 @@
 			- i.e. octets up to and including i+j-1
 			- Not to be added to the remaining credit
 			- Credit is not automatically refilled with ACK
-### Design Issues (assume unreliable Network Service ):
+### Design Issues (assume unreliable Network Service)
 - Typical Case
 - Uses [Internet Protocol (IP)](Internet%20Protocol%20(IP).md)
 	- Segments may lost
