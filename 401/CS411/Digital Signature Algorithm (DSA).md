@@ -43,5 +43,4 @@
 		- Otherwise not accept
 ### Security:
 - [Birthday Attack](Birthday%20Attack.md) can be used to break hashes so sufficient bit lengths must be used.
-- For example case pf this attack implementation look at the slide Digital Signatures page 14-16
-	- [CS411_507_Ch9_Digital_Signatures_202301_handout](Attachments/CS411_507_Ch9_Digital_Signatures_202301_handout.pdf)
+	- For example cases of this attack implementation look at the slide Digital Signatures page 14-16 [CS411_507_Ch9_Digital_Signatures_202301_handout](Attachments/CS411_507_Ch9_Digital_Signatures_202301_handout.pdf)

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "401/CS408/00-CS408(Start Here).md",
+                "file": "401/CS411/00-CS411(Start Here).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "401/CS408/00-CS408(Start Here).md",
+                "file": "401/CS411/00-CS411(Start Here).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "401/CS408/00-CS408(Start Here).md",
+                "file": "401/CS411/00-CS411(Start Here).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "401/CS408/00-CS408(Start Here).md"
+                "file": "401/CS411/00-CS411(Start Here).md"
               }
             }
           },
@@ -174,6 +174,8 @@
   },
   "active": "b832fc81c7bf6959",
   "lastOpenFiles": [
+    "401/CS411/Digital Signature Algorithm (DSA).md",
+    "401/CS411/00-CS411(Start Here).md",
     "401/CS408/00-CS408(Start Here).md",
     "401/CS408/Switches.md",
     "401/CS408/Subnets and Subnet Masks.md",
@@ -198,8 +200,6 @@
     "401/CS408/Physical Layer.md",
     "401/CS408/Protocols.md",
     "401/CS408/Performance Metrics.md",
-    "401/CS408/OSI Model.md",
-    "401/CS408/Option Negotiation.md",
     "401/CS408/Attachments/TCPHeader.png",
     "401/CS408/Attachments/Service Primitives.png",
     "401/CS408/Attachments/ConnectionEstablishment.png",
