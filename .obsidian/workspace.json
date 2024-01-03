@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "401/CS408/TCP.md",
+                "file": "401/CS408/00-CS408(Start Here).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "401/CS408/TCP.md",
+                "file": "401/CS408/00-CS408(Start Here).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "401/CS408/TCP.md",
+                "file": "401/CS408/00-CS408(Start Here).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "401/CS408/TCP.md"
+                "file": "401/CS408/00-CS408(Start Here).md"
               }
             }
           },
@@ -154,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -174,41 +174,42 @@
   },
   "active": "b832fc81c7bf6959",
   "lastOpenFiles": [
-    "401/CS408/Transport Layer.md",
-    "401/CS408/Unreliable Network Service in TL.md",
+    "401/CS408/00-CS408(Start Here).md",
+    "401/CS408/Switches.md",
+    "401/CS408/Subnets and Subnet Masks.md",
+    "401/CS408/Stop and Wait ARQ.md",
+    "401/CS408/Stop and Wait.md",
+    "401/CS408/Star Topology.md",
+    "401/CS408/Standards and Organizations.md",
+    "401/CS408/SSH.md",
+    "401/CS408/Socket.md",
+    "401/CS408/SMTP.md",
+    "401/CS408/Sliding Window.md",
+    "401/CS408/Selective Reject ARQ.md",
+    "401/CS408/Routing.md",
+    "401/CS408/Routers.md",
+    "401/CS408/Ring Topology.md",
+    "401/CS408/Right-of-Way.md",
+    "401/CS408/Resource Record (RR).md",
+    "401/CS408/Remote Terminal Access.md",
     "401/CS408/Reliable Network Service in TL.md",
+    "401/CS408/Relaying.md",
+    "401/CS408/Packet Switching.md",
+    "401/CS408/Physical Layer.md",
+    "401/CS408/Protocols.md",
+    "401/CS408/Performance Metrics.md",
+    "401/CS408/OSI Model.md",
+    "401/CS408/Option Negotiation.md",
+    "401/CS408/Attachments/TCPHeader.png",
+    "401/CS408/Attachments/Service Primitives.png",
     "401/CS408/Attachments/ConnectionEstablishment.png",
     "401/CS408/Attachments/Connection Termnatiob.png",
     "401/CS408/Attachments/ThreeWayHandshake.png",
     "Pasted image 20231228201039.png",
-    "401/CS408/TCP.md",
-    "401/CS408/00-CS408(Start Here).md",
-    "401/CS408/Network (IP) Layer.md",
-    "401/CS408/Internet Protocol (IP).md",
-    "401/CS408/TCP-IP Protocol.md",
-    "401/CS408/UDP.md",
-    "401/CS408/OSI Model.md",
-    "401/CS408/Protocols.md",
-    "401/CS411/Digital Signature Algorithm (DSA).md",
-    "401/CS408/Exterior Routing Protocols (ERP).md",
-    "401/CS408/Sliding Window.md",
-    "401/CS408/Stop and Wait.md",
-    "401/CS408/Data Link Control Layer.md",
-    "401/CS411/00-CS411(Start Here).md",
-    "401/CS408/Autonomous Systems (AS).md",
     "Attachments/mermaid-diagram-2023-11-18-114935.png",
     "Attachments/Pasted image 20231216213853.png",
     "Attachments/Pasted image 20231224143638.png",
     "Attachments/Pasted image 20231223165439.png",
-    "Attachments/Pasted image 20231223135104.png",
-    "Attachments/Pasted image 20231216213910.png",
-    "401/CS408/Interior Routing Protocols (IRP).md",
-    "401/CS408/Routing.md",
-    "401/CS411/ElGamal.md",
-    "401/CS411/Diffie-Hellman Key Exchange.md",
-    "401/CS411/Secret Sharing.md",
-    "401/CS411/Zero Knowledge Protocols.md",
-    "401/CS411/Elliptic Curve Cryptography (ECC).md",
     "401/CS411/Source Slides/CS411_507_Ch13_KeyEstablishment_202301.pdf",
     "401/CS411/Source Slides/CS411_507_Ch12_Secret_Sharing_202301_handout.pdf",
     "401/CS411/Source Slides/CS411_507_Ch11_Zero_Knowledge_202301_handout.pdf",

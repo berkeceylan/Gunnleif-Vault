@@ -84,7 +84,7 @@ This is a navigation page for CS408 Computer Network Lesson
 		- LAPD
 		- [Logical Link Control (LLC)](Logical%20Link%20Control%20(LLC).md)
 - [Network (IP) Layer](Network%20(IP)%20Layer.md)
-	- [Internet Protocol (IP)](Internet%20Protocol%20(IP).md)
+	- [IP](IP.md)
 		- [IPv4](IPv4.md)
 		- [IPv6](IPv6.md)
 		- [Routing](Routing.md)
@@ -96,4 +96,8 @@ This is a navigation page for CS408 Computer Network Lesson
 		- [IP Fragmentation](IP%20Fragmentation.md)
 		- [ICMP](ICMP.md)
 - [Transport Layer](Transport%20Layer.md)
+	- [Reliable Network Service in TL](Reliable%20Network%20Service%20in%20TL.md)
+	- [Unreliable Network Service in TL](Unreliable%20Network%20Service%20in%20TL.md) 
+	- [[TCP]]
+	- [[UDP]]
 

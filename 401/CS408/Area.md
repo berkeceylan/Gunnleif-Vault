@@ -1,5 +1,5 @@
 - Collection of contiguous networks and hosts plus routers connected them
-- Similar to [Autonomous Systems (AS)](401/CS408/Autonomous%20Systems%20(AS).md) but smaller version
+- Similar to [Autonomous Systems (AS)](Autonomous%20Systems%20(AS).md) but smaller version
 - Make large autonomous systems more manageable
 - Configured as a backbone and multiple areas
 	- networks and routers that connect multiple areas as a central hub

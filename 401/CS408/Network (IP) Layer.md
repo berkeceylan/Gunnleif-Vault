@@ -1,7 +1,7 @@
 ### Definition:
 - Third layer in the [OSI Model](OSI%20Model.md) (Open Systems Interconnection) model.
 - Corresponding to IP Layer in [TCP-IP Model](TCP-IP%20Model.md)
-- Primary protocol is [Internet Protocol (IP)](Internet%20Protocol%20(IP).md)
+- Primary protocol is [IP](IP.md)
 	- common to all routers
 - Facilitating data transmission between different networks.
 - Responsible for logical IP addressing and routing, which determines the pathway for data packets across complex networks

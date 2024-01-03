@@ -1,6 +1,6 @@
 ## Routing In IP
 ### Definition:
-- Process of directing data packets from a source to a destination in an [Internet Protocol (IP)](Internet%20Protocol%20(IP).md) network
+- Process of directing data packets from a source to a destination in an [IP](IP.md) network
 - Uses  [Routers](Routers.md) to forward data
 - To make packet forwarding decisions **Routing Tables** are used
 - Determines the best path based on network topology and protocols

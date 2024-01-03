@@ -1,5 +1,5 @@
 ### Defintion:
-- Collection of [Internet Protocol (IP)](Internet%20Protocol%20(IP).md) networks and [Routers](Routers.md) 
+- Collection of [IP](IP.md) networks and [Routers](Routers.md) 
 	- Exchange [Routing](Routing.md)  information in itself
 	- Common routing protocol
 - Autonomous Systems must be connected in itself

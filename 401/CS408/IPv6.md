@@ -1,5 +1,5 @@
 ### Definition:
--  One of the types of [Internet Protocol (IP)](401/CS408/Internet%20Protocol%20(IP).md)
+-  One of the types of [IP](IP.md)
 - Uses a 128-bit addressing scheme. 
 - Newer and offers more addresses.
 - Not backward compatible with [IPv4](IPv4.md)

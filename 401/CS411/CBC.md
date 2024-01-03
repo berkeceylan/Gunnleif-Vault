@@ -30,4 +30,4 @@
 - **Cons**: 
 	- Encryption cannot be parallelized due to the chaining mechanism.
 - **Usage**: 
-	- Widely used in secure data transmission protocols like SSL/TLS for [HTTP](HTTP.md).
+	- Widely used in secure data transmission protocols like SSL/TLS for [HTTP](../CS408/HTTP.md).

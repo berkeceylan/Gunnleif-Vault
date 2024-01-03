@@ -1,7 +1,7 @@
 ### Design Issues in Transport Layer
 - One of the design issues in [Transport Layer](Transport%20Layer.md)
 - Case assumption: assume unreliable Network Service
-- Typical Case ->Uses [Internet Protocol (IP)](Internet%20Protocol%20(IP).md)
+- Typical Case ->Uses [IP](IP.md)
 	- Segments may lost
 	- Segments may arrive out of order
 ## Ordered Delivery:

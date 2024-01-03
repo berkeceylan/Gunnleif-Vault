@@ -1,4 +1,4 @@
-- One of the design issues of [Internet Protocol (IP)](401/CS408/Internet%20Protocol%20(IP).md)
+- One of the design issues of [IP](IP.md)
 - Different maximum packet sizes for different networks
 	- routers need to split datagrams smaller fragmentation
 - Uses fields in header

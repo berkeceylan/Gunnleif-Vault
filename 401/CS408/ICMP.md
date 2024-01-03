@@ -2,7 +2,7 @@
 
 ### Definition:
 - RFC 792
-- Sister protocol of [Internet Protocol (IP)](Internet%20Protocol%20(IP).md)
+- Sister protocol of [IP](IP.md)
 	- All IP implementations should also implement ICMP
 	- Encapsulated in IP datagram
 		- Thus not reliable

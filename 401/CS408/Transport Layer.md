@@ -1,4 +1,3 @@
-#NotFinished 
 ### Definition:
 - Fourth Layer of [OSI Model](OSI%20Model.md) (Open Systems Interconnection)
 - Corresponding the transport layer in [TCP-IP Model](TCP-IP%20Model.md)
