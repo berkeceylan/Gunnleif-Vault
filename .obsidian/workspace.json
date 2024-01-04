@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "401/CS411/00-CS411(Start Here).md",
+                "file": "401/CS411/Forward Secrecy.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "401/CS411/00-CS411(Start Here).md",
+                "file": "401/CS411/Forward Secrecy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "401/CS411/00-CS411(Start Here).md",
+                "file": "401/CS411/Forward Secrecy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "401/CS411/00-CS411(Start Here).md"
+                "file": "401/CS411/Forward Secrecy.md"
               }
             }
           },
@@ -174,8 +174,16 @@
   },
   "active": "b832fc81c7bf6959",
   "lastOpenFiles": [
-    "401/CS411/Digital Signature Algorithm (DSA).md",
+    "401/CS411/Key Establishment Protocols.md",
+    "401/CS411/Station-to-Station Protocol.md",
+    "401/CS411/Forward Secrecy.md",
+    "401/CS411/Man-in-the-Middle Attack.md",
+    "401/CS411/Diffie-Hellman Key Exchange.md",
+    "401/CS411/Attachments/stationToStationProtocol.png",
+    "Attachments/manInTheMiddleAttack.png",
+    "Attachments/16367d56d860b344887308188c0c2e0090543cfe.pdf",
     "401/CS411/00-CS411(Start Here).md",
+    "401/CS411/Digital Signature Algorithm (DSA).md",
     "401/CS408/00-CS408(Start Here).md",
     "401/CS408/Switches.md",
     "401/CS408/Subnets and Subnet Masks.md",
@@ -195,11 +203,6 @@
     "401/CS408/Resource Record (RR).md",
     "401/CS408/Remote Terminal Access.md",
     "401/CS408/Reliable Network Service in TL.md",
-    "401/CS408/Relaying.md",
-    "401/CS408/Packet Switching.md",
-    "401/CS408/Physical Layer.md",
-    "401/CS408/Protocols.md",
-    "401/CS408/Performance Metrics.md",
     "401/CS408/Attachments/TCPHeader.png",
     "401/CS408/Attachments/Service Primitives.png",
     "401/CS408/Attachments/ConnectionEstablishment.png",
@@ -208,8 +211,6 @@
     "Pasted image 20231228201039.png",
     "Attachments/mermaid-diagram-2023-11-18-114935.png",
     "Attachments/Pasted image 20231216213853.png",
-    "Attachments/Pasted image 20231224143638.png",
-    "Attachments/Pasted image 20231223165439.png",
     "401/CS411/Source Slides/CS411_507_Ch13_KeyEstablishment_202301.pdf",
     "401/CS411/Source Slides/CS411_507_Ch12_Secret_Sharing_202301_handout.pdf",
     "401/CS411/Source Slides/CS411_507_Ch11_Zero_Knowledge_202301_handout.pdf",
@@ -218,7 +219,6 @@
     "401/CS411/Attachments/CS411_507_Ch9_Digital_Signatures_202301_handout.pdf",
     "401/CS411/Attachments/CS411_507_Ch8_PKC2_DL_202301_handout.pdf",
     "401/CS411/Source Slides/CS411_507_Ch7_PKC1_RSA_202301_handout.pdf",
-    "401/CS411/Source Slides/CS411_507_Ch6_Hash_Functions_202301_handout.pdf",
-    "401/CS411/Source Slides/CS411_507_Ch5_ Block_Ciphers.pdf"
+    "401/CS411/Source Slides/CS411_507_Ch6_Hash_Functions_202301_handout.pdf"
   ]
 }

@@ -82,4 +82,4 @@ This is a navigation page for CS411 Cryptography Lesson
 - [Digital Signature Algorithm (DSA)](Digital%20Signature%20Algorithm%20(DSA).md) 
 - [Zero Knowledge Protocols](Zero%20Knowledge%20Protocols.md) 
 - [Secret Sharing](Secret%20Sharing.md) 
-- [Key Establishment](Key%20Establishment.md)
+- [Key Establishment Protocols](Key%20Establishment%20Protocols.md)
