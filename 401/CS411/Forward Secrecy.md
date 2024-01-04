@@ -1,4 +1,3 @@
-#NotFinished 
 ### Definition:
 - A secure communication protocol is said to have forward secrecy 
 	- If long term key is founded/stolen -> attacker should not be able to read past messages/information that exchanged.

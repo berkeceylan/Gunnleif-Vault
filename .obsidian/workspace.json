@@ -11,12 +11,8 @@
             "id": "b832fc81c7bf6959",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "401/CS411/Key Establishment Protocols.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "401/CS411/Key Establishment Protocols.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "401/CS411/Key Establishment Protocols.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "401/CS411/Key Establishment Protocols.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,12 +166,14 @@
   },
   "active": "b832fc81c7bf6959",
   "lastOpenFiles": [
-    "401/CS411/Conference Keying.md",
+    "401/CS411/CBC.md",
+    "401/CS408/Routers.md",
+    "401/CS411/Forward Secrecy.md",
     "401/CS411/Key Establishment Protocols.md",
+    "401/CS411/Conference Keying.md",
     "401/CS411/Station-to-Station Protocol.md",
     "401/CS411/Man-in-the-Middle Attack.md",
     "401/CS411/Attachments/MultipartyDHKey Exchange.png",
-    "401/CS411/Forward Secrecy.md",
     "401/CS411/Diffie-Hellman Key Exchange.md",
     "401/CS411/Attachments/stationToStationProtocol.png",
     "401/CS411/Attachments/manInTheMiddleAttack.png",
@@ -199,7 +193,6 @@
     "401/CS408/Sliding Window.md",
     "401/CS408/Selective Reject ARQ.md",
     "401/CS408/Routing.md",
-    "401/CS408/Routers.md",
     "401/CS408/Ring Topology.md",
     "401/CS408/Right-of-Way.md",
     "401/CS408/Resource Record (RR).md",
