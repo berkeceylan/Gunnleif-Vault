@@ -7,6 +7,6 @@
 - Protocols:
 	- [TCP](TCP.md)  -> Connection based / reliable used in [Transport Layer](Transport%20Layer.md)
 	- [UDP](UDP.md) -> Connectionless / Unreliable used in [Transport Layer](Transport%20Layer.md)
-	- [[IP]] -> Core of Suite used in [Network (IP) Layer](Network%20(IP)%20Layer.md)
+	- [IP](IP.md) -> Core of Suite used in [Network (IP) Layer](Network%20(IP)%20Layer.md)
 ### Example of Protocols:
 ![](Attachments/Protocols.png)

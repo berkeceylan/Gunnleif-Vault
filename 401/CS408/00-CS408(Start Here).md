@@ -98,6 +98,6 @@ This is a navigation page for CS408 Computer Network Lesson
 - [Transport Layer](Transport%20Layer.md)
 	- [Reliable Network Service in TL](Reliable%20Network%20Service%20in%20TL.md)
 	- [Unreliable Network Service in TL](Unreliable%20Network%20Service%20in%20TL.md) 
-	- [[TCP]]
-	- [[UDP]]
+	- [TCP](TCP.md)
+	- [UDP](UDP.md)
 

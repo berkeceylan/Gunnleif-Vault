@@ -1,0 +1,51 @@
+### Definition:
+- Make possible secure key distribution for n people in a efficient way
+- Based on [Diffie-Hellman Key Exchange](Diffie-Hellman%20Key%20Exchange.md)
+### Operation:
+- **Setup:**
+	- We have t users
+	- Prime p and q -> p > q
+	- Generator g in $G_q$
+- **Partial Key Generation:**
+	- User $U_i$ selects a random integer $1 < r_i < q$
+	- User $U_i$ computes $z_i = g^{r_i} \mod p$
+	- User $U_i$ sends $z_i$ to $U_{i-1 \mod t} \text{ and } U_{i+1 \mod t}$
+- **Computation of key:**
+	- Each user $U_i$ after receiving $z_{i-1} \text{ and } z_{i+1}$ computes
+		- $\large x_i = g^{r_{i+1}r_i-r_{i-1}r_i}$
+	-  Each user $U_i$ broadcast $x_i$
+	- After receiving $x_j -> 1 \leq j \leq t -> j \neq t$
+	-  Each user $U_i$ computes
+		- $\large K = (z_{i-1})^{tr_i}(x_{i})^{t-1}(x_{i+1})^{t-2}\dots(x_{i+(t-1)})^{1}\mod p$
+![MultipartyDHKey Exchange|500](Attachments/MultipartyDHKey%20Exchange.png)
+### Example:
+- Four users = $U_0,U_1,U_2,U_3$
+- They select randomly = $r_0,r_1,r_2,r_3$
+- They compute:
+	- $z_0 = g^{r_0} \mod p$
+	- $z_1 = g^{r_1} \mod p$
+	- $z_2 = g^{r_2} \mod p$
+	- $z_3 = g^{r_3} \mod p$
+- User $U_0-z_0-> U_3,U_1$ 
+	- Computes :
+		- $U_0: x_0 = g^{\large r_1r_0-r_3r_0} \mod p$
+		- Broadcast $x_0$
+- User $U_1-z_1-> U_0,U_2$ 
+	- Computes :
+		- $U_1: x_1 = g^{\large r_2r_1-r_0r_1} \mod p$
+		- Broadcast $x_1$
+- User $U_2-z_2-> U_1,U_3$ 
+	- Computes:
+		- $U_2: x_2 = g^{\large r_3r_2-r_1r_2} \mod p$
+		- Broadcast $x_2$
+- User $U_3-z_3-> U_2,U_0$ 
+	- Computes:
+		- $U_3: x_3 = g^{\large r_0r_3-r_2r_3} \mod p$
+		- Broadcast $x_3$
+- After all receiving all broadcasted $x_i$
+	- $U_0: K_0 = (z_3)^{4r_0}(x_0)^3(x_1)^2(x_2)^1 \mod p$
+	- $U_1:K_1 = (z_0)^{4r_1}(x_1)^3(x_2)^2(x_3)^1 \mod p$
+	- $U_2:K_2 = (z_1)^{4r_2}(x_2)^3(x_3)^2(x_0)^1 \mod p$
+	- $U_3:K_3 = (z_2)^{4r_3}(x_3)^3(x_0)^2(x_1)^1 \mod p$
+- So if we calculate each $K_i$ we get same K which is
+	- $\large K = g^{\huge r_3r_0+r_1r_0+r_2r_1+r_3r_2} \mod p$
