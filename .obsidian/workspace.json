@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "401/CS411/Forward Secrecy.md",
+                "file": "Conference Keying.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "401/CS411/Forward Secrecy.md",
+                "file": "Conference Keying.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "401/CS411/Forward Secrecy.md",
+                "file": "Conference Keying.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "401/CS411/Forward Secrecy.md"
+                "file": "Conference Keying.md"
               }
             }
           },
@@ -175,8 +175,9 @@
   "active": "b832fc81c7bf6959",
   "lastOpenFiles": [
     "401/CS411/Key Establishment Protocols.md",
-    "401/CS411/Station-to-Station Protocol.md",
+    "Conference Keying.md",
     "401/CS411/Forward Secrecy.md",
+    "401/CS411/Station-to-Station Protocol.md",
     "401/CS411/Man-in-the-Middle Attack.md",
     "401/CS411/Diffie-Hellman Key Exchange.md",
     "401/CS411/Attachments/stationToStationProtocol.png",
@@ -202,7 +203,6 @@
     "401/CS408/Right-of-Way.md",
     "401/CS408/Resource Record (RR).md",
     "401/CS408/Remote Terminal Access.md",
-    "401/CS408/Reliable Network Service in TL.md",
     "401/CS408/Attachments/TCPHeader.png",
     "401/CS408/Attachments/Service Primitives.png",
     "401/CS408/Attachments/ConnectionEstablishment.png",

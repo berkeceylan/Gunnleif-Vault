@@ -2,6 +2,7 @@
 ### Definition:
 - **Problem:**
 	- Distribution and the security of the keys is a big problem
+		- [[Conference Keying]] can securely distribute keys n number of user
 	- Even the algorithm is secure we may unable to distribute or protect keys over a network
 - **Solution?:**
 	- Using [PKC](PKC.md)
