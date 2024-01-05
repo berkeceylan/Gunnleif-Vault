@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "401/CS411/Authentication using Symmetric Encryption.md",
+                "file": "X.509 Certificates.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "401/CS411/Authentication using Symmetric Encryption.md",
+                "file": "X.509 Certificates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "401/CS411/Authentication using Symmetric Encryption.md",
+                "file": "X.509 Certificates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "401/CS411/Authentication using Symmetric Encryption.md"
+                "file": "X.509 Certificates.md"
               }
             }
           },
@@ -174,9 +174,17 @@
   },
   "active": "b832fc81c7bf6959",
   "lastOpenFiles": [
+    "Certificates.md",
     "401/CS411/Key Establishment Protocols.md",
+    "401/CS411/Needham-Schroeder Protocol.md",
+    "401/CS411/Key Distribution Center (KDC).md",
+    "401/CS411/Kerberos.md",
+    "Public Key Infrastructure (PKI).md",
+    "X.509 Certificates.md",
+    "401/CS411/Attachments/kerberosService.png",
+    "401/CS411/Attachments/kerberosAuthenticaiton.png",
+    "Attachments/kerberosRoles.png",
     "401/CS411/Station-to-Station Protocol.md",
-    "401/CS411/Authentication using Symmetric Encryption.md",
     "401/CS411/CBC.md",
     "401/CS408/Routers.md",
     "401/CS411/Forward Secrecy.md",
@@ -199,18 +207,10 @@
     "401/CS408/SSH.md",
     "401/CS408/Socket.md",
     "401/CS408/SMTP.md",
-    "401/CS408/Sliding Window.md",
-    "401/CS408/Selective Reject ARQ.md",
-    "401/CS408/Routing.md",
-    "401/CS408/Ring Topology.md",
-    "401/CS408/Right-of-Way.md",
     "401/CS408/Attachments/TCPHeader.png",
     "401/CS408/Attachments/Service Primitives.png",
     "401/CS408/Attachments/ConnectionEstablishment.png",
     "401/CS408/Attachments/Connection Termnatiob.png",
-    "401/CS408/Attachments/ThreeWayHandshake.png",
-    "Pasted image 20231228201039.png",
-    "Attachments/mermaid-diagram-2023-11-18-114935.png",
     "401/CS411/Source Slides/CS411_507_Ch13_KeyEstablishment_202301.pdf",
     "401/CS411/Source Slides/CS411_507_Ch12_Secret_Sharing_202301_handout.pdf",
     "401/CS411/Source Slides/CS411_507_Ch11_Zero_Knowledge_202301_handout.pdf",
