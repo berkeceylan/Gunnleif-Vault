@@ -12,4 +12,13 @@
 		- Has [Forward Secrecy](Forward%20Secrecy.md)
 	- 
 ### Key Distribution:
+- Problem with key pre-distribution protocols:
+	- Keys are predetermined and not easily changed
+	- Keys must be changed after certain time
+- Solution: Transport protocols
+	- A class of key establishment protocols
+	- Two approaches:
+		- One party to decide on a key and transmit it to other
+		- A trusted authority will act as a key server
+			- [[Authentication using Symmetric Encryption]]
 
