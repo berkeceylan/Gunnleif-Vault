@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "X.509 Certificates.md",
+                "file": "401/CS411/Certificates.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1821093412a19afd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "401/CS411/Certificate Revocation List (CRL).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7286dba039e61f6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "401/CS411/X.509 Certificates.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "X.509 Certificates.md",
+                "file": "401/CS411/Certificates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "X.509 Certificates.md",
+                "file": "401/CS411/Certificates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "X.509 Certificates.md"
+                "file": "401/CS411/Certificates.md"
               }
             }
           },
@@ -174,43 +198,43 @@
   },
   "active": "b832fc81c7bf6959",
   "lastOpenFiles": [
-    "Certificates.md",
+    "401/CS411/Online Certificate Status Protocol (OCSP).md",
+    "401/CS411/Certificates.md",
+    "401/CS411/Certificate Revocation List (CRL).md",
+    "401/CS411/X.509 Certificates.md",
     "401/CS411/Key Establishment Protocols.md",
+    "401/CS411/00-CS411(Start Here).md",
+    "401/CS411/Digital Signature Algorithm (DSA).md",
+    "401/CS411/SSL-TLS.md",
+    "401/CS411/Message Authentication Codes (MAC).md",
+    "401/CS411/Attachments/tlsEphemeralDH.png",
+    "401/CS411/Attachments/ssl-tlsRsa.png",
+    "401/CS411/Attachments/recordProtocol.png",
+    "401/CS411/OAEP.md",
+    "401/CS411/Authentication with Encryption.md",
+    "401/CS411/Asynchronous Stream Ciphers.md",
+    "401/CS411/Semantic Security.md",
+    "401/CS411/RSA.md",
+    "401/CS411/Cryptographic Hash Functions.md",
+    "401/CS411/AEAD.md",
+    "401/CS411/Attachments/TLS-SSLhandshake.png",
+    "401/CS411/Attachments/SSL-TLS.png",
+    "401/CS411/PKC.md",
+    "401/CS411/BMA.md",
+    "401/CS411/CFB.md",
+    "401/CS411/Public Key Infrastructure (PKI).md",
+    "401/CS411/Attachments/X509chainofcertificates.png",
+    "401/CS411/Attachments/X509format.png",
     "401/CS411/Needham-Schroeder Protocol.md",
     "401/CS411/Key Distribution Center (KDC).md",
     "401/CS411/Kerberos.md",
-    "Public Key Infrastructure (PKI).md",
-    "X.509 Certificates.md",
     "401/CS411/Attachments/kerberosService.png",
     "401/CS411/Attachments/kerberosAuthenticaiton.png",
     "Attachments/kerberosRoles.png",
     "401/CS411/Station-to-Station Protocol.md",
     "401/CS411/CBC.md",
     "401/CS408/Routers.md",
-    "401/CS411/Forward Secrecy.md",
-    "401/CS411/Conference Keying.md",
-    "401/CS411/Man-in-the-Middle Attack.md",
-    "401/CS411/Attachments/MultipartyDHKey Exchange.png",
-    "401/CS411/Diffie-Hellman Key Exchange.md",
-    "401/CS411/Attachments/stationToStationProtocol.png",
-    "401/CS411/Attachments/manInTheMiddleAttack.png",
     "Attachments/16367d56d860b344887308188c0c2e0090543cfe.pdf",
-    "401/CS411/00-CS411(Start Here).md",
-    "401/CS411/Digital Signature Algorithm (DSA).md",
-    "401/CS408/00-CS408(Start Here).md",
-    "401/CS408/Switches.md",
-    "401/CS408/Subnets and Subnet Masks.md",
-    "401/CS408/Stop and Wait ARQ.md",
-    "401/CS408/Stop and Wait.md",
-    "401/CS408/Star Topology.md",
-    "401/CS408/Standards and Organizations.md",
-    "401/CS408/SSH.md",
-    "401/CS408/Socket.md",
-    "401/CS408/SMTP.md",
-    "401/CS408/Attachments/TCPHeader.png",
-    "401/CS408/Attachments/Service Primitives.png",
-    "401/CS408/Attachments/ConnectionEstablishment.png",
-    "401/CS408/Attachments/Connection Termnatiob.png",
     "401/CS411/Source Slides/CS411_507_Ch13_KeyEstablishment_202301.pdf",
     "401/CS411/Source Slides/CS411_507_Ch12_Secret_Sharing_202301_handout.pdf",
     "401/CS411/Source Slides/CS411_507_Ch11_Zero_Knowledge_202301_handout.pdf",

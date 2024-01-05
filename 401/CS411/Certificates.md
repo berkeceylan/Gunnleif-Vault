@@ -1,0 +1,28 @@
+### Defintion:
+- A part of [Public Key Infrastructure (PKI)](Public%20Key%20Infrastructure%20(PKI).md)
+- A method of key management in [Key Establishment Protocols](Key%20Establishment%20Protocols.md)
+- Certificate contains information signed by its publisher
+	- Publisher = Certification Authority (CA)
+- There are different types of certificates
+	- Identity certificates 
+		- contains entity’s identity information such as e-mail address, and a list of public keys for the entity
+		- We are working on this in the lesson scope
+	- Credential certificates 
+		- contain information describing access rights.
+- Data in certificates is signed by the CA
+	- If Alice knows the public key of the CA
+	- she can extract with assurance Bob’s identity +public keys from his certificate
+- More trusted CA can certify less trusted CA
+- **Types:**
+	- [[X.509 Certificates]]
+### Revocation:
+- Certificates expire (intentionally) because:
+	- The user’s private key is (suspected to be) compromised
+	- The user is no longer certified by this CA
+	- The CA’s certificate is (suspected to be) compromised
+- Along with the certificates, certificate revocation list (CRL) is posted to the directory
+- CRL is signed by the issuer
+- When a user receives a certificate, it also checks the CRL to see if the certificate is still valid
+- Methods:
+	- [[Certificate Revocation List (CRL)]]
+	- [[Online Certificate Status Protocol (OCSP)]]
