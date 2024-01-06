@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "401/CS411/Certificates.md",
+                "file": "401/CS408/00-CS408(Start Here).md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "401/CS411/Certificates.md",
+                "file": "401/CS408/00-CS408(Start Here).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "401/CS411/Certificates.md",
+                "file": "401/CS408/00-CS408(Start Here).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "401/CS411/Certificates.md"
+                "file": "401/CS408/00-CS408(Start Here).md"
               }
             }
           },
@@ -198,8 +198,9 @@
   },
   "active": "b832fc81c7bf6959",
   "lastOpenFiles": [
-    "401/CS411/Online Certificate Status Protocol (OCSP).md",
+    "401/CS408/Congestion Control.md",
     "401/CS411/Certificates.md",
+    "401/CS411/Online Certificate Status Protocol (OCSP).md",
     "401/CS411/Certificate Revocation List (CRL).md",
     "401/CS411/X.509 Certificates.md",
     "401/CS411/Key Establishment Protocols.md",
@@ -233,7 +234,6 @@
     "Attachments/kerberosRoles.png",
     "401/CS411/Station-to-Station Protocol.md",
     "401/CS411/CBC.md",
-    "401/CS408/Routers.md",
     "Attachments/16367d56d860b344887308188c0c2e0090543cfe.pdf",
     "401/CS411/Source Slides/CS411_507_Ch13_KeyEstablishment_202301.pdf",
     "401/CS411/Source Slides/CS411_507_Ch12_Secret_Sharing_202301_handout.pdf",
