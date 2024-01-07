@@ -102,3 +102,6 @@ This is a navigation page for CS408 Computer Network Lesson
 	- [UDP](UDP.md)
 - [Congestion Control](Congestion%20Control.md)
 - [TCP Traffic Control](TCP%20Traffic%20Control.md)
+	- [Jacobson’s Algorithm](Jacobson’s%20Algorithm.md)
+	- [Karn’s Algorithm](Karn’s%20Algorithm.md)
+	- [Exponential RTO Backoff Algorithm](Exponential%20RTO%20Backoff%20Algorithm.md)

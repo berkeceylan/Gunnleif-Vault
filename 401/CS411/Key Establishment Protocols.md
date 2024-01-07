@@ -1,4 +1,3 @@
-#NotFinished 
 ### Definition:
 - **Problem:**
 	- Distribution and the security of the keys is a big problem

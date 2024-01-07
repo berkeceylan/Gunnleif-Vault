@@ -23,12 +23,8 @@
             "id": "fbf79d2403522f64",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "401/CS408/Exponential RTO Backoff Algorithm.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -98,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "401/CS408/Exponential RTO Backoff Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "401/CS408/Exponential RTO Backoff Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "401/CS408/Exponential RTO Backoff Algorithm.md"
-              }
+              "state": {}
             }
           },
           {
@@ -185,16 +177,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "50c5009fd0526b76",
+  "active": "fbf79d2403522f64",
   "lastOpenFiles": [
+    "2024-01-07.md",
+    "401/CS411/Key Establishment Protocols.md",
+    "401/CS408/00-CS408(Start Here).md",
     "401/CS408/TCP Traffic Control.md",
+    "401/CS408/Exponential RTO Backoff Algorithm.md",
     "401/CS408/Attachments/TCPSegmentPacing.png",
     "401/CS408/Attachments/ECNOparation.png",
-    "401/CS408/00-CS408(Start Here).md",
     "401/CS408/Congestion Control.md",
     "401/CS408/Attachments/DynamicWindowSizingonCongestion.png",
     "401/CS408/Jacobson’s Algorithm.md",
-    "401/CS408/Exponential RTO Backoff Algorithm.md",
     "401/CS408/Karn’s Algorithm.md",
     "401/CS408/TCP.md",
     "401/CS408/Transport Layer.md",
@@ -202,7 +196,6 @@
     "401/CS411/Online Certificate Status Protocol (OCSP).md",
     "401/CS411/Certificate Revocation List (CRL).md",
     "401/CS411/X.509 Certificates.md",
-    "401/CS411/Key Establishment Protocols.md",
     "401/CS411/00-CS411(Start Here).md",
     "401/CS411/Digital Signature Algorithm (DSA).md",
     "401/CS411/SSL-TLS.md",
