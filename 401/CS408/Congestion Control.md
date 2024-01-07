@@ -41,7 +41,7 @@
 	- arrive faster than that can be transmitted -> output buffers will fill up
 - **Precautions:**
 	- Discard packets ->packets are lost not good
-	- Flow control over neighbors -> Inform the neighbour's about congestion control flow.
+	- Flow control over neighbors -> Inform the neighbours about congestion control flow.
 - **Methods:**
 	- **Backpressure:**
 		- If node becomes congested

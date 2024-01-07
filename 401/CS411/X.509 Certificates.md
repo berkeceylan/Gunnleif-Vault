@@ -3,7 +3,7 @@
 - Designed to provide authentication services on large computer networks
 - Initially issued in 1988 
 - Specifies public-key certificate format
-- Used in Visa and Mastercard’s SET standard, in S/MIME, IP Security, and [[SSL-TLS]]
+- Used in Visa and Mastercard’s SET standard, in S/MIME, IP Security, and [SSL-TLS](SSL-TLS.md)
 ### Format:
 - CA<<\A>> : the certificate of user A issued by certification authority CA.  
 	- How we know public key of CA? -> they share theşr key by browser developers

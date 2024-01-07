@@ -13,37 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "401/CS408/00-CS408(Start Here).md",
+                "file": "401/CS408/TCP Traffic Control.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1821093412a19afd",
+            "id": "fbf79d2403522f64",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "401/CS411/Certificate Revocation List (CRL).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7286dba039e61f6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "401/CS411/X.509 Certificates.md",
+                "file": "401/CS408/Exponential RTO Backoff Algorithm.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "401/CS408/00-CS408(Start Here).md",
+                "file": "401/CS408/Exponential RTO Backoff Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "401/CS408/00-CS408(Start Here).md",
+                "file": "401/CS408/Exponential RTO Backoff Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "401/CS408/00-CS408(Start Here).md"
+                "file": "401/CS408/Exponential RTO Backoff Algorithm.md"
               }
             }
           },
@@ -178,7 +167,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -196,9 +185,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b832fc81c7bf6959",
+  "active": "50c5009fd0526b76",
   "lastOpenFiles": [
+    "401/CS408/TCP Traffic Control.md",
+    "401/CS408/Attachments/TCPSegmentPacing.png",
+    "401/CS408/Attachments/ECNOparation.png",
+    "401/CS408/00-CS408(Start Here).md",
     "401/CS408/Congestion Control.md",
+    "401/CS408/Attachments/DynamicWindowSizingonCongestion.png",
+    "401/CS408/Jacobson’s Algorithm.md",
+    "401/CS408/Exponential RTO Backoff Algorithm.md",
+    "401/CS408/Karn’s Algorithm.md",
+    "401/CS408/TCP.md",
+    "401/CS408/Transport Layer.md",
     "401/CS411/Certificates.md",
     "401/CS411/Online Certificate Status Protocol (OCSP).md",
     "401/CS411/Certificate Revocation List (CRL).md",
@@ -221,19 +220,8 @@
     "401/CS411/Attachments/TLS-SSLhandshake.png",
     "401/CS411/Attachments/SSL-TLS.png",
     "401/CS411/PKC.md",
-    "401/CS411/BMA.md",
-    "401/CS411/CFB.md",
-    "401/CS411/Public Key Infrastructure (PKI).md",
     "401/CS411/Attachments/X509chainofcertificates.png",
     "401/CS411/Attachments/X509format.png",
-    "401/CS411/Needham-Schroeder Protocol.md",
-    "401/CS411/Key Distribution Center (KDC).md",
-    "401/CS411/Kerberos.md",
-    "401/CS411/Attachments/kerberosService.png",
-    "401/CS411/Attachments/kerberosAuthenticaiton.png",
-    "Attachments/kerberosRoles.png",
-    "401/CS411/Station-to-Station Protocol.md",
-    "401/CS411/CBC.md",
     "Attachments/16367d56d860b344887308188c0c2e0090543cfe.pdf",
     "401/CS411/Source Slides/CS411_507_Ch13_KeyEstablishment_202301.pdf",
     "401/CS411/Source Slides/CS411_507_Ch12_Secret_Sharing_202301_handout.pdf",

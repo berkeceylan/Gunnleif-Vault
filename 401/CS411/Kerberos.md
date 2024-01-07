@@ -29,7 +29,7 @@
 		- After Cliff logins to the system -> Grant issues him a ticket to use any particular service
 		- Cliff presents his credentials (issued by Trent) to Grant to get this new ticket
 		- Ticket contains information, from which Cliff and Simon generates a shared 
-	- ![kerberosRoles](../../Attachments/kerberosRoles.png)
+	- ![kerberosRoles](Attachments/kerberosRoles.png)
 ### Operation:
 - $K_{AB}$ = key that entity A and entity B share
 	- $K_{TG}$ = key Grant and Trent share

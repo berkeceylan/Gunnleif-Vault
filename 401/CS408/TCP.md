@@ -8,6 +8,7 @@
 	- Provides error-checking to ensure data integrity.
 	- Reliable
 ### Properties:
+- [TCP Traffic Control](TCP%20Traffic%20Control.md)
 -  **Service Primitives and Parameters:**
 	- Layer-to-layer services are defined in terms of primitives and parameters
 	- Primitive specifies function to be performed
@@ -21,7 +22,7 @@
 	- Items passed to IP
 	- Payload length
 		- TCP Payload Length = Total Length - (IP Header Length + TCP Header Length)
-- Difficulties:
+- **Difficulties:**
 	- Segments may arrive out of order
 		- SN in TCP header helps to reorder
 	- Segments may be lost
@@ -29,7 +30,7 @@
 		- TCP retransmits lost segments (after timeout)
 			- Save copy in segment buffer until acknowledged
 		- !!! No negative acknowledgment in TCP
-- Special Capabilities:
+- **Special Capabilities:**
 	- Data stream push
 		- Normal case 
 			- While sending -> buffers data until enough data available to form a segment 
@@ -98,13 +99,13 @@
 	- Segments contain sequence number of the first byte
 	- Flow control by credit allocation of number of bytes
 	- TCP decides when to construct a segment -> exception: push flag
-- Connection termination
+- **Connection Termination:**
 	- Graceful close
 		- Prevent losing data -> all outstanding data will be transferred  before closing 
 		- TCP user issues CLOSE primitive
 		- Transport entity sets FIN flag on last segment sent
 	- Abrupt termination 
-		-  data might be lose
+		- Data might be lose
 		- ABORT primitive issued by TCP user
 		- TCP entity abandons all attempts to send or receive data
 		- RST segment transmitted

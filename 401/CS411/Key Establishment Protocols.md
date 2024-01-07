@@ -25,14 +25,14 @@
 	- Two approaches:
 		- One party to decide on a key and transmit it to other
 		- A trusted authority will act as a key server
-			- [[Key Distribution Center (KDC)]]
+			- [Key Distribution Center (KDC)](Key%20Distribution%20Center%20(KDC).md)
 - **Protocols:**
 	- [Needham-Schroeder Protocol](Needham-Schroeder%20Protocol.md)
 	- [Kerberos](Kerberos.md)
 ### Key Management:
 - Use of Public Key Cryptography ([PKC](PKC.md)) to distribute secret keys
 	- public/private key as a master key
-- [[Public Key Infrastructure (PKI)]]
+- [Public Key Infrastructure (PKI)](Public%20Key%20Infrastructure%20(PKI).md)
 - How can I make sure about the legitimacy of a public key?
 	- Public Announcement
 		- Broadcast your public key to the public via forums, mailing lists, from personal website, whatsapp, social media, etc.
@@ -43,5 +43,5 @@
 		- If administered thoroughly, this method is good.
 		- However, a proper administration is difficult. 
 		- Secure mechanisms for registration, update and delete is required.
-	- [[Certificates]]
+	- [Certificates](Certificates.md)
 

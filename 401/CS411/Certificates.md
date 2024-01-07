@@ -14,7 +14,7 @@
 	- she can extract with assurance Bob’s identity +public keys from his certificate
 - More trusted CA can certify less trusted CA
 - **Types:**
-	- [[X.509 Certificates]]
+	- [X.509 Certificates](X.509%20Certificates.md)
 ### Revocation:
 - Certificates expire (intentionally) because:
 	- The user’s private key is (suspected to be) compromised
@@ -24,5 +24,5 @@
 - CRL is signed by the issuer
 - When a user receives a certificate, it also checks the CRL to see if the certificate is still valid
 - Methods:
-	- [[Certificate Revocation List (CRL)]]
-	- [[Online Certificate Status Protocol (OCSP)]]
+	- [Certificate Revocation List (CRL)](Certificate%20Revocation%20List%20(CRL).md)
+	- [Online Certificate Status Protocol (OCSP)](Online%20Certificate%20Status%20Protocol%20(OCSP).md)

@@ -5,5 +5,5 @@
 	- KDC generates session keys used for connections between parties  
 	- Master keys are used to distribute these session keys in a secure way
 - Protocols:
-	- [[Needham-Schroeder Protocol]]
-	- [[Kerberos]]
+	- [Needham-Schroeder Protocol](Needham-Schroeder%20Protocol.md)
+	- [Kerberos](Kerberos.md)
